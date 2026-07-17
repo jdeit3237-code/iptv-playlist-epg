@@ -75,7 +75,7 @@ jobs:
             f.write('#EXTM3U x-tvg-url="https://jdeit3237-code.github.io/iptv-playlist-epg/florida_keys_live.xml"\n')
             for i, feed in enumerate(results, 1):
                 tvg_id = f"fk_{i:02d}"
-                f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{feed["name"]}" group-title="{feed["category"]}"\n')
+                f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{feed["name"]}" group-title="{feed["category"]}",{feed["name"]}\n')
                 f.write(f'{feed["url"]}\n')
         
         now = datetime.utcnow()
