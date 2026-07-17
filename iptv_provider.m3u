@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="provider-entertainment" tvg-name="Entertainment" group-title="IPTV Playlists" tvg-logo="",Entertainment (342 channels)
+#PLAYLIST:https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_entertainment.m3u|https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_entertainment.xml
+https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_entertainment.m3u
+#EXTINF:-1 tvg-chno="1" tvg-id="provider-other" tvg-name="Other" group-title="IPTV Playlists" tvg-logo="",Other (371 channels)
+#PLAYLIST:https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_other.m3u|https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_other.xml
+https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_other.m3u
+#EXTINF:-1 tvg-chno="1" tvg-id="provider-news" tvg-name="News" group-title="IPTV Playlists" tvg-logo="",News (102 channels)
+#PLAYLIST:https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_news.m3u|https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_news.xml
+https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_news.m3u
+#EXTINF:-1 tvg-chno="1" tvg-id="provider-family" tvg-name="Family" group-title="IPTV Playlists" tvg-logo="",Family (65 channels)
+#PLAYLIST:https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_family.m3u|https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_family.xml
+https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_family.m3u
+#EXTINF:-1 tvg-chno="1" tvg-id="provider-sports" tvg-name="Sports" group-title="IPTV Playlists" tvg-logo="",Sports (40 channels)
+#PLAYLIST:https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_sports.m3u|https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_sports.xml
+https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_sports.m3u
+#EXTINF:-1 tvg-chno="1" tvg-id="provider-kids" tvg-name="Kids" group-title="IPTV Playlists" tvg-logo="",Kids (38 channels)
+#PLAYLIST:https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_kids.m3u|https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_kids.xml
+https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_kids.m3u
+#EXTINF:-1 tvg-chno="1" tvg-id="provider-education" tvg-name="Education" group-title="IPTV Playlists" tvg-logo="",Education (15 channels)
+#PLAYLIST:https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_education.m3u|https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_education.xml
+https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_education.m3u
+#EXTINF:-1 tvg-chno="1" tvg-id="provider-religion" tvg-name="Religion" group-title="IPTV Playlists" tvg-logo="",Religion (17 channels)
+#PLAYLIST:https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_religion.m3u|https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_religion.xml
+https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_religion.m3u
+#EXTINF:-1 tvg-chno="1" tvg-id="provider-lifestyle" tvg-name="Lifestyle" group-title="IPTV Playlists" tvg-logo="",Lifestyle (9 channels)
+#PLAYLIST:https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_lifestyle.m3u|https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_lifestyle.xml
+https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_lifestyle.m3u
+#EXTINF:-1 tvg-chno="1" tvg-id="provider-comedy" tvg-name="Comedy" group-title="IPTV Playlists" tvg-logo="",Comedy (9 channels)
+#PLAYLIST:https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_comedy.m3u|https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_comedy.xml
+https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_comedy.m3u
+#EXTINF:-1 tvg-chno="1" tvg-id="provider-cooking" tvg-name="Cooking" group-title="IPTV Playlists" tvg-logo="",Cooking (10 channels)
+#PLAYLIST:https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_cooking.m3u|https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_cooking.xml
+https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_cooking.m3u
+#EXTINF:-1 tvg-chno="1" tvg-id="provider-government" tvg-name="Government" group-title="IPTV Playlists" tvg-logo="",Government (7 channels)
+#PLAYLIST:https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_government.m3u|https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_government.xml
+https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_government.m3u
+#EXTINF:-1 tvg-chno="1" tvg-id="provider-music" tvg-name="Music" group-title="IPTV Playlists" tvg-logo="",Music (7 channels)
+#PLAYLIST:https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_music.m3u|https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_music.xml
+https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_music.m3u
+#EXTINF:-1 tvg-chno="1" tvg-id="provider-fishing" tvg-name="Fishing" group-title="IPTV Playlists" tvg-logo="",Fishing (4 channels)
+#PLAYLIST:https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_fishing.m3u|https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_fishing.xml
+https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_fishing.m3u
+#EXTINF:-1 tvg-chno="1" tvg-id="provider-scifi" tvg-name="SciFi" group-title="IPTV Playlists" tvg-logo="",SciFi (4 channels)
+#PLAYLIST:https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_scifi.m3u|https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_scifi.xml
+https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_scifi.m3u
+#EXTINF:-1 tvg-chno="1" tvg-id="provider-international" tvg-name="International" group-title="IPTV Playlists" tvg-logo="",International (2 channels)
+#PLAYLIST:https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_international.m3u|https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_international.xml
+https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_international.m3u
