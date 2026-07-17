@@ -1,100 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv>
-  <channel id="fk_02">
-    <display-name>Florida Keys Live — Marathon Key Scenic View</display-name>
-    <desc>Live feed - Scenic</desc>
-  </channel>
-  <channel id="fk_03">
-    <display-name>Florida Keys Live — Islamorada Keys Waterfront</display-name>
-    <desc>Live feed - Waterfront</desc>
-  </channel>
-  <channel id="fk_06">
-    <display-name>Florida Keys Live — Dry Tortugas National Park</display-name>
-    <desc>Live feed - National Park</desc>
-  </channel>
-  <channel id="fk_07">
-    <display-name>Florida Keys Live — Key West Marina Live Feed</display-name>
-    <desc>Live feed - Marina</desc>
-  </channel>
-  <channel id="fk_09">
-    <display-name>Florida Keys Live — Key West National Weather Service</display-name>
-    <desc>Live feed - Weather</desc>
-  </channel>
-  <channel id="fk_10">
-    <display-name>Florida Keys Live — Florida Keys Marine Monitoring</display-name>
-    <desc>Live feed - Marine</desc>
-  </channel>
-  <channel id="fk_12">
-    <display-name>Florida Keys Live — Marathon Resort Waterfront</display-name>
-    <desc>Live feed - Beach</desc>
-  </channel>
-  <channel id="fk_13">
-    <display-name>Florida Keys Live — Islamorada Beach Resort Cam</display-name>
-    <desc>Live feed - Beach</desc>
-  </channel>
-  <channel id="fk_14">
-    <display-name>Florida Keys Live — Key West Aquarium Live</display-name>
-    <desc>Live feed - Aquarium</desc>
-  </channel>
-  <channel id="fk_15">
-    <display-name>Florida Keys Live — Key West Historic Seaport</display-name>
-    <desc>Live feed - Seaport</desc>
-  </channel>
-  <channel id="fk_17">
-    <display-name>Florida Keys Live — Florida Keys Webcams</display-name>
-    <desc>YouTube live channel - Florida Keys Webcams</desc>
-  </channel>
-  <channel id="fk_18">
-    <display-name>Florida Keys Live — Seek Florida Keys</display-name>
-    <desc>YouTube live channel - Seek Florida Keys</desc>
-  </channel>
-  <programme start="20260717180637 +0000" stop="20260718000637 +0000" channel="fk_02">
-    <title>Marathon Key Scenic View</title>
-    <desc>Scenic</desc>
-  </programme>
-  <programme start="20260717180637 +0000" stop="20260718000637 +0000" channel="fk_03">
-    <title>Islamorada Keys Waterfront</title>
-    <desc>Waterfront</desc>
-  </programme>
-  <programme start="20260717180637 +0000" stop="20260718000637 +0000" channel="fk_06">
-    <title>Dry Tortugas National Park</title>
-    <desc>National Park</desc>
-  </programme>
-  <programme start="20260717180637 +0000" stop="20260718000637 +0000" channel="fk_07">
-    <title>Key West Marina Live Feed</title>
-    <desc>Marina</desc>
-  </programme>
-  <programme start="20260717180637 +0000" stop="20260718000637 +0000" channel="fk_09">
-    <title>Key West National Weather Service</title>
-    <desc>Weather</desc>
-  </programme>
-  <programme start="20260717180637 +0000" stop="20260718000637 +0000" channel="fk_10">
-    <title>Florida Keys Marine Monitoring</title>
-    <desc>Marine</desc>
-  </programme>
-  <programme start="20260717180637 +0000" stop="20260718000637 +0000" channel="fk_12">
-    <title>Marathon Resort Waterfront</title>
-    <desc>Beach</desc>
-  </programme>
-  <programme start="20260717180637 +0000" stop="20260718000637 +0000" channel="fk_13">
-    <title>Islamorada Beach Resort Cam</title>
-    <desc>Beach</desc>
-  </programme>
-  <programme start="20260717180637 +0000" stop="20260718000637 +0000" channel="fk_14">
-    <title>Key West Aquarium Live</title>
-    <desc>Aquarium</desc>
-  </programme>
-  <programme start="20260717180637 +0000" stop="20260718000637 +0000" channel="fk_15">
-    <title>Key West Historic Seaport</title>
-    <desc>Seaport</desc>
-  </programme>
-  <programme start="20260717180637 +0000" stop="20260718000637 +0000" channel="fk_17">
-    <title>Florida Keys Webcams</title>
-    <desc>YouTube Live</desc>
-  </programme>
-  <programme start="20260717180637 +0000" stop="20260718000637 +0000" channel="fk_18">
-    <title>Seek Florida Keys</title>
-    <desc>YouTube Live</desc>
-  </programme>
+  <channel id="fk_01"><display-name>Marathon Key Scenic View</display-name></channel>
+  <channel id="fk_02"><display-name>Islamorada Keys Waterfront</display-name></channel>
+  <channel id="fk_03"><display-name>Dry Tortugas National Park</display-name></channel>
+  <channel id="fk_04"><display-name>Key West Marina Live Feed</display-name></channel>
+  <channel id="fk_05"><display-name>Key West National Weather Service</display-name></channel>
+  <channel id="fk_06"><display-name>Florida Keys Marine Monitoring</display-name></channel>
+  <channel id="fk_07"><display-name>Marathon Resort Waterfront</display-name></channel>
+  <channel id="fk_08"><display-name>Islamorada Beach Resort Cam</display-name></channel>
+  <channel id="fk_09"><display-name>Key West Aquarium Live</display-name></channel>
+  <channel id="fk_10"><display-name>Key West Historic Seaport</display-name></channel>
+  <channel id="fk_11"><display-name>Florida Keys Webcams</display-name></channel>
+  <channel id="fk_12"><display-name>Seek Florida Keys</display-name></channel>
+  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_01"><title>Marathon Key Scenic View</title></programme>
+  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_02"><title>Islamorada Keys Waterfront</title></programme>
+  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_03"><title>Dry Tortugas National Park</title></programme>
+  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_04"><title>Key West Marina Live Feed</title></programme>
+  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_05"><title>Key West National Weather Service</title></programme>
+  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_06"><title>Florida Keys Marine Monitoring</title></programme>
+  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_07"><title>Marathon Resort Waterfront</title></programme>
+  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_08"><title>Islamorada Beach Resort Cam</title></programme>
+  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_09"><title>Key West Aquarium Live</title></programme>
+  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_10"><title>Key West Historic Seaport</title></programme>
+  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_11"><title>Florida Keys Webcams</title></programme>
+  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_12"><title>Seek Florida Keys</title></programme>
 </tv>
