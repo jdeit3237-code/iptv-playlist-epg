@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Southernmost Beach Resort Camera 1
+https://b15.hdrelay.com/camera/CID_WMAA00000062/relay/playlist.m3u8
+#EXTINF:-1,Reach Key West Cam
+https://reachkeywestccn.cdn.coastalcameranetwork.com/Florida/reachkeywest.stream/chunklist.m3u8
+#EXTINF:-1,Ocean Key Webcam
+https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.kfzxdyu.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/chunklist_w698531836.m3u8

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv>
-  <channel id="fk_01"><display-name>Oregon Coast Aquarium Shark Cam</display-name></channel>
+  <channel id="fk_01"><display-name>Southernmost Beach Resort Camera 1</display-name></channel>
   <channel id="fk_02"><display-name>Southernmost Beach Resort Camera 2</display-name></channel>
   <channel id="fk_03"><display-name>Southernmost Beach Resort Camera 3</display-name></channel>
   <channel id="fk_06"><display-name>Georgia Aquarium Moon Jelly Cam</display-name></channel>
@@ -17,7 +17,7 @@
   <channel id="fk_16"><display-name>Dallas World Aquarium Manatee Cam</display-name></channel>
   <channel id="fk_17"><display-name>Dallas World Aquarium Hidden Wonders of Ceylon Cam</display-name></channel>
   <channel id="fk_18"><display-name>Dallas World Aquarium Underwater Rainforest Cam</display-name></channel>
-  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_01"><title>Oregon Coast Aquarium Shark Cam</title></programme>
+  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_01"><title>Southernmost Beach Resort Camera 1</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_02"><title>Southernmost Beach Resort Camera 2</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_03"><title>Southernmost Beach Resort Camera 3</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_06"><title>Georgia Aquarium Moon Jelly Cam</title></programme>
