@@ -31,3 +31,7 @@ https://www.keywestaquarium.com/
 https://www.keywestseaport.com/
 #EXTINF:-1 tvg-id="fk_16" tvg-name="Key West Harbor Skyline" group-title="Harbor"
 https://player.vimeo.com/video/live_embed
+#EXTINF:-1 tvg-id="fk_17" tvg-name="Florida Keys Webcams" group-title="YouTube Live"
+https://www.youtube.com/@FloridaKeysWebcams/live
+#EXTINF:-1 tvg-id="fk_18" tvg-name="Seek Florida Keys" group-title="YouTube Live"
+https://www.youtube.com/@SeekFloridaKeys/live

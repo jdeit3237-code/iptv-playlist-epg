@@ -122,6 +122,19 @@ jobs:
                 "location": "Throughout Keys",
                 "category": "Marine"
             },
+            # YouTube Channels
+            {
+                "name": "Florida Keys Webcams",
+                "url": "https://www.youtube.com/@FloridaKeysWebcams/live",
+                "location": "Throughout Keys",
+                "category": "YouTube Live"
+            },
+            {
+                "name": "Seek Florida Keys",
+                "url": "https://www.youtube.com/@SeekFloridaKeys/live",
+                "location": "Throughout Keys",
+                "category": "YouTube Live"
+            },
         ]
         
         def validate_feed(feed_info, timeout=8):
