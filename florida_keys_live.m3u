@@ -35,3 +35,17 @@ https://player.vimeo.com/video/live_embed
 https://www.youtube.com/@FloridaKeysWebcams/live
 #EXTINF:-1 tvg-id="fk_18" tvg-name="Seek Florida Keys" group-title="YouTube Live"
 https://www.youtube.com/@SeekFloridaKeys/live
+#EXTINF:-1 tvg-id="fk_19" tvg-name="Key West Webcams HLS" group-title="Harbor"
+https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.odjvdrc.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/chunklist_w1244723367.m3u8
+#EXTINF:-1 tvg-id="fk_20" tvg-name="Sunset Cam HLS" group-title="Scenic"
+https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.kfzxdyu.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/chunklist_w1927643786.m3u8
+#EXTINF:-1 tvg-id="fk_21" tvg-name="Mallory Square HLS" group-title="Scenic"
+https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.jflbdqs.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/chunklist_w250150857.m3u8
+#EXTINF:-1 tvg-id="fk_22" tvg-name="Sunset Pier HLS" group-title="Scenic"
+https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.ohbrd6n.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/chunklist_w804522223.m3u8
+#EXTINF:-1 tvg-id="fk_23" tvg-name="Key West Beachside Marina HLS" group-title="Marina"
+https://use01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.zbprdoz.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/chunklist_w245649528.m3u8
+#EXTINF:-1 tvg-id="fk_24" tvg-name="Southern Most Point HLS" group-title="Scenic"
+https://cdn77.ptztv.live/W0m547CN12IERAa2rkWSow==,1771225517/cdnorigin/kwhwmux.stream/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-id="fk_25" tvg-name="Butterfly HLS" group-title="Harbor"
+https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.pkhjdls.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/chunklist_w693111737.m3u8

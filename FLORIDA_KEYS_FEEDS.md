@@ -55,6 +55,16 @@ The channel includes live cameras from:
 - **Florida Keys Webcams** - Multi-camera live feeds from throughout the Keys
 - **Seek Florida Keys** - Live exploration and tour feeds of the Keys
 
+### Key West Webcams - HLS Live Streams
+*(From floridakeyswebcams.tv)*
+- **Key West Webcams HLS** - General harbor view
+- **Sunset Cam HLS** - Sunset viewing location
+- **Mallory Square HLS** - Famous Mallory Square sunset spot
+- **Sunset Pier HLS** - Sunset from pier viewpoint
+- **Key West Beachside Marina HLS** - Marina waterfront activity
+- **Southern Most Point HLS** - Southernmost point of continental US
+- **Butterfly HLS** - Butterfly garden/scenic area
+
 ## Automatic Updates
 
 The feed list is **automatically validated and updated every 6 hours** via GitHub Actions. This ensures:

@@ -135,18 +135,66 @@ jobs:
                 "location": "Throughout Keys",
                 "category": "YouTube Live"
             },
+            # Key West Webcams - HLS Streams (floridakeyswebcams.tv)
+            {
+                "name": "Key West Webcams HLS",
+                "url": "https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.odjvdrc.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/chunklist_w1244723367.m3u8",
+                "location": "Key West",
+                "category": "Harbor"
+            },
+            {
+                "name": "Sunset Cam HLS",
+                "url": "https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.kfzxdyu.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/chunklist_w1927643786.m3u8",
+                "location": "Key West",
+                "category": "Scenic"
+            },
+            {
+                "name": "Mallory Square HLS",
+                "url": "https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.jflbdqs.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/chunklist_w250150857.m3u8",
+                "location": "Key West",
+                "category": "Scenic"
+            },
+            {
+                "name": "Sunset Pier HLS",
+                "url": "https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.ohbrd6n.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/chunklist_w804522223.m3u8",
+                "location": "Key West",
+                "category": "Scenic"
+            },
+            {
+                "name": "Key West Beachside Marina HLS",
+                "url": "https://use01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.zbprdoz.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/chunklist_w245649528.m3u8",
+                "location": "Key West",
+                "category": "Marina"
+            },
+            {
+                "name": "Southern Most Point HLS",
+                "url": "https://cdn77.ptztv.live/W0m547CN12IERAa2rkWSow==,1771225517/cdnorigin/kwhwmux.stream/chunklist_DVR.m3u8",
+                "location": "Key West",
+                "category": "Scenic"
+            },
+            {
+                "name": "Butterfly HLS",
+                "url": "https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.pkhjdls.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/chunklist_w693111737.m3u8",
+                "location": "Key West",
+                "category": "Harbor"
+            },
         ]
         
         def validate_feed(feed_info, timeout=8):
             try:
-                req = urllib.request.Request(feed_info['url'], method='HEAD')
+                # For HLS streams (.m3u8), try GET request instead of HEAD
+                if feed_info['url'].endswith('.m3u8'):
+                    req = urllib.request.Request(feed_info['url'])
+                else:
+                    req = urllib.request.Request(feed_info['url'], method='HEAD')
+                
                 req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)')
                 with urllib.request.urlopen(req, timeout=timeout, context=ssl_context) as response:
                     feed_info['valid'] = response.status in [200, 206]
                     feed_info['status_code'] = response.status
                     return feed_info
             except urllib.error.HTTPError as e:
-                feed_info['valid'] = False
+                feed_info['valid'] = e.code in [200, 206]
                 feed_info['status_code'] = e.code
                 return feed_info
             except:
