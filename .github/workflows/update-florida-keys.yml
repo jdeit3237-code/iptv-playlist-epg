@@ -37,18 +37,16 @@ jobs:
         ssl_context.verify_mode = ssl.CERT_NONE
         
         FLORIDA_KEYS_FEEDS = [
-            {"name": "Marathon Key Scenic View", "url": "https://www.marathonfl.com/", "location": "Marathon", "category": "Scenic"},
-            {"name": "Islamorada Keys Waterfront", "url": "https://www.islamoradafl.com/", "location": "Islamorada", "category": "Waterfront"},
-            {"name": "Dry Tortugas National Park", "url": "https://www.nps.gov/drto/", "location": "Dry Tortugas", "category": "National Park"},
-            {"name": "Key West Marina Live Feed", "url": "https://www.keywestmarina.com/", "location": "Key West", "category": "Marina"},
-            {"name": "Key West National Weather Service", "url": "https://www.weather.gov/tbw/", "location": "Key West", "category": "Weather"},
-            {"name": "Florida Keys Marine Monitoring", "url": "https://www.fisheries.noaa.gov/", "location": "Throughout Keys", "category": "Marine"},
-            {"name": "Marathon Resort Waterfront", "url": "https://www.marathonresort.com/", "location": "Marathon", "category": "Beach"},
-            {"name": "Islamorada Beach Resort Cam", "url": "https://www.islamoradaresort.com/", "location": "Islamorada", "category": "Beach"},
-            {"name": "Key West Aquarium Live", "url": "https://www.keywestaquarium.com/", "location": "Key West", "category": "Aquarium"},
-            {"name": "Key West Historic Seaport", "url": "https://www.keywestseaport.com/", "location": "Key West", "category": "Seaport"},
-            {"name": "Florida Keys Webcams", "url": "https://www.youtube.com/@FloridaKeysWebcams/live", "location": "Throughout Keys", "category": "YouTube Live"},
-            {"name": "Seek Florida Keys", "url": "https://www.youtube.com/@SeekFloridaKeys/live", "location": "Throughout Keys", "category": "YouTube Live"},
+            {"name": "Southernmost Beach Resort Camera 1", "url": "https://b15.hdrelay.com/camera/CID_WMAA00000062/relay/playlist.m3u8", "location": "Key West", "category": "Live HLS"},
+            {"name": "Southernmost Beach Resort Camera 2", "url": "https://use01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.zemocxr.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8", "location": "Key West", "category": "Live HLS"},
+            {"name": "Southernmost Beach Resort Camera 3", "url": "https://use01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.zemocxr.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/chunklist_w1932134495.m3u8", "location": "Key West", "category": "Live HLS"},
+            {"name": "Southernmost Beach Resort Camera 4", "url": "https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.preb48.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8", "location": "Key West", "category": "Live HLS"},
+            {"name": "Southernmost Beach Resort Camera 5", "url": "https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.preb48.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/chunklist_w1986146744.m3u8", "location": "Key West", "category": "Live HLS"},
+            {"name": "Sloppy Joe's Bar Camera", "url": "https://usw01-smr04-relay.ozolio.com/hll-live/_definst_/relay01.bktacf0.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8", "location": "Key West", "category": "Live HLS"},
+            {"name": "Scripps Kelp Cam", "url": "https://live.hdontap.com/hls/hosb3/scripps_kelp_cam-ptz.stream/playlist.m3u8?t=xlB2wdq0SPN6QT2Vowm_4A&e=1784359109", "location": "Pacific", "category": "Live HLS"},
+            {"name": "Biscayne Bay Cam", "url": "https://s32.ipcamlive.com/streams/20cow684nfjkuigqh/stream.m3u8", "location": "Biscayne Bay", "category": "Live HLS"},
+            {"name": "Galleon Marina Cam", "url": "https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.jqtbdm2.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8", "location": "Key West", "category": "Live HLS"},
+            {"name": "Cedar Key Florida Cam", "url": "https://s47.ipcamlive.com/streams/2fjpxvtzfulkouqx9/stream.m3u8", "location": "Cedar Key", "category": "Live HLS"},
         ]
         
         def validate_feed(feed_info, timeout=8):
