@@ -47,6 +47,10 @@ jobs:
             {"name": "Biscayne Bay Cam", "url": "https://s32.ipcamlive.com/streams/20cow684nfjkuigqh/stream.m3u8", "location": "Biscayne Bay", "category": "Live HLS"},
             {"name": "Galleon Marina Cam", "url": "https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.jqtbdm2.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8", "location": "Key West", "category": "Live HLS"},
             {"name": "Cedar Key Florida Cam", "url": "https://s47.ipcamlive.com/streams/2fjpxvtzfulkouqx9/stream.m3u8", "location": "Cedar Key", "category": "Live HLS"},
+            {"name": "Southernmost Beach Resort Pineapple Pool", "url": "https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.ytzidtu.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8", "location": "Key West", "category": "Live HLS"},
+            {"name": "Key West Butterfly Conservatory", "url": "https://usw01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.pkhjdls.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8", "location": "Key West", "category": "Live HLS"},
+            {"name": "Reach Key West Cam", "url": "https://reachkeywestccn.cdn.coastalcameranetwork.com/Florida/reachkeywest.stream/chunklist.m3u8", "location": "Key West", "category": "Live HLS"},
+            {"name": "Ocean Key Webcam", "url": "https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.kfzxdyu.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/chunklist_w698531836.m3u8", "location": "Key West", "category": "Live HLS"},
         ]
         
         def validate_feed(feed_info, timeout=8):

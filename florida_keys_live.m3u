@@ -19,3 +19,11 @@ https://s32.ipcamlive.com/streams/20cow684nfjkuigqh/stream.m3u8
 https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.jqtbdm2.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="fk_10" tvg-name="Cedar Key Florida Cam" group-title="Live HLS"
 https://s47.ipcamlive.com/streams/2fjpxvtzfulkouqx9/stream.m3u8
+#EXTINF:-1 tvg-id="fk_11" tvg-name="Southernmost Beach Resort Pineapple Pool" group-title="Live HLS"
+https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.ytzidtu.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="fk_12" tvg-name="Key West Butterfly Conservatory" group-title="Live HLS"
+https://usw01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.pkhjdls.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="fk_13" tvg-name="Reach Key West Cam" group-title="Live HLS"
+https://reachkeywestccn.cdn.coastalcameranetwork.com/Florida/reachkeywest.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="fk_14" tvg-name="Ocean Key Webcam" group-title="Live HLS"
+https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.kfzxdyu.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/chunklist_w698531836.m3u8

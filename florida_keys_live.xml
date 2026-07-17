@@ -11,6 +11,10 @@
   <channel id="fk_08"><display-name>Biscayne Bay Cam</display-name></channel>
   <channel id="fk_09"><display-name>Galleon Marina Cam</display-name></channel>
   <channel id="fk_10"><display-name>Cedar Key Florida Cam</display-name></channel>
+  <channel id="fk_11"><display-name>Southernmost Beach Resort Pineapple Pool</display-name></channel>
+  <channel id="fk_12"><display-name>Key West Butterfly Conservatory</display-name></channel>
+  <channel id="fk_13"><display-name>Reach Key West Cam</display-name></channel>
+  <channel id="fk_14"><display-name>Ocean Key Webcam</display-name></channel>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_01"><title>Southernmost Beach Resort Camera 1</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_02"><title>Southernmost Beach Resort Camera 2</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_03"><title>Southernmost Beach Resort Camera 3</title></programme>
@@ -21,4 +25,8 @@
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_08"><title>Biscayne Bay Cam</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_09"><title>Galleon Marina Cam</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_10"><title>Cedar Key Florida Cam</title></programme>
+  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_11"><title>Southernmost Beach Resort Pineapple Pool</title></programme>
+  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_12"><title>Key West Butterfly Conservatory</title></programme>
+  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_13"><title>Reach Key West Cam</title></programme>
+  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_14"><title>Ocean Key Webcam</title></programme>
 </tv>
