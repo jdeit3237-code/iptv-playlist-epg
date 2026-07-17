@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CatchyComedy.us@SD",Catchy Comedy (720p)
+http://40.160.24.52/DECADES/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us@East",Comedy Central (1080p)
+http://40.160.24.52/COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us@East",Comedy Central (1080p)
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us@East",Comedy Central (720p)
+http://206.212.244.63/44/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional",Comedy Central Latin America
+http://103.111.40.244:9999/play/a0i5/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional",Comedy Central Latin America (1080p)
+http://181.119.93.83:8000/play/a1di/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional",Comedy Central Latin America (720p)
+http://138.186.23.7:8082/COMEDYCENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD",Just for Laughs Gags (1080p)
+https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
+#EXTINF:-1 tvg-id="StarzComedy.us@East",Starz Comedy (1080p)
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
