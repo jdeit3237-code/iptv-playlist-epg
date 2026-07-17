@@ -15,6 +15,7 @@
   <channel id="fk_15"><display-name>Georgia Aquarium Whale Shark Cam</display-name></channel>
   <channel id="fk_16"><display-name>Dallas World Aquarium Manatee Cam</display-name></channel>
   <channel id="fk_18"><display-name>Dallas World Aquarium Underwater Rainforest Cam</display-name></channel>
+  <channel id="fk_19"><display-name>Southernmost Point</display-name></channel>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_01"><title>Dolphins Cam</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_02"><title>Clearwater Marine Aquarium Dolphin Cam</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_06"><title>Georgia Aquarium Moon Jelly Cam</title></programme>
@@ -29,4 +30,5 @@
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_15"><title>Georgia Aquarium Whale Shark Cam</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_16"><title>Dallas World Aquarium Manatee Cam</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_18"><title>Dallas World Aquarium Underwater Rainforest Cam</title></programme>
+  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_19"><title>Southernmost Point</title></programme>
 </tv>
