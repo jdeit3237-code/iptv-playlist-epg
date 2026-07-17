@@ -1,0 +1,309 @@
+name: Update IPTV Playlists
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # daily at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Update playlists and EPG (lightweight checks)
+        env:
+          IPTV_RAW: 'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us.m3u'
+          BASE_URL: 'https://jdeit3237-code.github.io/iptv-playlist-epg'
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+import re,ssl,sys,html,datetime
+from datetime import timezone
+from urllib.request import urlopen, Request
+from urllib.error import URLError, HTTPError
+import concurrent.futures
+
+# download remote playlist
+raw_url = 'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us.m3u'
+print('Fetching', raw_url)
+ctx = ssl.create_default_context()
+try:
+    with urlopen(raw_url, timeout=60, context=ctx) as r:
+        text = r.read().decode('utf-8', errors='ignore')
+except Exception as e:
+    print('Failed to fetch remote playlist:', e)
+    sys.exit(1)
+
+lines = [l.rstrip('\n') for l in text.splitlines()]
+
+# parse entries
+entries=[]
+meta=[]
+for line in lines:
+    if line.startswith('#'):
+        meta.append(line)
+    elif line.strip()=='' or line.strip().startswith('rtmp') or line.strip().startswith('udp'):
+        meta=[]
+        continue
+    else:
+        url=line.strip()
+        entries.append((list(meta), url))
+        meta=[]
+
+print('Parsed', len(entries), 'entries')
+
+# check function: lightweight HEAD or small GET
+ctx = ssl.create_default_context()
+ctx.check_hostname=False
+ctx.verify_mode=ssl.CERT_NONE
+
+headers = {'User-Agent':'curl/7.79.1'}
+
+def check(entry):
+    meta,url = entry
+    if not url.lower().startswith(('http://','https://')):
+        return None
+    req = Request(url, headers=headers, method='HEAD')
+    try:
+        with urlopen(req, timeout=10, context=ctx) as r:
+            if r.getcode()==200:
+                return '\n'.join(meta + [url])
+    except Exception:
+        # fallback to small GET
+        try:
+            req2 = Request(url, headers=headers)
+            with urlopen(req2, timeout=12, context=ctx) as r2:
+                chunk = r2.read(2048)
+                try:
+                    s = chunk.decode('utf-8', errors='ignore')
+                except Exception:
+                    s = str(chunk)
+                ctype = r2.headers.get('Content-Type','')
+                if '#EXTM3U' in s or '#EXTINF' in s or 'EXT-X-STREAM' in s or '.m3u8' in s or 'mpegurl' in ctype.lower() or 'application/vnd.apple.mpegurl' in ctype.lower() or 'application/x-mpegurl' in ctype.lower():
+                    return '\n'.join(meta + [url])
+        except Exception:
+            return None
+    return None
+
+# Run lightweight checks concurrently
+valid_blocks=[]
+with concurrent.futures.ThreadPoolExecutor(max_workers=20) as ex:
+    futures = {ex.submit(check, e): e for e in entries}
+    for fut in concurrent.futures.as_completed(futures):
+        try:
+            res = fut.result()
+        except Exception:
+            res = None
+        if res:
+            valid_blocks.append(res)
+
+print('Validated', len(valid_blocks), 'URLs')
+
+# write filtered_us.m3u
+with open('filtered_us.m3u','w',encoding='utf-8') as o:
+    o.write('#EXTM3U\n')
+    for b in valid_blocks:
+        o.write(b + '\n')
+
+# categorize
+categories = {
+    'news':['news','cnn','bbc','nbc','abc','cbs','fox','msnbc','reuters','ap','weather','today','tonight'],
+    'kids':['disney','nickelodeon','nick','cartoon','kids','children','pbs kids','disney junior','boom','toon','junior','nick jr'],
+    'religion':['faith','church','gospel','christian','bible','prayer','evangelic','religious','spiritual'],
+    'education':['pbs','discovery','learn','school','science','history','documentary','national geo','learn'],
+    'government':['c-span','congress','senate','house','white house','capitol','government','legislature'],
+    'scifi':['sci-fi','scifi','syfy','space','star trek','star wars','outer limits','twilight zone'],
+    'sports':['sports','espn','nfl','nba','mlb','nhl','soccer','football','basketball','tennis','golf','boxing','wrestling'],
+    'family':['family','broadcast','network'],
+    'cooking':['cook','food','recipe','chef','kitchen','culinary','bake','grill','cuisine'],
+    'fishing':['fish','angling','bass','trout','outdoor','hunt','fishing'],
+    'lifestyle':['travel','home','diy','wellness','beauty','fashion','health','fitness'],
+    'entertainment':['movie','film','show','series','drama','cinema','hollywood'],
+    'music':['music','mtv','concert','song','band','radio'],
+    'international':['arabic','spanish','french','german','chinese','italian','portuguese','russian','turkish','urdu','hindi','japanese','korean'],
+    'comedy':['comedy','funny','humor','sitcom','stand-up']
+}
+
+# parse filtered_us.m3u into channel structs
+channels=[]
+with open('filtered_us.m3u','r',encoding='utf-8') as f:
+    lines=[l.rstrip('\n') for l in f]
+
+i=0
+while i < len(lines):
+    line=lines[i]
+    if line.startswith('#EXTINF'):
+        meta=line
+        m = re.match(r'#EXTINF:-?\d+\s*(.*),(.*)', meta)
+        attrs_str=''
+        name=''
+        if m:
+            attrs_str=m.group(1)
+            name=m.group(2).strip()
+        j=i+1
+        url=None
+        while j < len(lines):
+            if lines[j].strip()=='' or lines[j].startswith('#'):
+                j+=1
+                continue
+            url=lines[j].strip()
+            break
+        if url:
+            channels.append({'meta':meta,'name':name,'url':url})
+            i=j
+    i+=1
+
+# assign channels to categories
+assigned={cat:[] for cat in categories}
+other=[]
+for ch in channels:
+    n=ch['name'].lower()
+    found=False
+    for cat,keys in categories.items():
+        for k in keys:
+            if k in n:
+                assigned[cat].append(ch)
+                found=True
+                break
+        if found: break
+    if not found:
+        other.append(ch)
+
+# write category playlists
+for cat,chs in assigned.items():
+    fname=f'filtered_us_{cat}.m3u'
+    with open(fname,'w',encoding='utf-8') as f:
+        f.write('#EXTM3U\n')
+        for c in chs:
+            f.write(c['meta']+'\n')
+            f.write(c['url']+'\n')
+
+# other
+with open('filtered_us_other.m3u','w',encoding='utf-8') as f:
+    f.write('#EXTM3U\n')
+    for c in other:
+        f.write(c['meta']+'\n')
+        f.write(c['url']+'\n')
+
+# generate XMLTV per category
+now_utc=datetime.datetime.now(timezone.utc)
+start=now_utc.replace(microsecond=0)
+stop=start + datetime.timedelta(hours=2)
+
+def fmt(ts):
+    return ts.strftime('%Y%m%d%H%M%S') + ' +0000'
+
+all_cats = list(assigned.keys()) + ['other']
+for cat in all_cats:
+    infile=f'filtered_us_{cat}.m3u'
+    outfile=f'filtered_us_{cat}.xml'
+    chans=[]
+    try:
+        with open(infile,'r',encoding='utf-8') as ff:
+            lns=[l.rstrip('\n') for l in ff]
+    except FileNotFoundError:
+        continue
+    i=0
+    while i < len(lns):
+        line=lns[i]
+        if line.startswith('#EXTINF'):
+            meta=line
+            m = re.match(r'#EXTINF:-?\d+\s*(.*),(.*)', meta)
+            attrs_str=''
+            name=''
+            if m:
+                attrs_str=m.group(1)
+                name=m.group(2).strip()
+            j=i+1
+            url=None
+            while j < len(lns):
+                if lns[j].strip()=='' or lns[j].startswith('#'):
+                    j+=1
+                    continue
+                url=lns[j].strip()
+                break
+            if url:
+                base_id = None
+                tvg_match = re.search(r'tvg-id="([^"]+)"', attrs_str)
+                if tvg_match:
+                    base_id=tvg_match.group(1)
+                else:
+                    base_id=re.sub(r'[^A-Za-z0-9_\-]','_',name)[:40]
+                chans.append({'base_id':base_id,'name':name,'url':url})
+                i=j
+        i+=1
+    # unique ids
+    seen={}
+    for c in chans:
+        bid=c['base_id']
+        cnt=seen.get(bid,0)+1
+        seen[bid]=cnt
+        c['id']=bid if cnt==1 else f"{bid}_{cnt}"
+    # write xml
+    prefix = f'Filtered US {cat.title()} — '
+    with open(outfile,'w',encoding='utf-8') as o:
+        o.write('<?xml version="1.0" encoding="UTF-8"?>\n')
+        o.write('<tv generator-info-name="copilot-cli">\n')
+        for c in chans:
+            disp = prefix + c['name']
+            o.write(f'  <channel id="{html.escape(c["id"])}">\n')
+            o.write(f'    <display-name>{html.escape(disp)}</display-name>\n')
+            o.write(f'    <url>{html.escape(c["url"])}</url>\n')
+            o.write('  </channel>\n')
+        for c in chans:
+            disp=prefix + c['name']
+            o.write(f'  <programme start="{fmt(start)}" stop="{fmt(stop)}" channel="{html.escape(c["id"])}">\n')
+            o.write('    <title>Live Stream</title>\n')
+            o.write(f'    <desc>Auto-generated placeholder EPG for {html.escape(disp)}</desc>\n')
+            o.write('  </programme>\n')
+        o.write('</tv>\n')
+
+# meta provider files
+base_url = 'https://jdeit3237-code.github.io/iptv-playlist-epg'
+cats_out = []
+for cat in all_cats:
+    name = cat.title()
+    cats_out.append({'name': name, 'playlist': f'{base_url}/filtered_us_{cat}.m3u', 'epg': f'{base_url}/filtered_us_{cat}.xml'})
+
+# m3u provider
+with open('iptv_provider.m3u','w',encoding='utf-8') as f:
+    f.write('#EXTM3U\n')
+    for c in cats_out:
+        f.write(f'#EXTINF:-1,{c["name"]}\n')
+        f.write(f'{c["playlist"]}\n')
+
+# json provider
+import json
+provider = {'name':'Filtered US IPTV','playlists':cats_out}
+with open('filtered_us_provider.json','w',encoding='utf-8') as f:
+    json.dump(provider,f,indent=2)
+
+print('Update script finished')
+PY
+
+      - name: Commit & push changes to gh-pages
+        run: |
+          git fetch origin gh-pages || true
+          if git show-ref --verify --quiet refs/remotes/origin/gh-pages; then
+            git checkout gh-pages
+          else
+            git checkout -b gh-pages
+          fi
+          git add --all
+          if git diff --staged --quiet; then
+            echo 'No changes to commit'
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Auto-update playlists and EPG"
+          git push origin gh-pages
