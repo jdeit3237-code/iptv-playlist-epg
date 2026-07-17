@@ -2,7 +2,7 @@ name: Update Florida Keys Live Feeds
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 permissions:
@@ -24,7 +24,7 @@ jobs:
     
     - name: Generate Florida Keys Feeds
       run: |
-        python3 << 'EOF'
+        python3 << 'PYTHON_EOF'
         import concurrent.futures
         import urllib.request
         import urllib.error
@@ -36,170 +36,30 @@ jobs:
         ssl_context.check_hostname = False
         ssl_context.verify_mode = ssl.CERT_NONE
         
-        # Florida Keys live camera feeds
         FLORIDA_KEYS_FEEDS = [
-            # Key West Area
-            {
-                "name": "Key West Live Harbor Cam",
-                "url": "https://www.keywestcity.com/webcams",
-                "location": "Key West",
-                "category": "Harbor"
-            },
-            {
-                "name": "Key West Marina Live Feed",
-                "url": "https://www.keywestmarina.com/",
-                "location": "Key West",
-                "category": "Marina"
-            },
-            {
-                "name": "Key West Historic Seaport",
-                "url": "https://www.keywestseaport.com/",
-                "location": "Key West",
-                "category": "Seaport"
-            },
-            {
-                "name": "Key West National Weather Service",
-                "url": "https://www.weather.gov/tbw/",
-                "location": "Key West",
-                "category": "Weather"
-            },
-            # Marathon Area
-            {
-                "name": "Marathon Key Scenic View",
-                "url": "https://www.marathonfl.com/",
-                "location": "Marathon",
-                "category": "Scenic"
-            },
-            {
-                "name": "Marathon Resort Waterfront",
-                "url": "https://www.marathonresort.com/",
-                "location": "Marathon",
-                "category": "Beach"
-            },
-            # Islamorada Area
-            {
-                "name": "Islamorada Keys Waterfront",
-                "url": "https://www.islamoradafl.com/",
-                "location": "Islamorada",
-                "category": "Waterfront"
-            },
-            {
-                "name": "Islamorada Beach Resort Cam",
-                "url": "https://www.islamoradaresort.com/",
-                "location": "Islamorada",
-                "category": "Beach"
-            },
-            # Key Largo Area
-            {
-                "name": "Key Largo Northern Gateway",
-                "url": "https://www.keylargoflorida.com/",
-                "location": "Key Largo",
-                "category": "Gateway"
-            },
-            {
-                "name": "Key Largo Resort Beach",
-                "url": "https://www.keylargoresort.com/",
-                "location": "Key Largo",
-                "category": "Beach"
-            },
-            # Parks & Natural Areas
-            {
-                "name": "Bahia Honda State Park",
-                "url": "https://www.floridastateparks.org/parks-and-trails/bahia-honda-state-park",
-                "location": "Bahia Honda Key",
-                "category": "State Park"
-            },
-            {
-                "name": "Dry Tortugas National Park",
-                "url": "https://www.nps.gov/drto/",
-                "location": "Dry Tortugas",
-                "category": "National Park"
-            },
-            # Marine & Environmental
-            {
-                "name": "Florida Keys Marine Monitoring",
-                "url": "https://www.fisheries.noaa.gov/",
-                "location": "Throughout Keys",
-                "category": "Marine"
-            },
-            # YouTube Channels
-            {
-                "name": "Florida Keys Webcams",
-                "url": "https://www.youtube.com/@FloridaKeysWebcams/live",
-                "location": "Throughout Keys",
-                "category": "YouTube Live"
-            },
-            {
-                "name": "Seek Florida Keys",
-                "url": "https://www.youtube.com/@SeekFloridaKeys/live",
-                "location": "Throughout Keys",
-                "category": "YouTube Live"
-            },
-            # Key West Webcams - HLS Streams (floridakeyswebcams.tv)
-            {
-                "name": "Key West Webcams HLS",
-                "url": "https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.odjvdrc.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/chunklist_w1244723367.m3u8",
-                "location": "Key West",
-                "category": "Harbor"
-            },
-            {
-                "name": "Sunset Cam HLS",
-                "url": "https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.kfzxdyu.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/chunklist_w1927643786.m3u8",
-                "location": "Key West",
-                "category": "Scenic"
-            },
-            {
-                "name": "Mallory Square HLS",
-                "url": "https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.jflbdqs.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/chunklist_w250150857.m3u8",
-                "location": "Key West",
-                "category": "Scenic"
-            },
-            {
-                "name": "Sunset Pier HLS",
-                "url": "https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.ohbrd6n.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/chunklist_w804522223.m3u8",
-                "location": "Key West",
-                "category": "Scenic"
-            },
-            {
-                "name": "Key West Beachside Marina HLS",
-                "url": "https://use01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.zbprdoz.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/chunklist_w245649528.m3u8",
-                "location": "Key West",
-                "category": "Marina"
-            },
-            {
-                "name": "Southern Most Point HLS",
-                "url": "https://cdn77.ptztv.live/W0m547CN12IERAa2rkWSow==,1771225517/cdnorigin/kwhwmux.stream/chunklist_DVR.m3u8",
-                "location": "Key West",
-                "category": "Scenic"
-            },
-            {
-                "name": "Butterfly HLS",
-                "url": "https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.pkhjdls.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/chunklist_w693111737.m3u8",
-                "location": "Key West",
-                "category": "Harbor"
-            },
+            {"name": "Marathon Key Scenic View", "url": "https://www.marathonfl.com/", "location": "Marathon", "category": "Scenic"},
+            {"name": "Islamorada Keys Waterfront", "url": "https://www.islamoradafl.com/", "location": "Islamorada", "category": "Waterfront"},
+            {"name": "Dry Tortugas National Park", "url": "https://www.nps.gov/drto/", "location": "Dry Tortugas", "category": "National Park"},
+            {"name": "Key West Marina Live Feed", "url": "https://www.keywestmarina.com/", "location": "Key West", "category": "Marina"},
+            {"name": "Key West National Weather Service", "url": "https://www.weather.gov/tbw/", "location": "Key West", "category": "Weather"},
+            {"name": "Florida Keys Marine Monitoring", "url": "https://www.fisheries.noaa.gov/", "location": "Throughout Keys", "category": "Marine"},
+            {"name": "Marathon Resort Waterfront", "url": "https://www.marathonresort.com/", "location": "Marathon", "category": "Beach"},
+            {"name": "Islamorada Beach Resort Cam", "url": "https://www.islamoradaresort.com/", "location": "Islamorada", "category": "Beach"},
+            {"name": "Key West Aquarium Live", "url": "https://www.keywestaquarium.com/", "location": "Key West", "category": "Aquarium"},
+            {"name": "Key West Historic Seaport", "url": "https://www.keywestseaport.com/", "location": "Key West", "category": "Seaport"},
+            {"name": "Florida Keys Webcams", "url": "https://www.youtube.com/@FloridaKeysWebcams/live", "location": "Throughout Keys", "category": "YouTube Live"},
+            {"name": "Seek Florida Keys", "url": "https://www.youtube.com/@SeekFloridaKeys/live", "location": "Throughout Keys", "category": "YouTube Live"},
         ]
         
         def validate_feed(feed_info, timeout=8):
             try:
-                # For HLS streams (.m3u8), try GET request instead of HEAD
-                if feed_info['url'].endswith('.m3u8'):
-                    req = urllib.request.Request(feed_info['url'])
-                else:
-                    req = urllib.request.Request(feed_info['url'], method='HEAD')
-                
-                req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)')
+                req = urllib.request.Request(feed_info['url'], method='HEAD')
+                req.add_header('User-Agent', 'Mozilla/5.0')
                 with urllib.request.urlopen(req, timeout=timeout, context=ssl_context) as response:
                     feed_info['valid'] = response.status in [200, 206]
-                    feed_info['status_code'] = response.status
                     return feed_info
-            except urllib.error.HTTPError as e:
-                feed_info['valid'] = e.code in [200, 206]
-                feed_info['status_code'] = e.code
-                return feed_info
             except:
                 feed_info['valid'] = False
-                feed_info['status_code'] = 0
                 return feed_info
         
         print("Validating Florida Keys feeds...")
@@ -209,7 +69,6 @@ jobs:
         valid_count = sum(1 for f in results if f.get('valid'))
         print(f"Valid feeds: {valid_count}/{len(results)}")
         
-        # Generate M3U playlist
         with open('florida_keys_live.m3u', 'w') as f:
             f.write('#EXTM3U x-tvg-url="https://jdeit3237-code.github.io/iptv-playlist-epg/florida_keys_live.xml"\n')
             for i, feed in enumerate(results, 1):
@@ -217,93 +76,29 @@ jobs:
                 f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{feed["name"]}" group-title="{feed["category"]}"\n')
                 f.write(f'{feed["url"]}\n')
         
-        print("Generated florida_keys_live.m3u")
-        
-        # Generate XMLTV
         now = datetime.utcnow()
         with open('florida_keys_live.xml', 'w') as f:
-            f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
-            f.write('<!DOCTYPE tv SYSTEM "xmltv.dtd">\n')
-            f.write('<tv>\n')
-            
+            f.write('<?xml version="1.0" encoding="UTF-8"?>\n<!DOCTYPE tv SYSTEM "xmltv.dtd">\n<tv>\n')
             for i, feed in enumerate(results, 1):
                 tvg_id = f"fk_{i:02d}"
-                f.write(f'  <channel id="{tvg_id}">\n')
-                f.write(f'    <display-name>Florida Keys Live — {feed["name"]}</display-name>\n')
-                f.write(f'    <desc>Live camera feed from {feed["location"]}</desc>\n')
-                f.write(f'  </channel>\n')
-            
+                f.write(f'  <channel id="{tvg_id}"><display-name>{feed["name"]}</display-name></channel>\n')
             for i, feed in enumerate(results, 1):
                 tvg_id = f"fk_{i:02d}"
                 start = now.strftime("%Y%m%d%H%M%S +0000")
                 end = (now + timedelta(hours=6)).strftime("%Y%m%d%H%M%S +0000")
-                f.write(f'  <programme start="{start}" stop="{end}" channel="{tvg_id}">\n')
-                f.write(f'    <title>Live Feed - {feed["location"]}</title>\n')
-                f.write(f'    <desc>{feed.get("category")} camera feed</desc>\n')
-                f.write(f'  </programme>\n')
-            
+                f.write(f'  <programme start="{start}" stop="{end}" channel="{tvg_id}"><title>{feed["name"]}</title></programme>\n')
             f.write('</tv>\n')
         
-        print("Generated florida_keys_live.xml")
-        
-        # Generate provider JSON
-        provider_config = {
-            "provider": {
-                "name": "Florida Keys Live Feeds",
-                "version": datetime.now().isoformat(),
-                "description": "Live camera feeds throughout the Florida Keys",
-                "playlists": [
-                    {
-                        "name": "Florida Keys Live Cameras",
-                        "category": "Live Feeds",
-                        "url": "https://jdeit3237-code.github.io/iptv-playlist-epg/florida_keys_live.m3u",
-                        "epg": "https://jdeit3237-code.github.io/iptv-playlist-epg/florida_keys_live.xml",
-                        "refresh_interval": 21600
-                    }
-                ],
-                "metadata": {
-                    "total_feeds": len(results),
-                    "accessible_feeds": valid_count,
-                    "last_updated": datetime.now().isoformat(),
-                    "update_frequency": "Every 6 hours"
-                }
-            }
-        }
-        
         with open('florida_keys_provider.json', 'w') as f:
-            json.dump(provider_config, f, indent=2)
+            json.dump({"provider": {"name": "Florida Keys Live", "feeds": valid_count}}, f)
         
-        print("Generated florida_keys_provider.json")
-        
-        # Print summary
-        print("\nFeed Status Summary:")
-        categories = {}
-        for feed in results:
-            cat = feed['category']
-            categories[cat] = categories.get(cat, 0) + 1
-            status = "✓" if feed.get('valid') else "✗"
-            print(f"  {status} {feed['name']} ({cat})")
-        
-        print(f"\nCategory Breakdown:")
-        for cat, count in sorted(categories.items()):
-            print(f"  {cat}: {count}")
-        
-        EOF
+        print("Done")
+        PYTHON_EOF
     
-    - name: Check for changes
-      id: check_changes
-      run: |
-        if git diff --quiet florida_keys_live.m3u florida_keys_live.xml florida_keys_provider.json 2>/dev/null; then
-          echo "changed=false" >> $GITHUB_OUTPUT
-        else
-          echo "changed=true" >> $GITHUB_OUTPUT
-        fi
-    
-    - name: Commit and push changes
-      if: steps.check_changes.outputs.changed == 'true'
+    - name: Commit and push
       run: |
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
         git add florida_keys_live.m3u florida_keys_live.xml florida_keys_provider.json
-        git commit -m "Update Florida Keys live feeds - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
-        git push origin gh-pages
+        git commit -m "Update Florida Keys feeds $(date -u +'%Y-%m-%d %H:%M:%S')" || echo "No changes"
+        git push origin gh-pages || echo "Push skipped"

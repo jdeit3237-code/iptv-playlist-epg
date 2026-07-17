@@ -1,204 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv>
-  <channel id="fk_01">
-    <display-name>Florida Keys Live — Key West Live Harbor Cam</display-name>
-    <desc>Live camera feed - Harbor</desc>
-  </channel>
   <channel id="fk_02">
     <display-name>Florida Keys Live — Marathon Key Scenic View</display-name>
-    <desc>Live camera feed - Scenic</desc>
+    <desc>Live feed - Scenic</desc>
   </channel>
   <channel id="fk_03">
     <display-name>Florida Keys Live — Islamorada Keys Waterfront</display-name>
-    <desc>Live camera feed - Waterfront</desc>
-  </channel>
-  <channel id="fk_04">
-    <display-name>Florida Keys Live — Key Largo Northern Gateway</display-name>
-    <desc>Live camera feed - Gateway</desc>
-  </channel>
-  <channel id="fk_05">
-    <display-name>Florida Keys Live — Bahia Honda State Park</display-name>
-    <desc>Live camera feed - State Park</desc>
+    <desc>Live feed - Waterfront</desc>
   </channel>
   <channel id="fk_06">
     <display-name>Florida Keys Live — Dry Tortugas National Park</display-name>
-    <desc>Live camera feed - National Park</desc>
+    <desc>Live feed - National Park</desc>
   </channel>
   <channel id="fk_07">
     <display-name>Florida Keys Live — Key West Marina Live Feed</display-name>
-    <desc>Live camera feed - Marina</desc>
-  </channel>
-  <channel id="fk_08">
-    <display-name>Florida Keys Live — Marathon Marina Docks</display-name>
-    <desc>Live camera feed - Marina</desc>
+    <desc>Live feed - Marina</desc>
   </channel>
   <channel id="fk_09">
     <display-name>Florida Keys Live — Key West National Weather Service</display-name>
-    <desc>Live camera feed - Weather</desc>
+    <desc>Live feed - Weather</desc>
   </channel>
   <channel id="fk_10">
     <display-name>Florida Keys Live — Florida Keys Marine Monitoring</display-name>
-    <desc>Live camera feed - Marine</desc>
-  </channel>
-  <channel id="fk_11">
-    <display-name>Florida Keys Live — Key Largo Resort Beach</display-name>
-    <desc>Live camera feed - Beach</desc>
+    <desc>Live feed - Marine</desc>
   </channel>
   <channel id="fk_12">
     <display-name>Florida Keys Live — Marathon Resort Waterfront</display-name>
-    <desc>Live camera feed - Beach</desc>
+    <desc>Live feed - Beach</desc>
   </channel>
   <channel id="fk_13">
     <display-name>Florida Keys Live — Islamorada Beach Resort Cam</display-name>
-    <desc>Live camera feed - Beach</desc>
+    <desc>Live feed - Beach</desc>
   </channel>
   <channel id="fk_14">
     <display-name>Florida Keys Live — Key West Aquarium Live</display-name>
-    <desc>Live camera feed - Aquarium</desc>
+    <desc>Live feed - Aquarium</desc>
   </channel>
   <channel id="fk_15">
     <display-name>Florida Keys Live — Key West Historic Seaport</display-name>
-    <desc>Live camera feed - Seaport</desc>
-  </channel>
-  <channel id="fk_16">
-    <display-name>Florida Keys Live — Key West Harbor Skyline</display-name>
-    <desc>Live camera feed - Harbor</desc>
+    <desc>Live feed - Seaport</desc>
   </channel>
   <channel id="fk_17">
     <display-name>Florida Keys Live — Florida Keys Webcams</display-name>
-    <desc>YouTube live channel from Florida Keys Webcams</desc>
+    <desc>YouTube live channel - Florida Keys Webcams</desc>
   </channel>
   <channel id="fk_18">
     <display-name>Florida Keys Live — Seek Florida Keys</display-name>
-    <desc>YouTube live channel from Seek Florida Keys</desc>
+    <desc>YouTube live channel - Seek Florida Keys</desc>
   </channel>
-  <channel id="fk_19">
-    <display-name>Florida Keys Live — Key West Webcams HLS</display-name>
-    <desc>Live camera feed - Harbor</desc>
-  </channel>
-  <channel id="fk_20">
-    <display-name>Florida Keys Live — Sunset Cam HLS</display-name>
-    <desc>Live camera feed - Scenic</desc>
-  </channel>
-  <channel id="fk_21">
-    <display-name>Florida Keys Live — Mallory Square HLS</display-name>
-    <desc>Live camera feed - Scenic</desc>
-  </channel>
-  <channel id="fk_22">
-    <display-name>Florida Keys Live — Sunset Pier HLS</display-name>
-    <desc>Live camera feed - Scenic</desc>
-  </channel>
-  <channel id="fk_23">
-    <display-name>Florida Keys Live — Key West Beachside Marina HLS</display-name>
-    <desc>Live camera feed - Marina</desc>
-  </channel>
-  <channel id="fk_24">
-    <display-name>Florida Keys Live — Southern Most Point HLS</display-name>
-    <desc>Live camera feed - Scenic</desc>
-  </channel>
-  <channel id="fk_25">
-    <display-name>Florida Keys Live — Butterfly HLS</display-name>
-    <desc>Live camera feed - Harbor</desc>
-  </channel>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_01">
-    <title>Live Feed - Key West Live Harbor Cam</title>
-    <desc>Harbor channel</desc>
+  <programme start="20260717180637 +0000" stop="20260718000637 +0000" channel="fk_02">
+    <title>Marathon Key Scenic View</title>
+    <desc>Scenic</desc>
   </programme>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_02">
-    <title>Live Feed - Marathon Key Scenic View</title>
-    <desc>Scenic channel</desc>
+  <programme start="20260717180637 +0000" stop="20260718000637 +0000" channel="fk_03">
+    <title>Islamorada Keys Waterfront</title>
+    <desc>Waterfront</desc>
   </programme>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_03">
-    <title>Live Feed - Islamorada Keys Waterfront</title>
-    <desc>Waterfront channel</desc>
+  <programme start="20260717180637 +0000" stop="20260718000637 +0000" channel="fk_06">
+    <title>Dry Tortugas National Park</title>
+    <desc>National Park</desc>
   </programme>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_04">
-    <title>Live Feed - Key Largo Northern Gateway</title>
-    <desc>Gateway channel</desc>
+  <programme start="20260717180637 +0000" stop="20260718000637 +0000" channel="fk_07">
+    <title>Key West Marina Live Feed</title>
+    <desc>Marina</desc>
   </programme>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_05">
-    <title>Live Feed - Bahia Honda State Park</title>
-    <desc>State Park channel</desc>
+  <programme start="20260717180637 +0000" stop="20260718000637 +0000" channel="fk_09">
+    <title>Key West National Weather Service</title>
+    <desc>Weather</desc>
   </programme>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_06">
-    <title>Live Feed - Dry Tortugas National Park</title>
-    <desc>National Park channel</desc>
+  <programme start="20260717180637 +0000" stop="20260718000637 +0000" channel="fk_10">
+    <title>Florida Keys Marine Monitoring</title>
+    <desc>Marine</desc>
   </programme>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_07">
-    <title>Live Feed - Key West Marina Live Feed</title>
-    <desc>Marina channel</desc>
+  <programme start="20260717180637 +0000" stop="20260718000637 +0000" channel="fk_12">
+    <title>Marathon Resort Waterfront</title>
+    <desc>Beach</desc>
   </programme>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_08">
-    <title>Live Feed - Marathon Marina Docks</title>
-    <desc>Marina channel</desc>
+  <programme start="20260717180637 +0000" stop="20260718000637 +0000" channel="fk_13">
+    <title>Islamorada Beach Resort Cam</title>
+    <desc>Beach</desc>
   </programme>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_09">
-    <title>Live Feed - Key West National Weather Service</title>
-    <desc>Weather channel</desc>
+  <programme start="20260717180637 +0000" stop="20260718000637 +0000" channel="fk_14">
+    <title>Key West Aquarium Live</title>
+    <desc>Aquarium</desc>
   </programme>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_10">
-    <title>Live Feed - Florida Keys Marine Monitoring</title>
-    <desc>Marine channel</desc>
+  <programme start="20260717180637 +0000" stop="20260718000637 +0000" channel="fk_15">
+    <title>Key West Historic Seaport</title>
+    <desc>Seaport</desc>
   </programme>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_11">
-    <title>Live Feed - Key Largo Resort Beach</title>
-    <desc>Beach channel</desc>
+  <programme start="20260717180637 +0000" stop="20260718000637 +0000" channel="fk_17">
+    <title>Florida Keys Webcams</title>
+    <desc>YouTube Live</desc>
   </programme>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_12">
-    <title>Live Feed - Marathon Resort Waterfront</title>
-    <desc>Beach channel</desc>
-  </programme>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_13">
-    <title>Live Feed - Islamorada Beach Resort Cam</title>
-    <desc>Beach channel</desc>
-  </programme>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_14">
-    <title>Live Feed - Key West Aquarium Live</title>
-    <desc>Aquarium channel</desc>
-  </programme>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_15">
-    <title>Live Feed - Key West Historic Seaport</title>
-    <desc>Seaport channel</desc>
-  </programme>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_16">
-    <title>Live Feed - Key West Harbor Skyline</title>
-    <desc>Harbor channel</desc>
-  </programme>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_17">
-    <title>Live Feed - Florida Keys Webcams</title>
-    <desc>YouTube Live channel</desc>
-  </programme>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_18">
-    <title>Live Feed - Seek Florida Keys</title>
-    <desc>YouTube Live channel</desc>
-  </programme>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_19">
-    <title>Live Feed - Key West Webcams HLS</title>
-    <desc>Harbor channel</desc>
-  </programme>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_20">
-    <title>Live Feed - Sunset Cam HLS</title>
-    <desc>Scenic channel</desc>
-  </programme>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_21">
-    <title>Live Feed - Mallory Square HLS</title>
-    <desc>Scenic channel</desc>
-  </programme>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_22">
-    <title>Live Feed - Sunset Pier HLS</title>
-    <desc>Scenic channel</desc>
-  </programme>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_23">
-    <title>Live Feed - Key West Beachside Marina HLS</title>
-    <desc>Marina channel</desc>
-  </programme>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_24">
-    <title>Live Feed - Southern Most Point HLS</title>
-    <desc>Scenic channel</desc>
-  </programme>
-  <programme start="20260717180137 +0000" stop="20260718000137 +0000" channel="fk_25">
-    <title>Live Feed - Butterfly HLS</title>
-    <desc>Harbor channel</desc>
+  <programme start="20260717180637 +0000" stop="20260718000637 +0000" channel="fk_18">
+    <title>Seek Florida Keys</title>
+    <desc>YouTube Live</desc>
   </programme>
 </tv>

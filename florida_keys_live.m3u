@@ -1,26 +1,16 @@
 #EXTM3U x-tvg-url="https://jdeit3237-code.github.io/iptv-playlist-epg/florida_keys_live.xml"
-#EXTINF:-1 tvg-id="fk_01" tvg-name="Key West Live Harbor Cam" group-title="Harbor"
-https://www.keywestcity.com/webcams
 #EXTINF:-1 tvg-id="fk_02" tvg-name="Marathon Key Scenic View" group-title="Scenic"
 https://www.marathonfl.com/
 #EXTINF:-1 tvg-id="fk_03" tvg-name="Islamorada Keys Waterfront" group-title="Waterfront"
 https://www.islamoradafl.com/
-#EXTINF:-1 tvg-id="fk_04" tvg-name="Key Largo Northern Gateway" group-title="Gateway"
-https://www.keylargoflorida.com/
-#EXTINF:-1 tvg-id="fk_05" tvg-name="Bahia Honda State Park" group-title="State Park"
-https://www.floridastateparks.org/parks-and-trails/bahia-honda-state-park
 #EXTINF:-1 tvg-id="fk_06" tvg-name="Dry Tortugas National Park" group-title="National Park"
 https://www.nps.gov/drto/
 #EXTINF:-1 tvg-id="fk_07" tvg-name="Key West Marina Live Feed" group-title="Marina"
 https://www.keywestmarina.com/
-#EXTINF:-1 tvg-id="fk_08" tvg-name="Marathon Marina Docks" group-title="Marina"
-https://www.marathonmarinacenter.com/
 #EXTINF:-1 tvg-id="fk_09" tvg-name="Key West National Weather Service" group-title="Weather"
 https://www.weather.gov/tbw/
 #EXTINF:-1 tvg-id="fk_10" tvg-name="Florida Keys Marine Monitoring" group-title="Marine"
 https://www.fisheries.noaa.gov/
-#EXTINF:-1 tvg-id="fk_11" tvg-name="Key Largo Resort Beach" group-title="Beach"
-https://www.keylargoresort.com/
 #EXTINF:-1 tvg-id="fk_12" tvg-name="Marathon Resort Waterfront" group-title="Beach"
 https://www.marathonresort.com/
 #EXTINF:-1 tvg-id="fk_13" tvg-name="Islamorada Beach Resort Cam" group-title="Beach"
@@ -29,23 +19,7 @@ https://www.islamoradaresort.com/
 https://www.keywestaquarium.com/
 #EXTINF:-1 tvg-id="fk_15" tvg-name="Key West Historic Seaport" group-title="Seaport"
 https://www.keywestseaport.com/
-#EXTINF:-1 tvg-id="fk_16" tvg-name="Key West Harbor Skyline" group-title="Harbor"
-https://player.vimeo.com/video/live_embed
 #EXTINF:-1 tvg-id="fk_17" tvg-name="Florida Keys Webcams" group-title="YouTube Live"
 https://www.youtube.com/@FloridaKeysWebcams/live
 #EXTINF:-1 tvg-id="fk_18" tvg-name="Seek Florida Keys" group-title="YouTube Live"
 https://www.youtube.com/@SeekFloridaKeys/live
-#EXTINF:-1 tvg-id="fk_19" tvg-name="Key West Webcams HLS" group-title="Harbor"
-https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.odjvdrc.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/chunklist_w1244723367.m3u8
-#EXTINF:-1 tvg-id="fk_20" tvg-name="Sunset Cam HLS" group-title="Scenic"
-https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.kfzxdyu.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/chunklist_w1927643786.m3u8
-#EXTINF:-1 tvg-id="fk_21" tvg-name="Mallory Square HLS" group-title="Scenic"
-https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.jflbdqs.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/chunklist_w250150857.m3u8
-#EXTINF:-1 tvg-id="fk_22" tvg-name="Sunset Pier HLS" group-title="Scenic"
-https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.ohbrd6n.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/chunklist_w804522223.m3u8
-#EXTINF:-1 tvg-id="fk_23" tvg-name="Key West Beachside Marina HLS" group-title="Marina"
-https://use01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.zbprdoz.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/chunklist_w245649528.m3u8
-#EXTINF:-1 tvg-id="fk_24" tvg-name="Southern Most Point HLS" group-title="Scenic"
-https://cdn77.ptztv.live/W0m547CN12IERAa2rkWSow==,1771225517/cdnorigin/kwhwmux.stream/chunklist_DVR.m3u8
-#EXTINF:-1 tvg-id="fk_25" tvg-name="Butterfly HLS" group-title="Harbor"
-https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.pkhjdls.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt19793.rc0.edge.basic.stream/chunklist_w693111737.m3u8

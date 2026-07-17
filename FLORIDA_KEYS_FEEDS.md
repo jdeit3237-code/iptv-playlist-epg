@@ -26,44 +26,33 @@ https://jdeit3237-code.github.io/iptv-playlist-epg/florida_keys_live.xml
 
 ## Available Feeds
 
-The channel includes live cameras from:
+The channel includes 12 verified working feeds from:
 
-### Harbor & Marina (Key West)
-- Key West Live Harbor Cam
-- Key West Marina Live Feed
-- Key West Historic Seaport
+### Scenic Views & Tourism
+- **Marathon Key Scenic View** - Marathon scenic overlook
+- **Islamorada Keys Waterfront** - Upper Keys waterfront
+
+### Parks & Natural Areas
+- **Dry Tortugas National Park** - Fort Jefferson and coral reefs
+
+### Marina & Waterfront  
+- **Key West Marina Live Feed** - Boat dock and marina activity
 
 ### Beaches & Resorts
-- Marathon Resort Waterfront
-- Islamorada Beach Resort Cam
-- Key Largo Resort Beach
+- **Marathon Resort Waterfront** - Resort beach
+- **Islamorada Beach Resort Cam** - Resort beach
 
-### Scenic Views
-- Marathon Key Scenic View
-- Islamorada Keys Waterfront
-- Key Largo Northern Gateway
-
-### Parks & Nature
-- Bahia Honda State Park
-- Dry Tortugas National Park
-- Florida Keys Marine Monitoring
+### Attractions
+- **Key West Aquarium Live** - Marine life viewing
+- **Key West Historic Seaport** - Working seaport
 
 ### Weather & Environmental
-- Key West National Weather Service
+- **Key West National Weather Service** - Regional weather
+- **Florida Keys Marine Monitoring** - Marine research data
 
 ### YouTube Channels
-- **Florida Keys Webcams** - Multi-camera live feeds from throughout the Keys
-- **Seek Florida Keys** - Live exploration and tour feeds of the Keys
-
-### Key West Webcams - HLS Live Streams
-*(From floridakeyswebcams.tv)*
-- **Key West Webcams HLS** - General harbor view
-- **Sunset Cam HLS** - Sunset viewing location
-- **Mallory Square HLS** - Famous Mallory Square sunset spot
-- **Sunset Pier HLS** - Sunset from pier viewpoint
-- **Key West Beachside Marina HLS** - Marina waterfront activity
-- **Southern Most Point HLS** - Southernmost point of continental US
-- **Butterfly HLS** - Butterfly garden/scenic area
+- **Florida Keys Webcams** - Multi-camera live feeds
+- **Seek Florida Keys** - Live exploration feeds
 
 ## Automatic Updates
 
