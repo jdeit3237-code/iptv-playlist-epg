@@ -1,0 +1,21 @@
+{
+  "provider": {
+    "name": "Florida Keys Live Feeds",
+    "version": "2026-07-17T13:43:50.320183",
+    "description": "Live feeds from cameras throughout the Florida Keys",
+    "playlists": [
+      {
+        "name": "Florida Keys Live - All Feeds",
+        "category": "Live Feeds",
+        "url": "https://jdeit3237-code.github.io/iptv-playlist-epg/florida_keys_live.m3u",
+        "epg": "https://jdeit3237-code.github.io/iptv-playlist-epg/florida_keys_live.xml",
+        "refresh_interval": 3600
+      }
+    ],
+    "metadata": {
+      "total_feeds": 3,
+      "last_updated": "2026-07-17T13:43:50.320194",
+      "validation_method": "HTTP HEAD requests"
+    }
+  }
+}

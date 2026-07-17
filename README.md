@@ -103,6 +103,34 @@ You can manually run the workflow anytime via the Actions tab → "Run workflow"
 - **SciFi** (4 channels)
 - **International** (2 channels)
 
+---
+
+## 🎥 Florida Keys Live Feeds
+
+**NEW: Live camera feeds from throughout the Florida Keys!**
+
+This repository also hosts real-time camera feeds from the Florida Keys, including harbor views, beaches, parks, and marine monitoring cameras. Perfect for checking weather, water conditions, and scenic views.
+
+### Florida Keys Quick Add
+
+| Type | URL |
+|------|-----|
+| **Playlist** | https://jdeit3237-code.github.io/iptv-playlist-epg/florida_keys_live.m3u |
+| **EPG Guide** | https://jdeit3237-code.github.io/iptv-playlist-epg/florida_keys_live.xml |
+
+**Featured Cameras:**
+- Key West Harbor & Marina
+- Marathon Seven Mile Bridge
+- Islamorada Waterfront
+- Dry Tortugas National Park
+- Bahia Honda State Park
+- Key Largo Beach Resort
+- Marine Monitoring Feeds
+
+**Updates:** Every 6 hours via automated GitHub Actions workflow
+
+📖 **[Full Florida Keys Documentation](FLORIDA_KEYS_FEEDS.md)**
+
 ## Important Notes
 
 - **Stream Availability**: Streams are public/free sources provided by iptv-org. Some may go offline; the automated daily checks help keep the lists fresh.
