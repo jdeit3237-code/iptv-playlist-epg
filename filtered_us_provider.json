@@ -1,0 +1,152 @@
+{
+  "version": "1.0.0",
+  "name": "Filtered US IPTV",
+  "author": "jdeit3237",
+  "description": "Validated US IPTV streams organized by 16 categories with matching EPG guides",
+  "playlists": [
+    {
+      "name": "Entertainment (342 channels)",
+      "playlist": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_entertainment.m3u",
+      "epg": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_entertainment.xml",
+      "logo": "",
+      "categories": [
+        "Entertainment"
+      ]
+    },
+    {
+      "name": "Other (371 channels)",
+      "playlist": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_other.m3u",
+      "epg": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_other.xml",
+      "logo": "",
+      "categories": [
+        "Other"
+      ]
+    },
+    {
+      "name": "News (102 channels)",
+      "playlist": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_news.m3u",
+      "epg": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_news.xml",
+      "logo": "",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "name": "Family (65 channels)",
+      "playlist": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_family.m3u",
+      "epg": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_family.xml",
+      "logo": "",
+      "categories": [
+        "Family"
+      ]
+    },
+    {
+      "name": "Sports (40 channels)",
+      "playlist": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_sports.m3u",
+      "epg": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_sports.xml",
+      "logo": "",
+      "categories": [
+        "Sports"
+      ]
+    },
+    {
+      "name": "Kids (38 channels)",
+      "playlist": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_kids.m3u",
+      "epg": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_kids.xml",
+      "logo": "",
+      "categories": [
+        "Kids"
+      ]
+    },
+    {
+      "name": "Education (15 channels)",
+      "playlist": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_education.m3u",
+      "epg": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_education.xml",
+      "logo": "",
+      "categories": [
+        "Education"
+      ]
+    },
+    {
+      "name": "Religion (17 channels)",
+      "playlist": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_religion.m3u",
+      "epg": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_religion.xml",
+      "logo": "",
+      "categories": [
+        "Religion"
+      ]
+    },
+    {
+      "name": "Lifestyle (9 channels)",
+      "playlist": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_lifestyle.m3u",
+      "epg": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_lifestyle.xml",
+      "logo": "",
+      "categories": [
+        "Lifestyle"
+      ]
+    },
+    {
+      "name": "Comedy (9 channels)",
+      "playlist": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_comedy.m3u",
+      "epg": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_comedy.xml",
+      "logo": "",
+      "categories": [
+        "Comedy"
+      ]
+    },
+    {
+      "name": "Cooking (10 channels)",
+      "playlist": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_cooking.m3u",
+      "epg": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_cooking.xml",
+      "logo": "",
+      "categories": [
+        "Cooking"
+      ]
+    },
+    {
+      "name": "Government (7 channels)",
+      "playlist": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_government.m3u",
+      "epg": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_government.xml",
+      "logo": "",
+      "categories": [
+        "Government"
+      ]
+    },
+    {
+      "name": "Music (7 channels)",
+      "playlist": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_music.m3u",
+      "epg": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_music.xml",
+      "logo": "",
+      "categories": [
+        "Music"
+      ]
+    },
+    {
+      "name": "Fishing (4 channels)",
+      "playlist": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_fishing.m3u",
+      "epg": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_fishing.xml",
+      "logo": "",
+      "categories": [
+        "Fishing"
+      ]
+    },
+    {
+      "name": "SciFi (4 channels)",
+      "playlist": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_scifi.m3u",
+      "epg": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_scifi.xml",
+      "logo": "",
+      "categories": [
+        "SciFi"
+      ]
+    },
+    {
+      "name": "International (2 channels)",
+      "playlist": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_international.m3u",
+      "epg": "https://jdeit3237-code.github.io/iptv-playlist-epg/filtered_us_international.xml",
+      "logo": "",
+      "categories": [
+        "International"
+      ]
+    }
+  ]
+}
