@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv>
-  <channel id="fk_01"><display-name>Southernmost Beach Resort Camera 1</display-name></channel>
+  <channel id="fk_01"><display-name>Oregon Coast Aquarium Shark Cam</display-name></channel>
   <channel id="fk_02"><display-name>Southernmost Beach Resort Camera 2</display-name></channel>
   <channel id="fk_03"><display-name>Southernmost Beach Resort Camera 3</display-name></channel>
   <channel id="fk_04"><display-name>Southernmost Beach Resort Camera 4</display-name></channel>
@@ -15,7 +15,7 @@
   <channel id="fk_12"><display-name>Key West Butterfly Conservatory</display-name></channel>
   <channel id="fk_13"><display-name>Reach Key West Cam</display-name></channel>
   <channel id="fk_14"><display-name>Ocean Key Webcam</display-name></channel>
-  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_01"><title>Southernmost Beach Resort Camera 1</title></programme>
+  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_01"><title>Oregon Coast Aquarium Shark Cam</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_02"><title>Southernmost Beach Resort Camera 2</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_03"><title>Southernmost Beach Resort Camera 3</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_04"><title>Southernmost Beach Resort Camera 4</title></programme>

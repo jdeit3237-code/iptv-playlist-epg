@@ -37,7 +37,7 @@ jobs:
         ssl_context.verify_mode = ssl.CERT_NONE
         
         FLORIDA_KEYS_FEEDS = [
-            {"name": "Southernmost Beach Resort Camera 1", "url": "https://b15.hdrelay.com/camera/CID_WMAA00000062/relay/playlist.m3u8", "location": "Key West", "category": "Live HLS"},
+            {"name": "Oregon Coast Aquarium Shark Cam", "url": "https://b15.hdrelay.com/camera/CID_WMAA00000062/relay/playlist.m3u8", "location": "Newport, Oregon", "category": "Live HLS"},
             {"name": "Southernmost Beach Resort Camera 2", "url": "https://use01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.zemocxr.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8", "location": "Key West", "category": "Live HLS"},
             {"name": "Southernmost Beach Resort Camera 3", "url": "https://use01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.zemocxr.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/chunklist_w1932134495.m3u8", "location": "Key West", "category": "Live HLS"},
             {"name": "Southernmost Beach Resort Camera 4", "url": "https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.preb48.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8", "location": "Key West", "category": "Live HLS"},
