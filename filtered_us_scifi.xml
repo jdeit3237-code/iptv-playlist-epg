@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="copilot-cli">
+  <channel id="SYFY.us@East">
+    <display-name>Filtered US Scifi — SYFY (720p)</display-name>
+    <url>http://23.237.104.106:8080/USA_SYFY/index.m3u8</url>
+  </channel>
+  <channel id="SYFY.us@East_2">
+    <display-name>Filtered US Scifi — SYFY (720p)</display-name>
+    <url>http://40.160.24.55/SYFY/index.m3u8</url>
+  </channel>
+  <channel id="SYFY.us@East_3">
+    <display-name>Filtered US Scifi — SYFY (720p)</display-name>
+    <url>http://206.212.244.63/152/index.m3u8</url>
+  </channel>
+  <channel id="SYFY.us@East_4">
+    <display-name>Filtered US Scifi — SYFY (1080p)</display-name>
+    <url>https://gpuserver5.tier1streams.com/SYFY/index.m3u8</url>
+  </channel>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SYFY.us@East">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Scifi — SYFY (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SYFY.us@East_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Scifi — SYFY (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SYFY.us@East_3">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Scifi — SYFY (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SYFY.us@East_4">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Scifi — SYFY (1080p)</desc>
+  </programme>
+</tv>

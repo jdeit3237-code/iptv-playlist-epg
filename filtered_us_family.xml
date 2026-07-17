@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="copilot-cli">
+  <channel id="ACCNetwork.us@SD">
+    <display-name>Filtered US Family — ACC Network (720p)</display-name>
+    <url>http://206.212.244.63/2486/index.m3u8</url>
+  </channel>
+  <channel id="ACCNetwork.us@SD_2">
+    <display-name>Filtered US Family — ACC Network (720p)</display-name>
+    <url>http://40.160.24.52/ACC_NETWORK/index.m3u8</url>
+  </channel>
+  <channel id="AlkarmaTVFamily.us@SD">
+    <display-name>Filtered US Family — Alkarma TV Family (1080p) [Not 24/7]</display-name>
+    <url>https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8</url>
+  </channel>
+  <channel id="BigTenNetwork.us@SD">
+    <display-name>Filtered US Family — Big Ten Network (720p)</display-name>
+    <url>http://206.212.244.63/2489/index.m3u8</url>
+  </channel>
+  <channel id="BigTenNetwork.us@SD_2">
+    <display-name>Filtered US Family — Big Ten Network (720p)</display-name>
+    <url>http://40.160.24.52/BIG_TEN_NETWORK/index.m3u8</url>
+  </channel>
+  <channel id="BigTenNetwork.us@SD_3">
+    <display-name>Filtered US Family — Big Ten Network (720p)</display-name>
+    <url>http://23.237.104.106:8080/USA_BTN/index.m3u8</url>
+  </channel>
+  <channel id="CBNFamily.us@SD">
+    <display-name>Filtered US Family — CBN Family (1080p)</display-name>
+    <url>https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8</url>
+  </channel>
+  <channel id="DraftKingsNetwork.us@SD">
+    <display-name>Filtered US Family — DraftKings Network (1080p)</display-name>
+    <url>https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8</url>
+  </channel>
+  <channel id="GameShowNetwork.us@East">
+    <display-name>Filtered US Family — Game Show Network (720p)</display-name>
+    <url>http://40.160.24.52/GSN/index.m3u8</url>
+  </channel>
+  <channel id="Gagsnetwork.us@SD">
+    <display-name>Filtered US Family — Gagsnetwork (576p)</display-name>
+    <url>http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8</url>
+  </channel>
+  <channel id="GemShoppingNetwork.us@SD">
+    <display-name>Filtered US Family — Gem Shopping Network (720p)</display-name>
+    <url>https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8</url>
+  </channel>
+  <channel id="GlobalBuddhistNetwork.us@SD">
+    <display-name>Filtered US Family — GBN Global Buddhist Network (1080p)</display-name>
+    <url>https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/us/gbnus.m3u8</url>
+  </channel>
+  <channel id="GreatAmericanFamily.us@SD">
+    <display-name>Filtered US Family — Great American Family (1080p)</display-name>
+    <url>http://40.160.24.52/GREAT_AMERICAN_COUNTRY/index.m3u8</url>
+  </channel>
+  <channel id="GreatAmericanFamily.us@SD_2">
+    <display-name>Filtered US Family — Great American Family (1080p)</display-name>
+    <url>http://40.160.24.58/GAC_FAMILY/index.m3u8</url>
+  </channel>
+  <channel id="GreatAmericanFamily.us@SD_3">
+    <display-name>Filtered US Family — Great American Family (720p)</display-name>
+    <url>http://206.212.244.63/81/index.m3u8</url>
+  </channel>
+  <channel id="HallmarkFamily.us@SD">
+    <display-name>Filtered US Family — Hallmark Family (1080p)</display-name>
+    <url>http://40.160.24.53/HALLMARK_DRAMA/index.m3u8</url>
+  </channel>
+  <channel id="HallmarkFamily.us@SD_2">
+    <display-name>Filtered US Family — Hallmark Family (720p)</display-name>
+    <url>http://206.212.244.63/85/index.m3u8</url>
+  </channel>
+  <channel id="ImpactNetwork.us@SD">
+    <display-name>Filtered US Family — Impact Network (720p)</display-name>
+    <url>https://edge1.lifestreamcdn.com/live/impactroku1/index.m3u8</url>
+  </channel>
+  <channel id="InfoWars.us@SD">
+    <display-name>Filtered US Family — InfoWars Network (1080p)</display-name>
+    <url>https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8</url>
+  </channel>
+  <channel id="MagnificentMoviesNetwork.us@SD">
+    <display-name>Filtered US Family — Magnificent Movies Network</display-name>
+    <url>https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8</url>
+  </channel>
+  <channel id="ParamountNetwork.us@East">
+    <display-name>Filtered US Family — Paramount Network (720p)</display-name>
+    <url>http://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8</url>
+  </channel>
+  <channel id="ParamountNetwork.us@East_2">
+    <display-name>Filtered US Family — Paramount Network (720p)</display-name>
+    <url>http://206.212.244.63/137/index.m3u8</url>
+  </channel>
+  <channel id="ParamountNetworkLatinAmerica.us@Panregional">
+    <display-name>Filtered US Family — Paramount Network Latin America (720p)</display-name>
+    <url>http://138.186.23.7:8082/PARAMOUNT/index.m3u8</url>
+  </channel>
+  <channel id="RacerNetwork.us@SD">
+    <display-name>Filtered US Family — Racer Network (1080p)</display-name>
+    <url>https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8</url>
+  </channel>
+  <channel id="ScientologyNetwork.us@SD">
+    <display-name>Filtered US Family — Scientology Network (1080p)</display-name>
+    <url>https://stream6.scientology.org/master.m3u8</url>
+  </channel>
+  <channel id="KSCNTV221.us@HD">
+    <display-name>Filtered US Family — Scientology Network KSCN-DT1</display-name>
+    <url>https://stream-losangeles.scientology.org/master.m3u8</url>
+  </channel>
+  <channel id="SECNetwork.us@SD">
+    <display-name>Filtered US Family — SEC Network (720p)</display-name>
+    <url>http://40.160.24.55/SEC_NETWORK/index.m3u8</url>
+  </channel>
+  <channel id="SECNetwork.us@SD_2">
+    <display-name>Filtered US Family — SEC Network (720p)</display-name>
+    <url>http://206.212.244.63/2511/index.m3u8</url>
+  </channel>
+  <channel id="WFTTTV621.us@HD">
+    <display-name>Filtered US Family — Scientology Network WFTT-DT1</display-name>
+    <url>https://stream-tampa.scientology.org/master.m3u8</url>
+  </channel>
+  <channel id="ShowtimeFamilyZone.us@East">
+    <display-name>Filtered US Family — Showtime Family Zone (720p)</display-name>
+    <url>http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8</url>
+  </channel>
+  <channel id="TeveVidaNetwork.us@SD">
+    <display-name>Filtered US Family — Teve Vida Network (480p) [Not 24/7]</display-name>
+    <url>https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8</url>
+  </channel>
+  <channel id="TheCountryNetwork.us@SD">
+    <display-name>Filtered US Family — The Country Network (1080p)</display-name>
+    <url>https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8</url>
+  </channel>
+  <channel id="TheWordNetwork.us@SD">
+    <display-name>Filtered US Family — The Word Network (720p)</display-name>
+    <url>http://206.212.244.63/158/index.m3u8</url>
+  </channel>
+  <channel id="TheNowNetwork.us@SD">
+    <display-name>Filtered US Family — The Now Network (480p) [Not 24/7]</display-name>
+    <url>https://mediaprod1.nowcast.cc:5443/LiveApp/streams/anZPy7eaVWLyDMZB1697488814699.m3u8</url>
+  </channel>
+  <channel id="TheWordNetwork.us@SD_2">
+    <display-name>Filtered US Family — The Word Network (1080p)</display-name>
+    <url>https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8</url>
+  </channel>
+  <channel id="TVSBowlingNetwork.us@SD">
+    <display-name>Filtered US Family — TVS Bowling Network (720p)</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8</url>
+  </channel>
+  <channel id="TVSCipherNetwork.us@SD">
+    <display-name>Filtered US Family — TVS Cipher Network (360p)</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-tvsmystery/index.m3u8</url>
+  </channel>
+  <channel id="TVSComedyNetwork.us@SD">
+    <display-name>Filtered US Family — TVS Comedy Network (720p)</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8</url>
+  </channel>
+  <channel id="TVSFamilyChannel.us@SD">
+    <display-name>Filtered US Family — TVS Family Channel (360p)</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8</url>
+  </channel>
+  <channel id="TVSFlashbackNetwork.us@SD">
+    <display-name>Filtered US Family — TVS Flashback Network (360p)</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-TVSFlashback/index.m3u8</url>
+  </channel>
+  <channel id="TVS_Frontier_Network__360p_">
+    <display-name>Filtered US Family — TVS Frontier Network (360p)</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-tvsfrontier/index.m3u8</url>
+  </channel>
+  <channel id="TVSMusicNetwork.us@SD">
+    <display-name>Filtered US Family — TVS Music Network (720p)</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8</url>
+  </channel>
+  <channel id="TVSQuizShowNetwork.us@SD">
+    <display-name>Filtered US Family — TVS Quiz Show Network (720p)</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-tvsgameshow/index.m3u8</url>
+  </channel>
+  <channel id="TVSSelectNetwork.us@SD">
+    <display-name>Filtered US Family — TVS Select Network (720p)</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-tvsselect/index.m3u8</url>
+  </channel>
+  <channel id="TVSTalkNetwork.us@SD">
+    <display-name>Filtered US Family — TVS Talk Network (360p)</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-TVStalk/index.m3u8</url>
+  </channel>
+  <channel id="TVSPetParadeNetwork.us@SD">
+    <display-name>Filtered US Family — TVS Pet Parade Network (360p)</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-petparadenetwork/index.m3u8</url>
+  </channel>
+  <channel id="TVSTelevisionNetwork.us@SD">
+    <display-name>Filtered US Family — TVS Television Network (480p)</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8</url>
+  </channel>
+  <channel id="TVSTravelNetwork.us@SD">
+    <display-name>Filtered US Family — TVS Travel Network (720p) [Not 24/7]</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8</url>
+  </channel>
+  <channel id="TVSVintageNetwork.us@SD">
+    <display-name>Filtered US Family — TVS Vintage Network (360p)</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-tvsvintage/index.m3u8</url>
+  </channel>
+  <channel id="RacerNetwork.us@SD_2">
+    <display-name>Filtered US Family — Racer Network (720p)</display-name>
+    <url>http://40.160.24.52/MAV_TV/index.m3u8</url>
+  </channel>
+  <channel id="USANetwork.us@East">
+    <display-name>Filtered US Family — USA Network (1080p)</display-name>
+    <url>http://40.160.24.55/USA_NETWORK/index.m3u8</url>
+  </channel>
+  <channel id="USANetwork.us@East_2">
+    <display-name>Filtered US Family — USA Network (720p)</display-name>
+    <url>http://206.212.244.63/168/index.m3u8</url>
+  </channel>
+  <channel id="USANetworkLatinAmerica.us@Panregional">
+    <display-name>Filtered US Family — USA Network Latin America (1080p)</display-name>
+    <url>http://138.121.15.230:9002/USA/index.m3u8</url>
+  </channel>
+  <channel id="USANetworkLatinAmerica.us@SD">
+    <display-name>Filtered US Family — USA Network Latin America (1080p)</display-name>
+    <url>http://138.186.23.7:8082/SYFY/index.m3u8</url>
+  </channel>
+  <channel id="USANetworkLatinAmerica.us@Panregional_2">
+    <display-name>Filtered US Family — USA Network Latin America (1080p)</display-name>
+    <url>http://177.234.249.178:8888/SYFY/index.m3u8</url>
+  </channel>
+  <channel id="USANetwork.us@West">
+    <display-name>Filtered US Family — USA Network West (1080p)</display-name>
+    <url>http://40.160.24.55/USA_NETWORK_WEST/index.m3u8</url>
+  </channel>
+  <channel id="USANetworkLatinAmerica.us@Brazil">
+    <display-name>Filtered US Family — USA Network Latin America Brazil (1080p)</display-name>
+    <url>http://45.190.156.152/USA/index.m3u8</url>
+  </channel>
+  <channel id="USANetworkLatinAmerica.us@Brazil_2">
+    <display-name>Filtered US Family — USA Network Latin America Brazil (720p)</display-name>
+    <url>http://177.52.24.163/USA-HD/index.m3u8</url>
+  </channel>
+  <channel id="VisionLatinaNetwork.us@SD">
+    <display-name>Filtered US Family — Vision Latina Network (1080p)</display-name>
+    <url>https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/c1804a4c-ccbf-46e5-87c3-0f8d4a94d9e3/master.m3u8</url>
+  </channel>
+  <channel id="WATCDT572.us@HD">
+    <display-name>Filtered US Family — WATC The POINT Network (1080p)</display-name>
+    <url>https://tgn.bozztv.com/watc57/watc57-2/watc57-2/index.m3u8</url>
+  </channel>
+  <channel id="WorldFishingNetwork.us@SD">
+    <display-name>Filtered US Family — World Fishing Network (1080p)</display-name>
+    <url>http://40.160.24.55/WORLD_FISHING_NETWORK/index.m3u8</url>
+  </channel>
+  <channel id="YesNetwork.us@SD">
+    <display-name>Filtered US Family — Yes Network (720p)</display-name>
+    <url>http://40.160.24.55/YES_NETWORK/index.m3u8</url>
+  </channel>
+  <channel id="YesNetwork.us@SD_2">
+    <display-name>Filtered US Family — Yes Network (720p)</display-name>
+    <url>http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8</url>
+  </channel>
+  <channel id="USANetwork.us@East_3">
+    <display-name>Filtered US Family — USA Network (1080p)</display-name>
+    <url>https://gpuserver5.tier1streams.com/USA_NETWORK/index.m3u8</url>
+  </channel>
+  <channel id="PoconoTelevisionNetwork.us@HD">
+    <display-name>Filtered US Family — Pocono Television Network (1080p)</display-name>
+    <url>https://dfoiz3dv1euv7.cloudfront.net/ptnlive-s3/live1.m3u8</url>
+  </channel>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ACCNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — ACC Network (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ACCNetwork.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — ACC Network (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AlkarmaTVFamily.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Alkarma TV Family (1080p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BigTenNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Big Ten Network (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BigTenNetwork.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Big Ten Network (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BigTenNetwork.us@SD_3">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Big Ten Network (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CBNFamily.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — CBN Family (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="DraftKingsNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — DraftKings Network (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="GameShowNetwork.us@East">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Game Show Network (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="Gagsnetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Gagsnetwork (576p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="GemShoppingNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Gem Shopping Network (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="GlobalBuddhistNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — GBN Global Buddhist Network (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="GreatAmericanFamily.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Great American Family (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="GreatAmericanFamily.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Great American Family (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="GreatAmericanFamily.us@SD_3">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Great American Family (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="HallmarkFamily.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Hallmark Family (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="HallmarkFamily.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Hallmark Family (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ImpactNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Impact Network (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="InfoWars.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — InfoWars Network (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MagnificentMoviesNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Magnificent Movies Network</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ParamountNetwork.us@East">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Paramount Network (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ParamountNetwork.us@East_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Paramount Network (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ParamountNetworkLatinAmerica.us@Panregional">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Paramount Network Latin America (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="RacerNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Racer Network (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ScientologyNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Scientology Network (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="KSCNTV221.us@HD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Scientology Network KSCN-DT1</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SECNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — SEC Network (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SECNetwork.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — SEC Network (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="WFTTTV621.us@HD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Scientology Network WFTT-DT1</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ShowtimeFamilyZone.us@East">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Showtime Family Zone (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TeveVidaNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Teve Vida Network (480p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TheCountryNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — The Country Network (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TheWordNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — The Word Network (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TheNowNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — The Now Network (480p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TheWordNetwork.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — The Word Network (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSBowlingNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — TVS Bowling Network (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSCipherNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — TVS Cipher Network (360p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSComedyNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — TVS Comedy Network (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSFamilyChannel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — TVS Family Channel (360p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSFlashbackNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — TVS Flashback Network (360p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVS_Frontier_Network__360p_">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — TVS Frontier Network (360p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSMusicNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — TVS Music Network (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSQuizShowNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — TVS Quiz Show Network (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSSelectNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — TVS Select Network (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSTalkNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — TVS Talk Network (360p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSPetParadeNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — TVS Pet Parade Network (360p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSTelevisionNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — TVS Television Network (480p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSTravelNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — TVS Travel Network (720p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSVintageNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — TVS Vintage Network (360p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="RacerNetwork.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Racer Network (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="USANetwork.us@East">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — USA Network (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="USANetwork.us@East_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — USA Network (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="USANetworkLatinAmerica.us@Panregional">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — USA Network Latin America (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="USANetworkLatinAmerica.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — USA Network Latin America (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="USANetworkLatinAmerica.us@Panregional_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — USA Network Latin America (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="USANetwork.us@West">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — USA Network West (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="USANetworkLatinAmerica.us@Brazil">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — USA Network Latin America Brazil (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="USANetworkLatinAmerica.us@Brazil_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — USA Network Latin America Brazil (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="VisionLatinaNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Vision Latina Network (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="WATCDT572.us@HD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — WATC The POINT Network (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="WorldFishingNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — World Fishing Network (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="YesNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Yes Network (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="YesNetwork.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Yes Network (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="USANetwork.us@East_3">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — USA Network (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="PoconoTelevisionNetwork.us@HD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Family — Pocono Television Network (1080p)</desc>
+  </programme>
+</tv>

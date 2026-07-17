@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="copilot-cli">
+  <channel id="CatchyComedy.us@SD">
+    <display-name>Filtered US Comedy — Catchy Comedy (720p)</display-name>
+    <url>http://40.160.24.52/DECADES/index.m3u8</url>
+  </channel>
+  <channel id="ComedyCentral.us@East">
+    <display-name>Filtered US Comedy — Comedy Central (1080p)</display-name>
+    <url>http://40.160.24.52/COMEDY_CENTRAL/index.m3u8</url>
+  </channel>
+  <channel id="ComedyCentral.us@East_2">
+    <display-name>Filtered US Comedy — Comedy Central (1080p)</display-name>
+    <url>http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8</url>
+  </channel>
+  <channel id="ComedyCentral.us@East_3">
+    <display-name>Filtered US Comedy — Comedy Central (720p)</display-name>
+    <url>http://206.212.244.63/44/index.m3u8</url>
+  </channel>
+  <channel id="ComedyCentralLatinAmerica.us@Panregional">
+    <display-name>Filtered US Comedy — Comedy Central Latin America</display-name>
+    <url>http://103.111.40.244:9999/play/a0i5/index.m3u8</url>
+  </channel>
+  <channel id="ComedyCentralLatinAmerica.us@Panregional_2">
+    <display-name>Filtered US Comedy — Comedy Central Latin America (1080p)</display-name>
+    <url>http://181.119.93.83:8000/play/a1di/index.m3u8</url>
+  </channel>
+  <channel id="ComedyCentralLatinAmerica.us@Panregional_3">
+    <display-name>Filtered US Comedy — Comedy Central Latin America (720p)</display-name>
+    <url>http://138.186.23.7:8082/COMEDYCENTRAL/index.m3u8</url>
+  </channel>
+  <channel id="JustforLaughsGags.us@SD">
+    <display-name>Filtered US Comedy — Just for Laughs Gags (1080p)</display-name>
+    <url>https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8</url>
+  </channel>
+  <channel id="StarzComedy.us@East">
+    <display-name>Filtered US Comedy — Starz Comedy (1080p)</display-name>
+    <url>http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8</url>
+  </channel>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CatchyComedy.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Comedy — Catchy Comedy (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ComedyCentral.us@East">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Comedy — Comedy Central (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ComedyCentral.us@East_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Comedy — Comedy Central (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ComedyCentral.us@East_3">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Comedy — Comedy Central (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Comedy — Comedy Central Latin America</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ComedyCentralLatinAmerica.us@Panregional_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Comedy — Comedy Central Latin America (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ComedyCentralLatinAmerica.us@Panregional_3">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Comedy — Comedy Central Latin America (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="JustforLaughsGags.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Comedy — Just for Laughs Gags (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="StarzComedy.us@East">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Comedy — Starz Comedy (1080p)</desc>
+  </programme>
+</tv>

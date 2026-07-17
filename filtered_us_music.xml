@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="copilot-cli">
+  <channel id="BandamaxUSA.us@SD">
+    <display-name>Filtered US Music — Bandamax USA (1080p)</display-name>
+    <url>http://177.234.249.135:8888/Bandamax/index.m3u8</url>
+  </channel>
+  <channel id="KPVMLD258.us@SD">
+    <display-name>Filtered US Music — KPVM Ace Country Radio</display-name>
+    <url>https://2-fss-1.streamhoster.com/pl_122/206858-4412960-1/playlist.m3u8</url>
+  </channel>
+  <channel id="RadioTeleSentinel.us@SD">
+    <display-name>Filtered US Music — Radio Tele Sentinel</display-name>
+    <url>https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlist.m3u8</url>
+  </channel>
+  <channel id="RadioTelePuissance.us@SD">
+    <display-name>Filtered US Music — Radio Tele Puissance</display-name>
+    <url>https://video1.getstreamhosting.com:1936/8560/8560/playlist.m3u8</url>
+  </channel>
+  <channel id="RadioRitmoFM.cl@SD">
+    <display-name>Filtered US Music — Radio Ritmo (1080p) [Not 24/7]</display-name>
+    <url>https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8</url>
+  </channel>
+  <channel id="TelehitMusicaEstadosUnidos.us@SD">
+    <display-name>Filtered US Music — Telehit Musica Estados Unidos (720p)</display-name>
+    <url>http://177.234.249.135:8888/TelehitMusica/index.m3u8</url>
+  </channel>
+  <channel id="WVCULP.us@SD">
+    <display-name>Filtered US Music — WVCU-LP Concord University Radio The Cure 97.7 (1080p)</display-name>
+    <url>https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8</url>
+  </channel>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BandamaxUSA.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Music — Bandamax USA (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="KPVMLD258.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Music — KPVM Ace Country Radio</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="RadioTeleSentinel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Music — Radio Tele Sentinel</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="RadioTelePuissance.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Music — Radio Tele Puissance</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="RadioRitmoFM.cl@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Music — Radio Ritmo (1080p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TelehitMusicaEstadosUnidos.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Music — Telehit Musica Estados Unidos (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="WVCULP.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Music — WVCU-LP Concord University Radio The Cure 97.7 (1080p)</desc>
+  </programme>
+</tv>

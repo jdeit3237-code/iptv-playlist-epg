@@ -1,0 +1,2739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="copilot-cli">
+  <channel id="ABNTVIndia.us@SD">
+    <display-name>Filtered US Entertainment — ABN TV India (540p)</display-name>
+    <url>https://mediaserver.abnvideos.com/streams/abntvindia.m3u8</url>
+  </channel>
+  <channel id="AfroLandTV.us@SD">
+    <display-name>Filtered US Entertainment — AfroLandTV (1080p)</display-name>
+    <url>https://alt-al.otteravision.com/alt/al/al.m3u8</url>
+  </channel>
+  <channel id="AKCTV.us@SD">
+    <display-name>Filtered US Entertainment — AKC TV (1080p)</display-name>
+    <url>https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8</url>
+  </channel>
+  <channel id="ACTV.us@SD">
+    <display-name>Filtered US Entertainment — ACTV</display-name>
+    <url>https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8</url>
+  </channel>
+  <channel id="AKCTVMeettheBreeds.us@SD">
+    <display-name>Filtered US Entertainment — AKC TV Meet The Breeds</display-name>
+    <url>https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8</url>
+  </channel>
+  <channel id="AKCTV.us@SD_2">
+    <display-name>Filtered US Entertainment — AKC TV</display-name>
+    <url>https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8</url>
+  </channel>
+  <channel id="AKCTVPuppies.us@SD">
+    <display-name>Filtered US Entertainment — AKC TV Puppies 24/7</display-name>
+    <url>https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8</url>
+  </channel>
+  <channel id="AFTV.us@SD">
+    <display-name>Filtered US Entertainment — AFTV (1080p)</display-name>
+    <url>https://livestream.telvue.com/accframingham1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</url>
+  </channel>
+  <channel id="AccessVisionChannel17.us@SD">
+    <display-name>Filtered US Entertainment — AccessVision Channel 17 (720p)</display-name>
+    <url>https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</url>
+  </channel>
+  <channel id="AlHorreyaTV.us@SD">
+    <display-name>Filtered US Entertainment — Al Horreya TV (1080p)</display-name>
+    <url>http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8</url>
+  </channel>
+  <channel id="AlHorreyaTV.us@SD_2">
+    <display-name>Filtered US Entertainment — Al Horreya TV (720p)</display-name>
+    <url>http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8</url>
+  </channel>
+  <channel id="6WiseTv.us@SD">
+    <display-name>Filtered US Entertainment — 6 Wise Tv (720p)</display-name>
+    <url>https://live.enhdtv.com:8081/8150/index.m3u8</url>
+  </channel>
+  <channel id="AccessVisionChannel16.us@SD">
+    <display-name>Filtered US Entertainment — AccessVision Channel 16 (720p)</display-name>
+    <url>https://livestream.telvue.com/accvision1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</url>
+  </channel>
+  <channel id="AlFadyTV.us@SD">
+    <display-name>Filtered US Entertainment — Al-Fady TV (1080p) [Not 24/7]</display-name>
+    <url>https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8</url>
+  </channel>
+  <channel id="AceTV.us@SD">
+    <display-name>Filtered US Entertainment — Ace TV (480p)</display-name>
+    <url>https://c.streamhoster.com/link/hls/W5s3fS/inLo5pcsHjo/iqg9wps0m1x_5/playlist.m3u8</url>
+  </channel>
+  <channel id="AlMahdiTV.us@SD">
+    <display-name>Filtered US Entertainment — Al-MahdiTV (1080p)</display-name>
+    <url>https://iptv.almahditv.com/almahditv/playlist.m3u8</url>
+  </channel>
+  <channel id="AlkarmaTVTalmazaDiscipleship.us@SD">
+    <display-name>Filtered US Entertainment — Alkarma TV Talmaza (Discipleship) (1080p) [Not 24/7]</display-name>
+    <url>https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8</url>
+  </channel>
+  <channel id="AlkarmaTVAustralia.us@SD">
+    <display-name>Filtered US Entertainment — Alkarma TV Australia (1080p) [Not 24/7]</display-name>
+    <url>https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8</url>
+  </channel>
+  <channel id="AlkarmaTVPraise.us@SD">
+    <display-name>Filtered US Entertainment — Alkarma TV Praise (720p) [Not 24/7]</display-name>
+    <url>https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8</url>
+  </channel>
+  <channel id="AlkarmaTVMiddleEast.us@SD">
+    <display-name>Filtered US Entertainment — Alkarma TV Middle East (1080p) [Not 24/7]</display-name>
+    <url>https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8</url>
+  </channel>
+  <channel id="AlmagdTVMiddleEast.us@SD">
+    <display-name>Filtered US Entertainment — Almagd TV Middle East (1080p) [Not 24/7]</display-name>
+    <url>https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8</url>
+  </channel>
+  <channel id="AMGTV.us@SD">
+    <display-name>Filtered US Entertainment — AMG TV (1080p)</display-name>
+    <url>https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8</url>
+  </channel>
+  <channel id="AlbdreamsTV.us@SD">
+    <display-name>Filtered US Entertainment — AlbDreams TV (720p)</display-name>
+    <url>http://live.albavision.net:1123/live/albdreams.m3u8</url>
+  </channel>
+  <channel id="AlkarmaTVAustralia.us@SD_2">
+    <display-name>Filtered US Entertainment — Alkarma TV Australia (1080p)</display-name>
+    <url>https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8</url>
+  </channel>
+  <channel id="AlmagdTVNorthAmerica.us@SD">
+    <display-name>Filtered US Entertainment — Almagd TV North America (1080p)</display-name>
+    <url>https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8</url>
+  </channel>
+  <channel id="AlkarmaTVNorthAmericaCanada.us@SD">
+    <display-name>Filtered US Entertainment — Alkarma TV North America &amp; Canada (1080p) [Not 24/7]</display-name>
+    <url>https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8</url>
+  </channel>
+  <channel id="AlkarmaTVYouthEnglish.us@SD">
+    <display-name>Filtered US Entertainment — Alkarma TV Youth &amp; English (1080p) [Not 24/7]</display-name>
+    <url>https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8</url>
+  </channel>
+  <channel id="AmazingFactsTV.us@SD">
+    <display-name>Filtered US Entertainment — Amazing Facts TV (1080p)</display-name>
+    <url>https://hlspackager.akamaized.net/live/DB/AMAZING_FACTS/HLS/AMAZING_FACTS.m3u8</url>
+  </channel>
+  <channel id="AXSTV.us@SD">
+    <display-name>Filtered US Entertainment — AXS TV (720p)</display-name>
+    <url>http://23.239.31.26:8989/axstv/index.m3u8</url>
+  </channel>
+  <channel id="AXSTV.us@SD_2">
+    <display-name>Filtered US Entertainment — AXS TV (720p)</display-name>
+    <url>http://206.212.244.63/12/index.m3u8</url>
+  </channel>
+  <channel id="AXSTV.us@SD_3">
+    <display-name>Filtered US Entertainment — AXS TV (720p)</display-name>
+    <url>http://40.160.24.52/AXS_TV/index.m3u8</url>
+  </channel>
+  <channel id="AmuTV.us@SD">
+    <display-name>Filtered US Entertainment — Amu TV</display-name>
+    <url>https://jmc-live.ercdn.net/amutv/amutv.m3u8</url>
+  </channel>
+  <channel id="AvangTV.us@SD">
+    <display-name>Filtered US Entertainment — Avang TV (1080p)</display-name>
+    <url>https://hls.avang.live/hls/stream.m3u8</url>
+  </channel>
+  <channel id="BeachTVFloridaAlabama.us@SD">
+    <display-name>Filtered US Entertainment — Beach TV Florida &amp; Alabama (720p)</display-name>
+    <url>http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8</url>
+  </channel>
+  <channel id="BeachTVMyrtleBeachTheGrandStrand.us@SD">
+    <display-name>Filtered US Entertainment — Beach TV Myrtle Beach &amp; The Grand Strand (720p)</display-name>
+    <url>http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8</url>
+  </channel>
+  <channel id="BeachTVPanamaCity.us@SD">
+    <display-name>Filtered US Entertainment — Beach TV Panama City (720p)</display-name>
+    <url>http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8</url>
+  </channel>
+  <channel id="BeachTVFloridaAlabama.us@SD_2">
+    <display-name>Filtered US Entertainment — Beach TV Florida &amp; Alabama (720p)</display-name>
+    <url>https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8</url>
+  </channel>
+  <channel id="BeachTVKeyWestFloridaKeys.us@SD">
+    <display-name>Filtered US Entertainment — Beach TV Key West &amp; Florida Keys (720p)</display-name>
+    <url>https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8</url>
+  </channel>
+  <channel id="BeachTVMyrtleBeachTheGrandStrand.us@SD_2">
+    <display-name>Filtered US Entertainment — Beach TV Myrtle Beach &amp; The Grand Strand (720p)</display-name>
+    <url>https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8</url>
+  </channel>
+  <channel id="BeachTVPanamaCity.us@SD_2">
+    <display-name>Filtered US Entertainment — Beach TV Panama City (720p)</display-name>
+    <url>https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8</url>
+  </channel>
+  <channel id="BerksCommunityTV.us@SD">
+    <display-name>Filtered US Entertainment — Berks Community TV (1080p)</display-name>
+    <url>https://livestream.telvue.com/berkscmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</url>
+  </channel>
+  <channel id="BetterLifeTV.us@SD">
+    <display-name>Filtered US Entertainment — Better Life TV (720p)</display-name>
+    <url>https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8</url>
+  </channel>
+  <channel id="BIGCivicChannel.us@SD">
+    <display-name>Filtered US Entertainment — BIG Civic Channel</display-name>
+    <url>https://reflect-brookline-interactive-group.cablecast.tv/live-5/live/stream-2/live.m3u8</url>
+  </channel>
+  <channel id="BIGCommunityChannel.us@SD">
+    <display-name>Filtered US Entertainment — BIG Community Channel</display-name>
+    <url>https://reflect-brookline-interactive-group.cablecast.tv/live-4/live/stream-1/live.m3u8</url>
+  </channel>
+  <channel id="BizTV.us@SD">
+    <display-name>Filtered US Entertainment — Biz TV (1080p)</display-name>
+    <url>https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8</url>
+  </channel>
+  <channel id="BloombergTV.us@US">
+    <display-name>Filtered US Entertainment — Bloomberg TV (1080p)</display-name>
+    <url>http://40.160.24.52/BLOOMBERG/index.m3u8</url>
+  </channel>
+  <channel id="BloombergTV.us@US_2">
+    <display-name>Filtered US Entertainment — Bloomberg TV (1080p)</display-name>
+    <url>http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8</url>
+  </channel>
+  <channel id="BetterLifeNatureChannel.us@SD">
+    <display-name>Filtered US Entertainment — Better Life Nature Channel (480p)</display-name>
+    <url>https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8</url>
+  </channel>
+  <channel id="BloombergTV.us@US_3">
+    <display-name>Filtered US Entertainment — Bloomberg TV (720p)</display-name>
+    <url>http://206.212.244.63/22/index.m3u8</url>
+  </channel>
+  <channel id="BizTV.us@SD_2">
+    <display-name>Filtered US Entertainment — Biz TV (1080p)</display-name>
+    <url>https://thegateway.app/BizAndYou/BizTV/playlist.m3u8</url>
+  </channel>
+  <channel id="BloombergTV.us@Plus">
+    <display-name>Filtered US Entertainment — Bloomberg TV + (2160p)</display-name>
+    <url>https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8</url>
+  </channel>
+  <channel id="KMBYLD275.us@SD">
+    <display-name>Filtered US Entertainment — Blues TV</display-name>
+    <url>https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8</url>
+  </channel>
+  <channel id="BloombergTV.us@Plus_2">
+    <display-name>Filtered US Entertainment — Bloomberg TV+ (1080p)</display-name>
+    <url>https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8</url>
+  </channel>
+  <channel id="BATV.us@SD">
+    <display-name>Filtered US Entertainment — Bloomfield Access TV Channel 5 (480p)</display-name>
+    <url>https://reflect-batv.cablecast.tv/live-5/live/live.m3u8</url>
+  </channel>
+  <channel id="BloombergTV.us@PoliticsLiveEvent">
+    <display-name>Filtered US Entertainment — Bloomberg TV US Politics Live Event (720p)</display-name>
+    <url>https://bloomberg.com/media-manifest/streams/politics.m3u8</url>
+  </channel>
+  <channel id="BloombergTV.us@US_4">
+    <display-name>Filtered US Entertainment — Bloomberg TV US (720p)</display-name>
+    <url>https://bloomberg.com/media-manifest/streams/us.m3u8</url>
+  </channel>
+  <channel id="BloombergTV.us@LiveEvent">
+    <display-name>Filtered US Entertainment — Bloomberg TV US Live Event (720p)</display-name>
+    <url>https://bloomberg.com/media-manifest/streams/us-event.m3u8</url>
+  </channel>
+  <channel id="BMCHDTV.us@SD">
+    <display-name>Filtered US Entertainment — BMC-HD TV (720p)</display-name>
+    <url>https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</url>
+  </channel>
+  <channel id="BPXTVRadio.us@SD">
+    <display-name>Filtered US Entertainment — BPX TV Radio</display-name>
+    <url>https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8</url>
+  </channel>
+  <channel id="BratTV.us@SD">
+    <display-name>Filtered US Entertainment — Brat TV (1080p)</display-name>
+    <url>https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8</url>
+  </channel>
+  <channel id="BYUTV.us@SD">
+    <display-name>Filtered US Entertainment — BYU TV (720p)</display-name>
+    <url>http://206.212.244.63/28/index.m3u8</url>
+  </channel>
+  <channel id="CANTV27.us@SD">
+    <display-name>Filtered US Entertainment — CAN TV27 (1080p)</display-name>
+    <url>https://cantv.streamguys1.com/cantv/cantv27hls/playlist.m3u8</url>
+  </channel>
+  <channel id="CANTV21.us@SD">
+    <display-name>Filtered US Entertainment — CAN TV21 (1080p)</display-name>
+    <url>https://cantv.streamguys1.com/cantv/cantv21hls/playlist.m3u8</url>
+  </channel>
+  <channel id="CANTV19.us@SD">
+    <display-name>Filtered US Entertainment — CAN TV19 (1080p)</display-name>
+    <url>https://cantv.streamguys1.com/cantv/cantv19hls/playlist.m3u8</url>
+  </channel>
+  <channel id="Channel18GAC.us@SD">
+    <display-name>Filtered US Entertainment — Channel 18 GAC</display-name>
+    <url>https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-13/live/stream-1/live.m3u8</url>
+  </channel>
+  <channel id="CleoTV.us@SD">
+    <display-name>Filtered US Entertainment — Cleo TV (720p)</display-name>
+    <url>http://40.160.24.52/Cleo_TV/index.m3u8</url>
+  </channel>
+  <channel id="CleoTV.us@SD_2">
+    <display-name>Filtered US Entertainment — Cleo TV (720p)</display-name>
+    <url>http://206.212.244.63/38/index.m3u8</url>
+  </channel>
+  <channel id="ClassicCinema.us@SD">
+    <display-name>Filtered US Entertainment — Classic Cinema (240p) [Not 24/7]</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8</url>
+  </channel>
+  <channel id="CelebritySceneTV.us@SD">
+    <display-name>Filtered US Entertainment — Celebrity Scene TV (720p)</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8</url>
+  </channel>
+  <channel id="CloudflareTV.us@SD">
+    <display-name>Filtered US Entertainment — Cloudflare TV (720p)</display-name>
+    <url>https://cloudflare.tv/hls/live.m3u8</url>
+  </channel>
+  <channel id="CaliforniaMusicChannel.us@SD">
+    <display-name>Filtered US Entertainment — CMC California Music Channel (1080p) [Geo-blocked]</display-name>
+    <url>https://cmc-ono.amagi.tv/playlist.m3u8</url>
+  </channel>
+  <channel id="CMCUSACountryMusicChannel.us@SD">
+    <display-name>Filtered US Entertainment — CMC-USA Country Music Channel (720p)</display-name>
+    <url>https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8</url>
+  </channel>
+  <channel id="CaliforniaMusicChannel.us@SD_2">
+    <display-name>Filtered US Entertainment — CMC California Music Channel (1080p) [Geo-blocked]</display-name>
+    <url>https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8</url>
+  </channel>
+  <channel id="ClassicArtsShowcase.us@SD">
+    <display-name>Filtered US Entertainment — Classic Arts Showcase (720p)</display-name>
+    <url>https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8</url>
+  </channel>
+  <channel id="ComedyTV.us@SD">
+    <display-name>Filtered US Entertainment — Comedy TV (720p)</display-name>
+    <url>http://40.160.24.52/COMEDY_TV/index.m3u8</url>
+  </channel>
+  <channel id="ComercioTV.us@SD">
+    <display-name>Filtered US Entertainment — Comercio TV (720p)</display-name>
+    <url>https://amg00082-amg00082c1-zapitv-emea-7424.playouts.now.amagi.tv/playlist.m3u8</url>
+  </channel>
+  <channel id="CourtTV.us@SD">
+    <display-name>Filtered US Entertainment — Court TV (1080p)</display-name>
+    <url>http://40.160.24.52/COURT_TV/index.m3u8</url>
+  </channel>
+  <channel id="CoziTV.us@SD">
+    <display-name>Filtered US Entertainment — Cozi TV (1080p)</display-name>
+    <url>http://40.160.24.52/COZI_TV/index.m3u8</url>
+  </channel>
+  <channel id="CornerstoneTV.us@SD">
+    <display-name>Filtered US Entertainment — Cornerstone TV (720p)</display-name>
+    <url>https://2-fss-1.themediacdn.com/pl_122/206280-3059514-1/playlist.m3u8</url>
+  </channel>
+  <channel id="CoziTV.us@SD_2">
+    <display-name>Filtered US Entertainment — Cozi TV (720p)</display-name>
+    <url>http://206.212.244.63/49/index.m3u8</url>
+  </channel>
+  <channel id="ComercioTV.us@SD_2">
+    <display-name>Filtered US Entertainment — Comercio TV (1080p)</display-name>
+    <url>https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16960</url>
+  </channel>
+  <channel id="CourtTV.us@SD_2">
+    <display-name>Filtered US Entertainment — Court TV (1080p)</display-name>
+    <url>https://csm-e-ceshared1lusordlive-98202546.bln1.yospace.com/csm/extlive/lawnewzprd01,court-tv.m3u8</url>
+  </channel>
+  <channel id="COStv.us@SD">
+    <display-name>Filtered US Entertainment — COStv</display-name>
+    <url>https://irctv.cablecast.tv/live/stream-1/live.m3u8</url>
+  </channel>
+  <channel id="CSatTV.us@SD">
+    <display-name>Filtered US Entertainment — CSat TV (1080p) [Not 24/7]</display-name>
+    <url>http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8</url>
+  </channel>
+  <channel id="CourtTV.us@SD_3">
+    <display-name>Filtered US Entertainment — Court TV (1080p)</display-name>
+    <url>https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8</url>
+  </channel>
+  <channel id="DaystarTV.us@SD">
+    <display-name>Filtered US Entertainment — Daystar TV (720p)</display-name>
+    <url>http://40.160.24.52/DAYSTAR_TV/index.m3u8</url>
+  </channel>
+  <channel id="CVTVChannel192.us@SD">
+    <display-name>Filtered US Entertainment — CVTV Channel 192 (1080p)</display-name>
+    <url>https://livestream.telvue.com/cvtv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</url>
+  </channel>
+  <channel id="CTNTVConneticut.us@SD">
+    <display-name>Filtered US Entertainment — CT-N TV Conneticut (720p) [Not 24/7]</display-name>
+    <url>http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8</url>
+  </channel>
+  <channel id="CVTVChannel194.us@SD">
+    <display-name>Filtered US Entertainment — CVTV Channel 194 (1080p)</display-name>
+    <url>https://livestream.telvue.com/cvtv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</url>
+  </channel>
+  <channel id="CSatTV.us@SD_2">
+    <display-name>Filtered US Entertainment — CSat TV (1080p) [Not 24/7]</display-name>
+    <url>https://5d12bc59c4748.streamlock.net/redirect/csat.tv/csat.smil?type=m3u8</url>
+  </channel>
+  <channel id="DetroitChannel68.us@SD">
+    <display-name>Filtered US Entertainment — Detroit Channel 68</display-name>
+    <url>https://reflect-detroit-vod.cablecast.tv/live-10/live/stream-5/live.m3u8</url>
+  </channel>
+  <channel id="CSatTV.us@SD_3">
+    <display-name>Filtered US Entertainment — CSat TV (1080p) [Not 24/7]</display-name>
+    <url>https://5b622f07944df.streamlock.net/csat.tv/csat.smil/playlist.m3u8</url>
+  </channel>
+  <channel id="DetroitChannel22.us@SD">
+    <display-name>Filtered US Entertainment — Detroit Channel 22</display-name>
+    <url>https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8</url>
+  </channel>
+  <channel id="DetroitChannel10.us@SD">
+    <display-name>Filtered US Entertainment — Detroit Channel 10</display-name>
+    <url>https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8</url>
+  </channel>
+  <channel id="DetroitChannel21.us@SD">
+    <display-name>Filtered US Entertainment — Detroit Channel 21</display-name>
+    <url>https://reflect-detroit-vod.cablecast.tv/live-9/live/stream-4/live.m3u8</url>
+  </channel>
+  <channel id="DerryTV23.us@SD">
+    <display-name>Filtered US Entertainment — DerryTV 23 (720p)</display-name>
+    <url>https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</url>
+  </channel>
+  <channel id="DerryTV17.us@SD">
+    <display-name>Filtered US Entertainment — DerryTV 17 (720p)</display-name>
+    <url>https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</url>
+  </channel>
+  <channel id="DogTV.us@SD">
+    <display-name>Filtered US Entertainment — Dog TV (720p)</display-name>
+    <url>http://206.212.244.63/56/index.m3u8</url>
+  </channel>
+  <channel id="DoveChannel.us@SD">
+    <display-name>Filtered US Entertainment — Dove Channel (720p)</display-name>
+    <url>http://206.212.244.63/6134/index.m3u8</url>
+  </channel>
+  <channel id="DidgahTV.us@SD">
+    <display-name>Filtered US Entertainment — Didgah TV (576p)</display-name>
+    <url>https://media.streambrothers.com:1936/8276/8276/playlist.m3u8</url>
+  </channel>
+  <channel id="DreamWorksChannelLatinAmerica.us@SD">
+    <display-name>Filtered US Entertainment — DreamWorks Channel Latin America (1080p)</display-name>
+    <url>http://138.121.15.230:9002/DREAMWORKS/index.m3u8</url>
+  </channel>
+  <channel id="DungeonTV.us@SD">
+    <display-name>Filtered US Entertainment — Dungeon TV (720p)</display-name>
+    <url>https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2226</url>
+  </channel>
+  <channel id="ElbesharaGTV.us@SD">
+    <display-name>Filtered US Entertainment — Elbeshara GTV (1080p) [Not 24/7]</display-name>
+    <url>http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8</url>
+  </channel>
+  <channel id="DreamWorksChannelAsia.us@SD">
+    <display-name>Filtered US Entertainment — DreamWorks Channel Asia</display-name>
+    <url>http://103.137.83.62:9090/play/30/index.m3u8</url>
+  </channel>
+  <channel id="EntrepreneurTV.us@SD">
+    <display-name>Filtered US Entertainment — EntrepreneurTV (720p)</display-name>
+    <url>https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2506</url>
+  </channel>
+  <channel id="FanDuelTV.us@SD">
+    <display-name>Filtered US Entertainment — FanDuel TV (720p)</display-name>
+    <url>http://40.160.24.55/TVG/index.m3u8</url>
+  </channel>
+  <channel id="ExtremaTV.us@SD">
+    <display-name>Filtered US Entertainment — Extrema TV (720p)</display-name>
+    <url>http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8</url>
+  </channel>
+  <channel id="FanDuelTV.us@SD_2">
+    <display-name>Filtered US Entertainment — FanDuel TV (720p)</display-name>
+    <url>http://206.212.244.63/6138/index.m3u8</url>
+  </channel>
+  <channel id="FETV.us@SD">
+    <display-name>Filtered US Entertainment — FETV (720p)</display-name>
+    <url>http://40.160.24.52/FETV/index.m3u8</url>
+  </channel>
+  <channel id="FETV.us@SD_2">
+    <display-name>Filtered US Entertainment — FETV (720p)</display-name>
+    <url>http://206.212.244.63/60/index.m3u8</url>
+  </channel>
+  <channel id="FilmRiseClassicTV.us@SD">
+    <display-name>Filtered US Entertainment — FilmRise Classic TV (720p)</display-name>
+    <url>https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8</url>
+  </channel>
+  <channel id="FGTV.us@SD">
+    <display-name>Filtered US Entertainment — FGTV</display-name>
+    <url>https://securestream11.champds.com/LIVE/FultonCoGALIVE/FultonCoGALIVE.m3u8</url>
+  </channel>
+  <channel id="FlowersTVUSA.us@SD">
+    <display-name>Filtered US Entertainment — Flowers TV USA</display-name>
+    <url>https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8</url>
+  </channel>
+  <channel id="FreeSpeechTV.us@SD">
+    <display-name>Filtered US Entertainment — Free Speech TV (720p)</display-name>
+    <url>https://na.linear.zype.com/f2f02a72-71d0-45f3-829f-4ae51f721102/86ef0177-697d-41c4-be57-c4d1a2b83cad-hls4/live.m3u8</url>
+  </channel>
+  <channel id="GanjeHozourTV.us@SD">
+    <display-name>Filtered US Entertainment — Ganj e Hozour TV (1080p)</display-name>
+    <url>https://media.parvizshahbazi.com/ganjehozour/Main_tv/playlist.m3u8</url>
+  </channel>
+  <channel id="FreeSpeechTV.us@SD_2">
+    <display-name>Filtered US Entertainment — Free Speech TV (720p)</display-name>
+    <url>https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8</url>
+  </channel>
+  <channel id="GalxyTV.us@SD">
+    <display-name>Filtered US Entertainment — Galxy TV (720p)</display-name>
+    <url>https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2230</url>
+  </channel>
+  <channel id="GillettePublicAccessTelevisionChannel189.us@SD">
+    <display-name>Filtered US Entertainment — Gillette Public Access Television Channel 189</display-name>
+    <url>https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8</url>
+  </channel>
+  <channel id="GillettePublicAccessTelevisionChannel190.us@SD">
+    <display-name>Filtered US Entertainment — Gillette Public Access Television Channel 190</display-name>
+    <url>https://securestream11.champds.com/LIVE/GilletteWYLIVE/GilletteWYLIVE.m3u8</url>
+  </channel>
+  <channel id="GillettePublicAccessTelevisionChannel192.us@SD">
+    <display-name>Filtered US Entertainment — Gillette Public Access Television Channel 192</display-name>
+    <url>https://securestream11.champds.com/LIVE/GilletteWYLIVE2/GilletteWYLIVE2.m3u8</url>
+  </channel>
+  <channel id="GlobalWorldTV.us@SD">
+    <display-name>Filtered US Entertainment — GlobalWorldTV (720p)</display-name>
+    <url>https://media.streambrothers.com:1936/8052/8052/playlist.m3u8</url>
+  </channel>
+  <channel id="GOD_TV__720p_">
+    <display-name>Filtered US Entertainment — GOD TV (720p)</display-name>
+    <url>https://ott.god.tv/live/us/master.m3u8</url>
+  </channel>
+  <channel id="Golden.mx@Panregional">
+    <display-name>Filtered US Entertainment — Golden TV (240p) [Not 24/7]</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8</url>
+  </channel>
+  <channel id="GolTVLatinAmerica.us@SD">
+    <display-name>Filtered US Entertainment — GolTV Latin America (720p)</display-name>
+    <url>http://177.234.249.178:8888/GOLTV/index.m3u8</url>
+  </channel>
+  <channel id="GMTV.us@SD">
+    <display-name>Filtered US Entertainment — GMTV (1080p)</display-name>
+    <url>https://livechannel.mdc.akamaized.net/stitch/livechannel/1341/master1400000.m3u8;session=live_stream_1341</url>
+  </channel>
+  <channel id="HallmarkChannel.us@East">
+    <display-name>Filtered US Entertainment — Hallmark Channel (1080p)</display-name>
+    <url>http://23.237.104.106:8080/USA_HALLMARK/index.m3u8</url>
+  </channel>
+  <channel id="HallmarkChannel.us@East_2">
+    <display-name>Filtered US Entertainment — Hallmark Channel (1080p)</display-name>
+    <url>http://40.160.24.53/HALLMARK/index.m3u8</url>
+  </channel>
+  <channel id="HallmarkChannel.us@East_3">
+    <display-name>Filtered US Entertainment — Hallmark Channel (720p)</display-name>
+    <url>http://206.212.244.63/84/index.m3u8</url>
+  </channel>
+  <channel id="HallmarkMoviesMore.us@SD">
+    <display-name>Filtered US Entertainment — Hallmark Movies &amp; More (1080p)</display-name>
+    <url>https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709</url>
+  </channel>
+  <channel id="HisGloryTV.us@SD">
+    <display-name>Filtered US Entertainment — His Glory TV (1080p)</display-name>
+    <url>https://customer-6itfaqopbksp5p0q.cloudflarestream.com/3972e89fb79bf6d6dd2a16c75455087a/manifest/video.m3u8</url>
+  </channel>
+  <channel id="HCTVPublicAccessChannel.us@SD">
+    <display-name>Filtered US Entertainment — HCTV Public Access Channel</display-name>
+    <url>https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-5/live.m3u8</url>
+  </channel>
+  <channel id="HolaTVLatinAmerica.us@SD">
+    <display-name>Filtered US Entertainment — Hola! TV Latin America (1080p)</display-name>
+    <url>http://177.234.249.178:8888/HOLA-TV/index.m3u8</url>
+  </channel>
+  <channel id="HopeChannelInterAmerica.us@SD">
+    <display-name>Filtered US Entertainment — Hope Channel Inter-America</display-name>
+    <url>https://jstre.am/live/jsl:EC0Mq0i6HJU.m3u8</url>
+  </channel>
+  <channel id="HopeChannelInterAmericaEnglish.us@SD">
+    <display-name>Filtered US Entertainment — Hope Channel Inter-America English (1080p)</display-name>
+    <url>https://jstre.am/live/jsl:UP9KAdlVrm8.m3u8</url>
+  </channel>
+  <channel id="HolaTVLatinAmerica.us@SD_2">
+    <display-name>Filtered US Entertainment — Hola! TV Latin America (1080p)</display-name>
+    <url>http://8.243.126.131:8000/play/a0fg/index.m3u8</url>
+  </channel>
+  <channel id="HopeChannelInternational.us@SD">
+    <display-name>Filtered US Entertainment — Hope Channel International (1080p)</display-name>
+    <url>https://jstre.am/live/jsl:cZXINbwrFj6.m3u8</url>
+  </channel>
+  <channel id="HopeChannelNorthAmerica.us@SD">
+    <display-name>Filtered US Entertainment — Hope Channel North America (1080p)</display-name>
+    <url>https://jstre.am/live/jsl:0sUSK6VA7GT.m3u8</url>
+  </channel>
+  <channel id="IONTV.us@East">
+    <display-name>Filtered US Entertainment — ION TV (720p)</display-name>
+    <url>http://23.237.104.106:8080/USA_ION/index.m3u8</url>
+  </channel>
+  <channel id="InfoWars_The_Alex_Jones_Show__1080p_">
+    <display-name>Filtered US Entertainment — InfoWars The Alex Jones Show (1080p)</display-name>
+    <url>https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8</url>
+  </channel>
+  <channel id="IONTV.us@East_2">
+    <display-name>Filtered US Entertainment — ION TV (720p)</display-name>
+    <url>http://40.160.24.53/ION_TV/index.m3u8</url>
+  </channel>
+  <channel id="IONTV.us@East_3">
+    <display-name>Filtered US Entertainment — ION TV (720p)</display-name>
+    <url>http://206.212.244.63/99/index.m3u8</url>
+  </channel>
+  <channel id="ItIsWrittenTV.us@SD">
+    <display-name>Filtered US Entertainment — It Is Written TV (1080p)</display-name>
+    <url>https://itiswrittentv.akamaized.net/xR8gyATuHMVx69u9G79DXnpNRL/playlist.m3u8</url>
+  </channel>
+  <channel id="JusticeCentralTV.us@SD">
+    <display-name>Filtered US Entertainment — Justice Central TV (720p)</display-name>
+    <url>http://40.160.24.53/JUSTICE_CENTRAL/index.m3u8</url>
+  </channel>
+  <channel id="IranNationalRevolutionTV.us@HD">
+    <display-name>Filtered US Entertainment — Iran National Revolution TV</display-name>
+    <url>https://hls.irannrtv.live/hls/stream.m3u8</url>
+  </channel>
+  <channel id="JusticeCentralTV.us@SD_2">
+    <display-name>Filtered US Entertainment — Justice Central TV (720p)</display-name>
+    <url>http://206.212.244.63/100/index.m3u8</url>
+  </channel>
+  <channel id="KADNTV151.us@HD">
+    <display-name>Filtered US Entertainment — KADN-TV 15.1 (720p)</display-name>
+    <url>http://206.212.244.63/65/index.m3u8</url>
+  </channel>
+  <channel id="KajouTV.us@SD">
+    <display-name>Filtered US Entertainment — Kajou TV (720p) [Not 24/7]</display-name>
+    <url>https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8</url>
+  </channel>
+  <channel id="KaloopyTV.us@SD">
+    <display-name>Filtered US Entertainment — Kaloopy TV (1080p)</display-name>
+    <url>https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8</url>
+  </channel>
+  <channel id="JewelryTV2.us@SD">
+    <display-name>Filtered US Entertainment — Jewelry TV 2 (720p)</display-name>
+    <url>https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8</url>
+  </channel>
+  <channel id="KLFYTV101.us@HD">
+    <display-name>Filtered US Entertainment — KLFY-TV 10.1 (720p)</display-name>
+    <url>http://206.212.244.63/33/index.m3u8</url>
+  </channel>
+  <channel id="KPVMLD252.us@SD">
+    <display-name>Filtered US Entertainment — KPVM Movies!</display-name>
+    <url>https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8</url>
+  </channel>
+  <channel id="KNTV111.us@HD">
+    <display-name>Filtered US Entertainment — KNTV-DT1 (1080p)</display-name>
+    <url>https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_channelId=88889711a&amp;ads.xumo_ifaType=&amp;ads.xumo_providerId=3822&amp;ads.xumo_providerName=NBCNBA</url>
+  </channel>
+  <channel id="KPVMLD251.us@HD">
+    <display-name>Filtered US Entertainment — KPVM Prime TV25</display-name>
+    <url>https://2-fss-1.streamhoster.com/pl_122/206858-4405346-1/playlist.m3u8</url>
+  </channel>
+  <channel id="KTTV111.us@HD">
+    <display-name>Filtered US Entertainment — KTTV 11.1 (720p)</display-name>
+    <url>http://206.212.244.63/63/index.m3u8</url>
+  </channel>
+  <channel id="KTTV111.us@HD_2">
+    <display-name>Filtered US Entertainment — KTTV-DT1 (1080p)</display-name>
+    <url>https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8</url>
+  </channel>
+  <channel id="LaoThaiTV.us@SD">
+    <display-name>Filtered US Entertainment — Lao-Thai TV (720p)</display-name>
+    <url>https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8</url>
+  </channel>
+  <channel id="LifetimeMovies.us@East">
+    <display-name>Filtered US Entertainment — Lifetime Movies (1080p)</display-name>
+    <url>http://23.237.104.106:8080/USA_LMN/index.m3u8</url>
+  </channel>
+  <channel id="LifetimeMovies.us@East_2">
+    <display-name>Filtered US Entertainment — Lifetime Movies (720p)</display-name>
+    <url>http://40.160.24.53/LMN/index.m3u8</url>
+  </channel>
+  <channel id="LGTV.us@SD">
+    <display-name>Filtered US Entertainment — LGTV (1080p)</display-name>
+    <url>https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8</url>
+  </channel>
+  <channel id="LifevisionTV.us@SD">
+    <display-name>Filtered US Entertainment — LifevisionTV (406p) [Not 24/7]</display-name>
+    <url>https://tgn.bozztv.com/lifevision/lifevision/index.m3u8</url>
+  </channel>
+  <channel id="SmartLifeStyleTV.us@SD">
+    <display-name>Filtered US Entertainment — Lighting Lives Blessing Nations Smart Life Style TV (LLBN) (720p)</display-name>
+    <url>https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8</url>
+  </channel>
+  <channel id="AMGATV.us@SD">
+    <display-name>Filtered US Entertainment — Amga TV (720p) [Not 24/7]</display-name>
+    <url>https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8</url>
+  </channel>
+  <channel id="LLBNTVChinese.us@SD">
+    <display-name>Filtered US Entertainment — Lighting Lives Blessing Nations TV Chinese (LLBN) (480p)</display-name>
+    <url>https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8</url>
+  </channel>
+  <channel id="LLBNTVKorean.us@SD">
+    <display-name>Filtered US Entertainment — Lighting Lives Blessing Nations TV Korean (LLBN) (480p)</display-name>
+    <url>https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8</url>
+  </channel>
+  <channel id="LindellTV.us@SD">
+    <display-name>Filtered US Entertainment — Lindell TV (720p)</display-name>
+    <url>https://rumble.com/live-hls/6v67mu/playlist.m3u8</url>
+  </channel>
+  <channel id="LindellTV.us@SD_2">
+    <display-name>Filtered US Entertainment — Lindell TV</display-name>
+    <url>https://stream.vocl.com/hls/lindelltv/index.m3u8</url>
+  </channel>
+  <channel id="LLBNTVRomanian.us@SD">
+    <display-name>Filtered US Entertainment — Lighting Lives Blessing Nations TV Romanian (LLBN) (480p)</display-name>
+    <url>https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.m3u8</url>
+  </channel>
+  <channel id="LLBNTVArabic.us@SD">
+    <display-name>Filtered US Entertainment — Lighting Lives Blessing Nations TV Arabic (LLBN) (480p)</display-name>
+    <url>https://brightstar-arabic-pull-secure.akamaized.net/brightstararabic/stream.m3u8</url>
+  </channel>
+  <channel id="LLBNTVLatino.us@SD">
+    <display-name>Filtered US Entertainment — Lighting Lives Blessing Nations TV Latino (LLBN) (480p)</display-name>
+    <url>https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8</url>
+  </channel>
+  <channel id="LLBNTVSouthAsia.us@SD">
+    <display-name>Filtered US Entertainment — Lighting Lives Blessing Nations TV South Asia (LLBN) (480p)</display-name>
+    <url>https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/stream.m3u8</url>
+  </channel>
+  <channel id="LittleGuyanaTV.us@SD">
+    <display-name>Filtered US Entertainment — Little Guyana TV (1080p)</display-name>
+    <url>https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8</url>
+  </channel>
+  <channel id="LogosTV.us@SD">
+    <display-name>Filtered US Entertainment — Logos TV (720p) [Not 24/7]</display-name>
+    <url>https://597f64b67707a.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8</url>
+  </channel>
+  <channel id="LPTV.us@SD">
+    <display-name>Filtered US Entertainment — LPTV (1080p)</display-name>
+    <url>https://livestream.telvue.com/lexmedia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia1/stream1/playlist.m3u8</url>
+  </channel>
+  <channel id="MeTV.us@SD">
+    <display-name>Filtered US Entertainment — MeTV (720p)</display-name>
+    <url>http://40.160.24.53/METV/index.m3u8</url>
+  </channel>
+  <channel id="MeTV.us@SD_2">
+    <display-name>Filtered US Entertainment — MeTV (720p)</display-name>
+    <url>http://206.212.244.63/108/index.m3u8</url>
+  </channel>
+  <channel id="MeTV.us@SD_3">
+    <display-name>Filtered US Entertainment — MeTV (720p)</display-name>
+    <url>https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8</url>
+  </channel>
+  <channel id="MBCDramaUSA.us@SD">
+    <display-name>Filtered US Entertainment — MBC Drama USA (1080p)</display-name>
+    <url>https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8</url>
+  </channel>
+  <channel id="MeTVPlus.us@SD">
+    <display-name>Filtered US Entertainment — MeTV+ (720p)</display-name>
+    <url>http://206.212.244.63/111/index.m3u8</url>
+  </channel>
+  <channel id="LogosTV.us@SD_2">
+    <display-name>Filtered US Entertainment — Logos TV (1080p) [Not 24/7]</display-name>
+    <url>https://5a8308add0b31.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8</url>
+  </channel>
+  <channel id="LogosTVEnglish.us@SD">
+    <display-name>Filtered US Entertainment — Logos TV English (1080p) [Not 24/7]</display-name>
+    <url>https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8</url>
+  </channel>
+  <channel id="MohabatTV.us@SD">
+    <display-name>Filtered US Entertainment — Mohabat TV (540p)</display-name>
+    <url>http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8</url>
+  </channel>
+  <channel id="MontgomeryChannel.us@SD">
+    <display-name>Filtered US Entertainment — Montgomery Channel</display-name>
+    <url>https://reflect-montgomerycommunitymedia.cablecast.tv/live-11/live/stream-4/live.m3u8</url>
+  </channel>
+  <channel id="MetaleitorTV.us@SD">
+    <display-name>Filtered US Entertainment — Metaleitor TV</display-name>
+    <url>https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8</url>
+  </channel>
+  <channel id="MTV.us@East">
+    <display-name>Filtered US Entertainment — MTV (720p)</display-name>
+    <url>http://198.58.104.90:8989/mtv/index.m3u8</url>
+  </channel>
+  <channel id="MTV.us@East_2">
+    <display-name>Filtered US Entertainment — MTV (720p)</display-name>
+    <url>http://40.160.24.53/MTV/index.m3u8</url>
+  </channel>
+  <channel id="MinisterioLaVozDeUnRemanenteTV.us@SD">
+    <display-name>Filtered US Entertainment — Ministerio La Voz De Un Remanente TV</display-name>
+    <url>https://vs20.live.opencaster.com/remanente_5925b089/index.m3u8</url>
+  </channel>
+  <channel id="MTV.us@East_3">
+    <display-name>Filtered US Entertainment — MTV (720p)</display-name>
+    <url>http://206.212.244.63/115/index.m3u8</url>
+  </channel>
+  <channel id="MTV2.us@East">
+    <display-name>Filtered US Entertainment — MTV2 (1080p)</display-name>
+    <url>http://40.160.24.53/MTV2/index.m3u8</url>
+  </channel>
+  <channel id="MonroeCommunityMediaEducationChannel.us@SD">
+    <display-name>Filtered US Entertainment — Monroe Community Media Education Channel</display-name>
+    <url>https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8</url>
+  </channel>
+  <channel id="MonroeCommunityMediaPublicAccessChannel.us@SD">
+    <display-name>Filtered US Entertainment — Monroe Community Media Public Access Channel</display-name>
+    <url>https://reflect-monroe-public-access.cablecast.tv/live-3/live/live.m3u8</url>
+  </channel>
+  <channel id="MTV2.us@East_2">
+    <display-name>Filtered US Entertainment — MTV2 (720p)</display-name>
+    <url>http://198.58.104.90:8989/mtv2/index.m3u8</url>
+  </channel>
+  <channel id="MRVTVChannel44.us@SD">
+    <display-name>Filtered US Entertainment — MRVTV Channel 44 (720p)</display-name>
+    <url>https://livestream.telvue.com/madrivervalleytv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</url>
+  </channel>
+  <channel id="MTV2.us@East_3">
+    <display-name>Filtered US Entertainment — MTV2 (720p)</display-name>
+    <url>http://206.212.244.63/116/index.m3u8</url>
+  </channel>
+  <channel id="MTVClassic.us@East">
+    <display-name>Filtered US Entertainment — MTV Classic (720p)</display-name>
+    <url>http://206.212.244.63/117/index.m3u8</url>
+  </channel>
+  <channel id="MRVTVChannel45.us@SD">
+    <display-name>Filtered US Entertainment — MRVTV Channel 45 (720p)</display-name>
+    <url>https://livestream.telvue.com/madrivervalleytv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</url>
+  </channel>
+  <channel id="MTVClassic.us@East_2">
+    <display-name>Filtered US Entertainment — MTV Classic (576p)</display-name>
+    <url>http://40.160.24.53/MTV_CLASSIC/index.m3u8</url>
+  </channel>
+  <channel id="MTVLive.us@SD">
+    <display-name>Filtered US Entertainment — MTV Live (1080p)</display-name>
+    <url>http://40.160.24.53/MTV_LIVE/index.m3u8</url>
+  </channel>
+  <channel id="MTVLive.us@SD_2">
+    <display-name>Filtered US Entertainment — MTV Live (720p)</display-name>
+    <url>http://206.212.244.63/118/index.m3u8</url>
+  </channel>
+  <channel id="MTVU.us@SD">
+    <display-name>Filtered US Entertainment — MTVU (720p)</display-name>
+    <url>http://206.212.244.63/119/index.m3u8</url>
+  </channel>
+  <channel id="MTVLatinAmerica.us@Panregional">
+    <display-name>Filtered US Entertainment — MTV Latin America (720p)</display-name>
+    <url>http://138.186.23.7:8082/MTV/index.m3u8</url>
+  </channel>
+  <channel id="MTVLatinAmerica.us@Panregional_2">
+    <display-name>Filtered US Entertainment — MTV Latin America (1080p)</display-name>
+    <url>http://179.60.51.134:8888/MTV/index.m3u8</url>
+  </channel>
+  <channel id="MTVLive.us@SD_3">
+    <display-name>Filtered US Entertainment — MTV Live (720p)</display-name>
+    <url>http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8</url>
+  </channel>
+  <channel id="NashuaETV.us@SD">
+    <display-name>Filtered US Entertainment — Nashua ETV Channel 22 Nashua NH (720p)</display-name>
+    <url>https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</url>
+  </channel>
+  <channel id="NatickEducationChannel.us@SD">
+    <display-name>Filtered US Entertainment — Natick Education Channel (720p)</display-name>
+    <url>https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</url>
+  </channel>
+  <channel id="GovernmentTV16.us@SD">
+    <display-name>Filtered US Entertainment — Nashua GTV Channel 16 Nashua NH (720p)</display-name>
+    <url>https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</url>
+  </channel>
+  <channel id="NatickPublicAccessChannel.us@SD">
+    <display-name>Filtered US Entertainment — Natick Public Access Channel (720p)</display-name>
+    <url>https://livestream.telvue.com/natickpegasus2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</url>
+  </channel>
+  <channel id="MTVLive.us@SD_4">
+    <display-name>Filtered US Entertainment — MTV Live (576p)</display-name>
+    <url>http://41.205.77.102/MTVUSA/index.m3u8</url>
+  </channel>
+  <channel id="NRBTV.us@SD">
+    <display-name>Filtered US Entertainment — NRB TV (480p)</display-name>
+    <url>https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8</url>
+  </channel>
+  <channel id="NTDTV.us@East">
+    <display-name>Filtered US Entertainment — NTD TV (1080p)</display-name>
+    <url>https://ntd02.akamaized.net/HD-NY/index.m3u8</url>
+  </channel>
+  <channel id="NRBTV.us@SD_2">
+    <display-name>Filtered US Entertainment — NRBTV (720p)</display-name>
+    <url>https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=15811</url>
+  </channel>
+  <channel id="NTDTVAsiaPacific.us@SD">
+    <display-name>Filtered US Entertainment — NTD TV Asia-Pacific</display-name>
+    <url>https://live.ntdtv.com/aplive200/playlist.m3u8</url>
+  </channel>
+  <channel id="NTDTVEnglish.us@USA">
+    <display-name>Filtered US Entertainment — NTD TV English (1080p)</display-name>
+    <url>https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8</url>
+  </channel>
+  <channel id="NTDTVEnglish.us@USA_2">
+    <display-name>Filtered US Entertainment — NTD TV English (720p)</display-name>
+    <url>https://ntd02.akamaized.net/NTDA/index.m3u8</url>
+  </channel>
+  <channel id="NTDTVEnglish.us@UK">
+    <display-name>Filtered US Entertainment — NTD TV English UK (1080p)</display-name>
+    <url>https://ntd02.akamaized.net/NTD-UK/index.m3u8</url>
+  </channel>
+  <channel id="NTDTVCanada.us@East">
+    <display-name>Filtered US Entertainment — NTD TV Canada</display-name>
+    <url>https://live.ntdtv.com/mllive860/playlist.m3u8</url>
+  </channel>
+  <channel id="NTDTVCanada.us@West">
+    <display-name>Filtered US Entertainment — NTD TV Canada West</display-name>
+    <url>https://live.ntdtv.com/cwlive220/playlist.m3u8</url>
+  </channel>
+  <channel id="NTDTVChina.us@SD">
+    <display-name>Filtered US Entertainment — NTD TV China</display-name>
+    <url>https://live.ntdtv.com/cnlive900/playlist.m3u8</url>
+  </channel>
+  <channel id="NTDTV.us@West">
+    <display-name>Filtered US Entertainment — NTD TV West</display-name>
+    <url>https://live.ntdtv.com/uwlive990/playlist.m3u8</url>
+  </channel>
+  <channel id="OutsideTV.us@SD">
+    <display-name>Filtered US Entertainment — Outside TV (720p)</display-name>
+    <url>http://40.160.24.55/OUTSIDE_TV/index.m3u8</url>
+  </channel>
+  <channel id="OutsideTV.us@SD_2">
+    <display-name>Filtered US Entertainment — Outside TV (720p)</display-name>
+    <url>http://206.212.244.63/2508/index.m3u8</url>
+  </channel>
+  <channel id="OvercomersTV.us@SD">
+    <display-name>Filtered US Entertainment — Overcomers TV (720p)</display-name>
+    <url>https://rumble.com/live-hls/79qjh2/playlist.m3u8</url>
+  </channel>
+  <channel id="OCNTV.us@SD">
+    <display-name>Filtered US Entertainment — OCN TV</display-name>
+    <url>https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8</url>
+  </channel>
+  <channel id="OvercomersTV.us@SD_2">
+    <display-name>Filtered US Entertainment — Overcomers TV (720p)</display-name>
+    <url>https://glorystartv.live/Overcomers/index.m3u8</url>
+  </channel>
+  <channel id="PayvandTV.us@SD">
+    <display-name>Filtered US Entertainment — Payvand TV (720p) [Not 24/7]</display-name>
+    <url>https://bozztv.com/cus01/ucur1/Payvand/index.m3u8</url>
+  </channel>
+  <channel id="PayamJavanTV.us@SD">
+    <display-name>Filtered US Entertainment — Payam Javan TV (720p) [Not 24/7]</display-name>
+    <url>https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8</url>
+  </channel>
+  <channel id="PayvandTV.us@SD_2">
+    <display-name>Filtered US Entertainment — Payvand TV (720p)</display-name>
+    <url>https://tgn.bozztv.com/cus01/ucur1/Payvand/index.m3u8</url>
+  </channel>
+  <channel id="PayameAfghanTV.us@SD">
+    <display-name>Filtered US Entertainment — Payam-e-Afghan TV (480p) [Not 24/7]</display-name>
+    <url>https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8</url>
+  </channel>
+  <channel id="PayameArameshTV.us@SD">
+    <display-name>Filtered US Entertainment — Payame Aramesh TV (720p)</display-name>
+    <url>https://hls.keshishhamid.live/hls/stream.m3u8</url>
+  </channel>
+  <channel id="PopTV.us@SD">
+    <display-name>Filtered US Entertainment — Pop TV (720p)</display-name>
+    <url>http://40.160.24.55/POP/index.m3u8</url>
+  </channel>
+  <channel id="PopTV.us@SD_2">
+    <display-name>Filtered US Entertainment — Pop TV (720p)</display-name>
+    <url>http://206.212.244.63/139/index.m3u8</url>
+  </channel>
+  <channel id="PositivTV.us@SD">
+    <display-name>Filtered US Entertainment — Positiv TV (636p)</display-name>
+    <url>http://trn03.bozztv.com/gin-positiv/index.m3u8</url>
+  </channel>
+  <channel id="PositivTV.us@SD_2">
+    <display-name>Filtered US Entertainment — Positiv TV (1080p)</display-name>
+    <url>https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8</url>
+  </channel>
+  <channel id="PHLgovTV.us@SD">
+    <display-name>Filtered US Entertainment — PHLgovTV (720p)</display-name>
+    <url>https://livestream.telvue.com/ctyphiladelphia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</url>
+  </channel>
+  <channel id="PursuitChannel.us@SD">
+    <display-name>Filtered US Entertainment — Pursuit Channel (1080p)</display-name>
+    <url>http://40.160.24.55/PURSUIT/index.m3u8</url>
+  </channel>
+  <channel id="PursuitChannel.us@SD_2">
+    <display-name>Filtered US Entertainment — Pursuit Channel (720p)</display-name>
+    <url>http://206.212.244.63/140/index.m3u8</url>
+  </channel>
+  <channel id="PottaDivineTVUSA.us@SD">
+    <display-name>Filtered US Entertainment — Potta-Divine TV USA (480p)</display-name>
+    <url>https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8</url>
+  </channel>
+  <channel id="RallyTV.us@SD">
+    <display-name>Filtered US Entertainment — Rally TV (1080p)</display-name>
+    <url>https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8</url>
+  </channel>
+  <channel id="RetroTV.us@East">
+    <display-name>Filtered US Entertainment — Retro TV (720p)</display-name>
+    <url>https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8</url>
+  </channel>
+  <channel id="REVNAction.us@SD">
+    <display-name>Filtered US Entertainment — REV&#x27;N Action (720p)</display-name>
+    <url>https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8</url>
+  </channel>
+  <channel id="RJTV.us@SD">
+    <display-name>Filtered US Entertainment — Radio Javan TV (1080p)</display-name>
+    <url>https://rjtvhls.wns.live/hls/stream.m3u8</url>
+  </channel>
+  <channel id="RFDTV.us@SD">
+    <display-name>Filtered US Entertainment — RFD-TV (1080p)</display-name>
+    <url>http://40.160.24.55/RFD-TV/index.m3u8</url>
+  </channel>
+  <channel id="RFDTV.us@SD_2">
+    <display-name>Filtered US Entertainment — RFD-TV (720p)</display-name>
+    <url>http://206.212.244.63/146/index.m3u8</url>
+  </channel>
+  <channel id="RadioMensajeTV.us@SD">
+    <display-name>Filtered US Entertainment — RadioMensaje TV (720p)</display-name>
+    <url>https://eu1.servers10.com:8081/8230/index.m3u8</url>
+  </channel>
+  <channel id="PixLTV.us@SD">
+    <display-name>Filtered US Entertainment — PixL TV</display-name>
+    <url>https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07</url>
+  </channel>
+  <channel id="RTViUS.us@SD">
+    <display-name>Filtered US Entertainment — RTVi US (1080p)</display-name>
+    <url>https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8</url>
+  </channel>
+  <channel id="RVTVGrantsPass.us@SD">
+    <display-name>Filtered US Entertainment — RVTV Grants Pass (720p)</display-name>
+    <url>https://livestream.telvue.com/roguevalleycmttv4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</url>
+  </channel>
+  <channel id="RVTVCivic.us@SD">
+    <display-name>Filtered US Entertainment — RVTV Civic (720p)</display-name>
+    <url>https://livestream.telvue.com/roguevalleycmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</url>
+  </channel>
+  <channel id="RVTVPrime.us@SD">
+    <display-name>Filtered US Entertainment — RVTV Prime (720p)</display-name>
+    <url>https://livestream.telvue.com/roguevalleycmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</url>
+  </channel>
+  <channel id="RVTVVoices.us@SD">
+    <display-name>Filtered US Entertainment — RVTV Voices (720p)</display-name>
+    <url>https://livestream.telvue.com/roguevalleycmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</url>
+  </channel>
+  <channel id="SBNTV.us@SD">
+    <display-name>Filtered US Entertainment — SBN TV (720p)</display-name>
+    <url>https://watch.sardius.media/channels/Ea867F3e1F56B06/site_c5402f016A/live.m3u8</url>
+  </channel>
+  <channel id="SBNTVInternational.us@SD">
+    <display-name>Filtered US Entertainment — SBN TV International (720p)</display-name>
+    <url>https://watch.sardius.media/channels/Ea867F3e1F56B06/site_09a4778E89/live.m3u8</url>
+  </channel>
+  <channel id="SemillitasTV.us@SD">
+    <display-name>Filtered US Entertainment — Semillitas TV (576p)</display-name>
+    <url>http://45.5.117.99:8000/play/a0g3/index.m3u8</url>
+  </channel>
+  <channel id="SBNTVGlobal.us@SD">
+    <display-name>Filtered US Entertainment — SBN TV Global (720p)</display-name>
+    <url>https://watch.sardius.media/channels/Ea867F3e1F56B06/site_8D363D13Eb/live.m3u8</url>
+  </channel>
+  <channel id="ShalomAmerica.us@SD">
+    <display-name>Filtered US Entertainment — Shalom TV (720p) [Not 24/7]</display-name>
+    <url>https://livestreamcdn.net:444/ShalomTV/ShalomTV/playlist.m3u8</url>
+  </channel>
+  <channel id="SmithsonianChannel.us@East">
+    <display-name>Filtered US Entertainment — Smithsonian Channel (1080p)</display-name>
+    <url>http://40.160.24.55/SMITHSONIAN/index.m3u8</url>
+  </channel>
+  <channel id="SmithsonianChannel.us@East_2">
+    <display-name>Filtered US Entertainment — Smithsonian Channel (720p)</display-name>
+    <url>http://206.212.244.63/148/index.m3u8</url>
+  </channel>
+  <channel id="SonyChannelAndes.us@SD">
+    <display-name>Filtered US Entertainment — Sony Channel Andes (1080p)</display-name>
+    <url>http://138.186.23.7:8082/SONYCHANNEL/index.m3u8</url>
+  </channel>
+  <channel id="SonicTV.us@SD">
+    <display-name>Filtered US Entertainment — Sonic TV (720p)</display-name>
+    <url>https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16764</url>
+  </channel>
+  <channel id="SonyChannelAndes.us@SD_2">
+    <display-name>Filtered US Entertainment — Sony Channel Andes (1080p)</display-name>
+    <url>http://177.234.249.178:8888/SONY-TV/index.m3u8</url>
+  </channel>
+  <channel id="SonyMoviesLatinAmerica.us@SD">
+    <display-name>Filtered US Entertainment — Sony Movies Latin America (720p)</display-name>
+    <url>http://40.160.24.55/SONY_MOVIES/index.m3u8</url>
+  </channel>
+  <channel id="SlopesTV.us@SD">
+    <display-name>Filtered US Entertainment — Slopes TV (720p)</display-name>
+    <url>https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2241</url>
+  </channel>
+  <channel id="SonyMoviesLatinAmerica.us@SD_2">
+    <display-name>Filtered US Entertainment — Sony Movies Latin America (720p)</display-name>
+    <url>http://177.52.24.163/SONY-MOVIES-HD/index.m3u8</url>
+  </channel>
+  <channel id="StartTV.us@SD">
+    <display-name>Filtered US Entertainment — Start TV (720p)</display-name>
+    <url>http://40.160.24.55/START_TV/index.m3u8</url>
+  </channel>
+  <channel id="StarChannelLatinAmerica.us@Panregional">
+    <display-name>Filtered US Entertainment — Star Channel Latin America (1080p)</display-name>
+    <url>http://177.234.249.178:8888/STAR-CHANNEL/index.m3u8</url>
+  </channel>
+  <channel id="StarChannelLatinAmerica.us@Panregional_2">
+    <display-name>Filtered US Entertainment — Star Channel Latin America (1080p)</display-name>
+    <url>http://138.186.23.7:8082/STARCHANNEL/index.m3u8</url>
+  </channel>
+  <channel id="StartTV.us@SD_2">
+    <display-name>Filtered US Entertainment — Start TV (720p)</display-name>
+    <url>http://206.212.244.63/150/index.m3u8</url>
+  </channel>
+  <channel id="StarChannelLatinAmerica.us@Panregional_3">
+    <display-name>Filtered US Entertainment — Star Channel Latin America (1080p)</display-name>
+    <url>http://45.162.193.35/STAR_CHANNEL/index.m3u8</url>
+  </channel>
+  <channel id="StarzCinema.us@East">
+    <display-name>Filtered US Entertainment — Starz Cinema (720p)</display-name>
+    <url>http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8</url>
+  </channel>
+  <channel id="StrykTV.us@HD">
+    <display-name>Filtered US Entertainment — Stryk TV (1080p)</display-name>
+    <url>https://fffffff110156200.tvustream.com:8298/ryfy.m3u8</url>
+  </channel>
+  <channel id="SUMtvEnglish.us@SD">
+    <display-name>Filtered US Entertainment — SUMtv English (1080p)</display-name>
+    <url>https://bozztv.com/uni10rtmp/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8</url>
+  </channel>
+  <channel id="SUMtvLatino.us@SD">
+    <display-name>Filtered US Entertainment — SUMtv Latino (1080p)</display-name>
+    <url>https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8</url>
+  </channel>
+  <channel id="SundanceTV.us@East">
+    <display-name>Filtered US Entertainment — Sundance TV (720p)</display-name>
+    <url>http://40.160.24.55/SUNDANCE/index.m3u8</url>
+  </channel>
+  <channel id="SundanceTV.us@East_2">
+    <display-name>Filtered US Entertainment — Sundance TV (720p)</display-name>
+    <url>http://206.212.244.63/151/index.m3u8</url>
+  </channel>
+  <channel id="SUMtvEnglish.us@SD_2">
+    <display-name>Filtered US Entertainment — SUMtv English (1080p)</display-name>
+    <url>https://rpn.bozztv.com/ssstv/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8</url>
+  </channel>
+  <channel id="SUMtvLatino.us@SD_2">
+    <display-name>Filtered US Entertainment — SUMtv Latino (1080p)</display-name>
+    <url>https://rpn.bozztv.com/ssstv/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8</url>
+  </channel>
+  <channel id="TalkinLiveClassicsTV.us@SD">
+    <display-name>Filtered US Entertainment — Talkin Live Classics TV (480p)</display-name>
+    <url>https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8</url>
+  </channel>
+  <channel id="TheCowboyChannel.us@SD">
+    <display-name>Filtered US Entertainment — The Cowboy Channel (720p)</display-name>
+    <url>http://206.212.244.63/155/index.m3u8</url>
+  </channel>
+  <channel id="TheCowboyChannel.us@SD_2">
+    <display-name>Filtered US Entertainment — The Cowboy Channel (1080p)</display-name>
+    <url>http://40.160.24.52/THE_COWBOY_CHANNEL/index.m3u8</url>
+  </channel>
+  <channel id="TheFirstTV.us@SD">
+    <display-name>Filtered US Entertainment — The First TV (1080p)</display-name>
+    <url>https://thefirst-oando.amagi.tv/playlist.m3u8</url>
+  </channel>
+  <channel id="TheWalkTV.us@SD">
+    <display-name>Filtered US Entertainment — The Walk TV (720p)</display-name>
+    <url>https://cdn-unified-hls.streamspot.com/ingest1/8b0796adaf/playlist.m3u8?origin=1</url>
+  </channel>
+  <channel id="TinTV.us@SD">
+    <display-name>Filtered US Entertainment — Tin TV (720p) [Not 24/7]</display-name>
+    <url>https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8</url>
+  </channel>
+  <channel id="TimelessTV.us@SD">
+    <display-name>Filtered US Entertainment — Timeless TV</display-name>
+    <url>https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8</url>
+  </channel>
+  <channel id="theDoveTV.us@SD">
+    <display-name>Filtered US Entertainment — theDove TV (720p)</display-name>
+    <url>https://thedovetv.bozztv.com/thedovetv/thedovetv/index.m3u8</url>
+  </channel>
+  <channel id="TSC.ca@SD">
+    <display-name>Filtered US Entertainment — The Shopping Channel (720p)</display-name>
+    <url>https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8</url>
+  </channel>
+  <channel id="TinTV.us@SD_2">
+    <display-name>Filtered US Entertainment — Tin TV (720p)</display-name>
+    <url>https://tulixcdn.akamaized.net/tintv6/tintv/tintv/playlist.m3u8</url>
+  </channel>
+  <channel id="TVLand.us@East">
+    <display-name>Filtered US Entertainment — TV Land (720p)</display-name>
+    <url>http://40.160.24.55/TV_LAND/index.m3u8</url>
+  </channel>
+  <channel id="TVLand.us@East_2">
+    <display-name>Filtered US Entertainment — TV Land (720p)</display-name>
+    <url>http://206.212.244.63/164/index.m3u8</url>
+  </channel>
+  <channel id="TVOne.us@SD">
+    <display-name>Filtered US Entertainment — TV One (1080p)</display-name>
+    <url>http://40.160.24.55/TV_ONE/index.m3u8</url>
+  </channel>
+  <channel id="TVOne.us@SD_2">
+    <display-name>Filtered US Entertainment — TV One (720p)</display-name>
+    <url>http://206.212.244.63/166/index.m3u8</url>
+  </channel>
+  <channel id="TSTV.us@SD">
+    <display-name>Filtered US Entertainment — TSTV (720p)</display-name>
+    <url>https://reflector.watchtstv.com/hls/livestream.m3u8</url>
+  </channel>
+  <channel id="TMTV.us@SD">
+    <display-name>Filtered US Entertainment — TM TV (720p)</display-name>
+    <url>https://hls.tmtv.live/hls/stream.m3u8</url>
+  </channel>
+  <channel id="TUTV.us@SD">
+    <display-name>Filtered US Entertainment — TUTV (1080p)</display-name>
+    <url>https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</url>
+  </channel>
+  <channel id="TVSClassicMovies.us@SD">
+    <display-name>Filtered US Entertainment — TVS Classic Movies (288p)</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8</url>
+  </channel>
+  <channel id="TVSDriveInMovie.us@SD">
+    <display-name>Filtered US Entertainment — TVS Drive In Movie (360p)</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8</url>
+  </channel>
+  <channel id="TVSMainstreet.us@SD">
+    <display-name>Filtered US Entertainment — TVS Mainstreet (360p) [Not 24/7]</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8</url>
+  </channel>
+  <channel id="TVSNostalgia.us@SD">
+    <display-name>Filtered US Entertainment — TVS Nostalgia (472p)</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-nostalgia/index.m3u8</url>
+  </channel>
+  <channel id="TVSNostalgiaMovies.us@SD">
+    <display-name>Filtered US Entertainment — TVS Nostalgia Movies (480p)</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8</url>
+  </channel>
+  <channel id="TVSTallyHo.us@SD">
+    <display-name>Filtered US Entertainment — TVS Tally Ho (360p)</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-tvstallyho/index.m3u8</url>
+  </channel>
+  <channel id="TVSTavern.us@SD">
+    <display-name>Filtered US Entertainment — TVS Tavern (480p)</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-tavern/index.m3u8</url>
+  </channel>
+  <channel id="TVSTurbo.us@SD">
+    <display-name>Filtered US Entertainment — TVS Turbo (360p)</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8</url>
+  </channel>
+  <channel id="TVSWesternMovie.us@SD">
+    <display-name>Filtered US Entertainment — TVS Western Movie (270p)</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8</url>
+  </channel>
+  <channel id="TVSConsumerDirect.us@SD">
+    <display-name>Filtered US Entertainment — TVSConsumerDirect (720p)</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8</url>
+  </channel>
+  <channel id="UniversalTVLatinAmerica.us@Panregional">
+    <display-name>Filtered US Entertainment — Universal TV Latin America (1080p)</display-name>
+    <url>http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8</url>
+  </channel>
+  <channel id="UNWebTV.us@SD">
+    <display-name>Filtered US Entertainment — UN Web TV (540p)</display-name>
+    <url>https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8</url>
+  </channel>
+  <channel id="UniversalTVLatinAmerica.us@Panregional_2">
+    <display-name>Filtered US Entertainment — Universal TV Latin America (1080p)</display-name>
+    <url>http://138.186.23.7:8082/STUDIOUNIVERSAL/index.m3u8</url>
+  </channel>
+  <channel id="UniversalTVLatinAmerica.us@Panregional_3">
+    <display-name>Filtered US Entertainment — Universal TV Latin America (1080p)</display-name>
+    <url>http://177.234.249.178:8888/UNIVERSAL/index.m3u8</url>
+  </channel>
+  <channel id="UpTV.us@SD">
+    <display-name>Filtered US Entertainment — Up TV (1080p)</display-name>
+    <url>http://40.160.24.55/Up_TV/index.m3u8</url>
+  </channel>
+  <channel id="UniversalTVLatinAmerica.us@Brazil">
+    <display-name>Filtered US Entertainment — Universal TV Latin America Brazil (720p)</display-name>
+    <url>http://45.190.156.152/UNIVERSAL_TV/index.m3u8</url>
+  </channel>
+  <channel id="TVSHiTops.us@SD">
+    <display-name>Filtered US Entertainment — TVS Hi Tops (720p)</display-name>
+    <url>https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8</url>
+  </channel>
+  <channel id="VBSTV.us@SD">
+    <display-name>Filtered US Entertainment — VBS TV (480p) [Not 24/7]</display-name>
+    <url>https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8</url>
+  </channel>
+  <channel id="VICETV.us@SD">
+    <display-name>Filtered US Entertainment — VICE TV (1080p)</display-name>
+    <url>http://206.212.244.63/170/index.m3u8</url>
+  </channel>
+  <channel id="VICETV.us@SD_2">
+    <display-name>Filtered US Entertainment — VICE TV (1080p)</display-name>
+    <url>http://23.237.104.106:8080/USA_VICETV/index.m3u8</url>
+  </channel>
+  <channel id="VICETV.us@SD_3">
+    <display-name>Filtered US Entertainment — VICE TV (720p)</display-name>
+    <url>http://40.160.24.55/VICELAND/index.m3u8</url>
+  </channel>
+  <channel id="WHOHTV.us@SD">
+    <display-name>Filtered US Entertainment — Village of Hastings-On-Hudson NY (WHOH-TV) (360p)</display-name>
+    <url>https://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8</url>
+  </channel>
+  <channel id="VidaMejorTV.us@SD">
+    <display-name>Filtered US Entertainment — Vida Mejor TV (480p)</display-name>
+    <url>https://tgn.bozztv.com/betterlife/bettervida/bettervida/index.m3u8</url>
+  </channel>
+  <channel id="VoATV.us@SD">
+    <display-name>Filtered US Entertainment — VOA TV Africa (1080p)</display-name>
+    <url>https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8</url>
+  </channel>
+  <channel id="W14DKD141.us@HD">
+    <display-name>Filtered US Entertainment — W14DK-D 14.1 TV Delmarva</display-name>
+    <url>https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8</url>
+  </channel>
+  <channel id="WATCDT571.us@HD">
+    <display-name>Filtered US Entertainment — WATC TV57 (1080p)</display-name>
+    <url>https://tgn2.bozztv.com/watc57/watc57-1/watc57-1/index.m3u8</url>
+  </channel>
+  <channel id="WDAFTV42.us@SD">
+    <display-name>Filtered US Entertainment — WDAF-TV 4.2 (576p)</display-name>
+    <url>http://206.212.244.63/9/index.m3u8</url>
+  </channel>
+  <channel id="WeTV.us@East">
+    <display-name>Filtered US Entertainment — We TV (720p)</display-name>
+    <url>http://40.160.24.55/WE_TV/index.m3u8</url>
+  </channel>
+  <channel id="WeTV.us@East_2">
+    <display-name>Filtered US Entertainment — We TV (720p)</display-name>
+    <url>http://206.212.244.63/172/index.m3u8</url>
+  </channel>
+  <channel id="WeTV.us@East_3">
+    <display-name>Filtered US Entertainment — We TV (720p)</display-name>
+    <url>https://streamer1.nexgen.bz/WE_TV/index.m3u8</url>
+  </channel>
+  <channel id="WGTV83.us@SD">
+    <display-name>Filtered US Entertainment — WGTV-DT3 (1080p)</display-name>
+    <url>https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8</url>
+  </channel>
+  <channel id="WhiplashCinema.us@SD">
+    <display-name>Filtered US Entertainment — Whiplash Cinema (480p)</display-name>
+    <url>https://cdn.whiplash.cc/whiplash-cinema/index.m3u8</url>
+  </channel>
+  <channel id="WLTVDT231.us@HD">
+    <display-name>Filtered US Entertainment — WLTV-DT1 [Geo-blocked]</display-name>
+    <url>https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8</url>
+  </channel>
+  <channel id="WindowTV.us@SD">
+    <display-name>Filtered US Entertainment — Window TV (720p)</display-name>
+    <url>https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8</url>
+  </channel>
+  <channel id="WorldChannel.us@SD">
+    <display-name>Filtered US Entertainment — World Channel (1080p)</display-name>
+    <url>https://world.lls.pbs.org/index.m3u8</url>
+  </channel>
+  <channel id="WTVJ61.us@HD">
+    <display-name>Filtered US Entertainment — WTVJ-DT1 (1080p)</display-name>
+    <url>https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8</url>
+  </channel>
+  <channel id="WXTVDT681.us@HD">
+    <display-name>Filtered US Entertainment — WXTV-DT1</display-name>
+    <url>https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8</url>
+  </channel>
+  <channel id="WWONTVChannel48.us@SD">
+    <display-name>Filtered US Entertainment — WWON TV CH 48</display-name>
+    <url>https://tv2.fastcast4u.com:3943/stream/play.m3u8</url>
+  </channel>
+  <channel id="WTVT131.us@HD">
+    <display-name>Filtered US Entertainment — WTVT-DT1 (1080p)</display-name>
+    <url>https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8</url>
+  </channel>
+  <channel id="XFCTV.us@SD">
+    <display-name>Filtered US Entertainment — XFC TV (720p)</display-name>
+    <url>https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2247</url>
+  </channel>
+  <channel id="ZarinTV.us@SD">
+    <display-name>Filtered US Entertainment — Zarin TV (1080p)</display-name>
+    <url>https://fl1002.bozztv.com/gf-zarintv/index.m3u8</url>
+  </channel>
+  <channel id="YTATV.us@SD">
+    <display-name>Filtered US Entertainment — YTA TV (720p)</display-name>
+    <url>https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16767</url>
+  </channel>
+  <channel id="YTATV.us@SD_2">
+    <display-name>Filtered US Entertainment — YTA TV</display-name>
+    <url>https://yta.unitedteleports.tv/hls/YTA.m3u8</url>
+  </channel>
+  <channel id="BarkTV.us@SD">
+    <display-name>Filtered US Entertainment — Bark TV (1080p)</display-name>
+    <url>https://bbb-barkt-streamstak.otteravision.com/bbb/barkt/barkt.m3u8</url>
+  </channel>
+  <channel id="SonicTV.us@SD_2">
+    <display-name>Filtered US Entertainment — Sonic TV (720p)</display-name>
+    <url>https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260</url>
+  </channel>
+  <channel id="TVSAPublicChannel.us@SD">
+    <display-name>Filtered US Entertainment — TVSA Public Channel (720p)</display-name>
+    <url>https://edge-f.swagit.com/live/sanantoniotx/live-2-a/playlist.m3u8</url>
+  </channel>
+  <channel id="ComercioTV.us@SD_3">
+    <display-name>Filtered US Entertainment — Comercio TV (720p)</display-name>
+    <url>https://amg00082-tarima-amg00082c1-tunein-us-7960.playouts.now.amagi.tv/playlist/amg00082-tarima-comercio-tuneinus/playlist.m3u8</url>
+  </channel>
+  <channel id="NRBTV.us@SD_3">
+    <display-name>Filtered US Entertainment — NRBTV (720p)</display-name>
+    <url>http://145.239.5.177/215/index.m3u8</url>
+  </channel>
+  <channel id="StarChannelLatinAmerica.us@CentralAmerica">
+    <display-name>Filtered US Entertainment — Star Channel Latin America Central America (1080p)</display-name>
+    <url>https://streamer.metronethn.com/StarChannel/index.m3u8</url>
+  </channel>
+  <channel id="Showtime.us@East">
+    <display-name>Filtered US Entertainment — Showtime (1080p)</display-name>
+    <url>http://41.205.93.154/SHOWTIMES/index.m3u8</url>
+  </channel>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ABNTVIndia.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — ABN TV India (540p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AfroLandTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — AfroLandTV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AKCTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — AKC TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ACTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — ACTV</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AKCTVMeettheBreeds.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — AKC TV Meet The Breeds</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AKCTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — AKC TV</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AKCTVPuppies.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — AKC TV Puppies 24/7</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AFTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — AFTV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AccessVisionChannel17.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — AccessVision Channel 17 (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AlHorreyaTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Al Horreya TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AlHorreyaTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Al Horreya TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="6WiseTv.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — 6 Wise Tv (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AccessVisionChannel16.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — AccessVision Channel 16 (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AlFadyTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Al-Fady TV (1080p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AceTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Ace TV (480p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AlMahdiTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Al-MahdiTV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AlkarmaTVTalmazaDiscipleship.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Alkarma TV Talmaza (Discipleship) (1080p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AlkarmaTVAustralia.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Alkarma TV Australia (1080p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AlkarmaTVPraise.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Alkarma TV Praise (720p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AlkarmaTVMiddleEast.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Alkarma TV Middle East (1080p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AlmagdTVMiddleEast.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Almagd TV Middle East (1080p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AMGTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — AMG TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AlbdreamsTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — AlbDreams TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AlkarmaTVAustralia.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Alkarma TV Australia (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AlmagdTVNorthAmerica.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Almagd TV North America (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AlkarmaTVNorthAmericaCanada.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Alkarma TV North America &amp; Canada (1080p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AlkarmaTVYouthEnglish.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Alkarma TV Youth &amp; English (1080p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AmazingFactsTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Amazing Facts TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AXSTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — AXS TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AXSTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — AXS TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AXSTV.us@SD_3">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — AXS TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AmuTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Amu TV</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AvangTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Avang TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BeachTVFloridaAlabama.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Beach TV Florida &amp; Alabama (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BeachTVMyrtleBeachTheGrandStrand.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Beach TV Myrtle Beach &amp; The Grand Strand (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BeachTVPanamaCity.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Beach TV Panama City (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BeachTVFloridaAlabama.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Beach TV Florida &amp; Alabama (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BeachTVKeyWestFloridaKeys.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Beach TV Key West &amp; Florida Keys (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BeachTVMyrtleBeachTheGrandStrand.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Beach TV Myrtle Beach &amp; The Grand Strand (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BeachTVPanamaCity.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Beach TV Panama City (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BerksCommunityTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Berks Community TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BetterLifeTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Better Life TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BIGCivicChannel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — BIG Civic Channel</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BIGCommunityChannel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — BIG Community Channel</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BizTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Biz TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BloombergTV.us@US">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Bloomberg TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BloombergTV.us@US_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Bloomberg TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BetterLifeNatureChannel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Better Life Nature Channel (480p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BloombergTV.us@US_3">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Bloomberg TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BizTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Biz TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BloombergTV.us@Plus">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Bloomberg TV + (2160p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="KMBYLD275.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Blues TV</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BloombergTV.us@Plus_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Bloomberg TV+ (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BATV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Bloomfield Access TV Channel 5 (480p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BloombergTV.us@PoliticsLiveEvent">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Bloomberg TV US Politics Live Event (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BloombergTV.us@US_4">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Bloomberg TV US (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BloombergTV.us@LiveEvent">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Bloomberg TV US Live Event (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BMCHDTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — BMC-HD TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BPXTVRadio.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — BPX TV Radio</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BratTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Brat TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BYUTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — BYU TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CANTV27.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — CAN TV27 (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CANTV21.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — CAN TV21 (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CANTV19.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — CAN TV19 (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="Channel18GAC.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Channel 18 GAC</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CleoTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Cleo TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CleoTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Cleo TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ClassicCinema.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Classic Cinema (240p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CelebritySceneTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Celebrity Scene TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CloudflareTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Cloudflare TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CaliforniaMusicChannel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — CMC California Music Channel (1080p) [Geo-blocked]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CMCUSACountryMusicChannel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — CMC-USA Country Music Channel (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CaliforniaMusicChannel.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — CMC California Music Channel (1080p) [Geo-blocked]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ClassicArtsShowcase.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Classic Arts Showcase (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ComedyTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Comedy TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ComercioTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Comercio TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CourtTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Court TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CoziTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Cozi TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CornerstoneTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Cornerstone TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CoziTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Cozi TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ComercioTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Comercio TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CourtTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Court TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="COStv.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — COStv</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CSatTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — CSat TV (1080p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CourtTV.us@SD_3">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Court TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="DaystarTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Daystar TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CVTVChannel192.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — CVTV Channel 192 (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CTNTVConneticut.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — CT-N TV Conneticut (720p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CVTVChannel194.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — CVTV Channel 194 (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CSatTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — CSat TV (1080p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="DetroitChannel68.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Detroit Channel 68</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CSatTV.us@SD_3">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — CSat TV (1080p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="DetroitChannel22.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Detroit Channel 22</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="DetroitChannel10.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Detroit Channel 10</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="DetroitChannel21.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Detroit Channel 21</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="DerryTV23.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — DerryTV 23 (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="DerryTV17.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — DerryTV 17 (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="DogTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Dog TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="DoveChannel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Dove Channel (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="DidgahTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Didgah TV (576p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="DreamWorksChannelLatinAmerica.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — DreamWorks Channel Latin America (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="DungeonTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Dungeon TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ElbesharaGTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Elbeshara GTV (1080p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="DreamWorksChannelAsia.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — DreamWorks Channel Asia</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="EntrepreneurTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — EntrepreneurTV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="FanDuelTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — FanDuel TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ExtremaTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Extrema TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="FanDuelTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — FanDuel TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="FETV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — FETV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="FETV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — FETV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="FilmRiseClassicTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — FilmRise Classic TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="FGTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — FGTV</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="FlowersTVUSA.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Flowers TV USA</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="FreeSpeechTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Free Speech TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="GanjeHozourTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Ganj e Hozour TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="FreeSpeechTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Free Speech TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="GalxyTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Galxy TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="GillettePublicAccessTelevisionChannel189.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Gillette Public Access Television Channel 189</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="GillettePublicAccessTelevisionChannel190.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Gillette Public Access Television Channel 190</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="GillettePublicAccessTelevisionChannel192.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Gillette Public Access Television Channel 192</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="GlobalWorldTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — GlobalWorldTV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="GOD_TV__720p_">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — GOD TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="Golden.mx@Panregional">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Golden TV (240p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="GolTVLatinAmerica.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — GolTV Latin America (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="GMTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — GMTV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="HallmarkChannel.us@East">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Hallmark Channel (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="HallmarkChannel.us@East_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Hallmark Channel (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="HallmarkChannel.us@East_3">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Hallmark Channel (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="HallmarkMoviesMore.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Hallmark Movies &amp; More (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="HisGloryTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — His Glory TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="HCTVPublicAccessChannel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — HCTV Public Access Channel</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="HolaTVLatinAmerica.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Hola! TV Latin America (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="HopeChannelInterAmerica.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Hope Channel Inter-America</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="HopeChannelInterAmericaEnglish.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Hope Channel Inter-America English (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="HolaTVLatinAmerica.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Hola! TV Latin America (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="HopeChannelInternational.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Hope Channel International (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="HopeChannelNorthAmerica.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Hope Channel North America (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="IONTV.us@East">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — ION TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="InfoWars_The_Alex_Jones_Show__1080p_">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — InfoWars The Alex Jones Show (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="IONTV.us@East_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — ION TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="IONTV.us@East_3">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — ION TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ItIsWrittenTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — It Is Written TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="JusticeCentralTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Justice Central TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="IranNationalRevolutionTV.us@HD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Iran National Revolution TV</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="JusticeCentralTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Justice Central TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="KADNTV151.us@HD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — KADN-TV 15.1 (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="KajouTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Kajou TV (720p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="KaloopyTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Kaloopy TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="JewelryTV2.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Jewelry TV 2 (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="KLFYTV101.us@HD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — KLFY-TV 10.1 (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="KPVMLD252.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — KPVM Movies!</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="KNTV111.us@HD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — KNTV-DT1 (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="KPVMLD251.us@HD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — KPVM Prime TV25</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="KTTV111.us@HD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — KTTV 11.1 (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="KTTV111.us@HD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — KTTV-DT1 (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="LaoThaiTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Lao-Thai TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="LifetimeMovies.us@East">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Lifetime Movies (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="LifetimeMovies.us@East_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Lifetime Movies (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="LGTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — LGTV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="LifevisionTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — LifevisionTV (406p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SmartLifeStyleTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Lighting Lives Blessing Nations Smart Life Style TV (LLBN) (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="AMGATV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Amga TV (720p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="LLBNTVChinese.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Lighting Lives Blessing Nations TV Chinese (LLBN) (480p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="LLBNTVKorean.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Lighting Lives Blessing Nations TV Korean (LLBN) (480p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="LindellTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Lindell TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="LindellTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Lindell TV</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="LLBNTVRomanian.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Lighting Lives Blessing Nations TV Romanian (LLBN) (480p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="LLBNTVArabic.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Lighting Lives Blessing Nations TV Arabic (LLBN) (480p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="LLBNTVLatino.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Lighting Lives Blessing Nations TV Latino (LLBN) (480p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="LLBNTVSouthAsia.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Lighting Lives Blessing Nations TV South Asia (LLBN) (480p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="LittleGuyanaTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Little Guyana TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="LogosTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Logos TV (720p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="LPTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — LPTV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MeTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — MeTV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MeTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — MeTV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MeTV.us@SD_3">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — MeTV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MBCDramaUSA.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — MBC Drama USA (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MeTVPlus.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — MeTV+ (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="LogosTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Logos TV (1080p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="LogosTVEnglish.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Logos TV English (1080p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MohabatTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Mohabat TV (540p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MontgomeryChannel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Montgomery Channel</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MetaleitorTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Metaleitor TV</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MTV.us@East">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — MTV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MTV.us@East_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — MTV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MinisterioLaVozDeUnRemanenteTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Ministerio La Voz De Un Remanente TV</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MTV.us@East_3">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — MTV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MTV2.us@East">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — MTV2 (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MonroeCommunityMediaEducationChannel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Monroe Community Media Education Channel</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MonroeCommunityMediaPublicAccessChannel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Monroe Community Media Public Access Channel</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MTV2.us@East_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — MTV2 (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MRVTVChannel44.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — MRVTV Channel 44 (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MTV2.us@East_3">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — MTV2 (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MTVClassic.us@East">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — MTV Classic (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MRVTVChannel45.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — MRVTV Channel 45 (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MTVClassic.us@East_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — MTV Classic (576p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MTVLive.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — MTV Live (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MTVLive.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — MTV Live (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MTVU.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — MTVU (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MTVLatinAmerica.us@Panregional">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — MTV Latin America (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MTVLatinAmerica.us@Panregional_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — MTV Latin America (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MTVLive.us@SD_3">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — MTV Live (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="NashuaETV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Nashua ETV Channel 22 Nashua NH (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="NatickEducationChannel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Natick Education Channel (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="GovernmentTV16.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Nashua GTV Channel 16 Nashua NH (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="NatickPublicAccessChannel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Natick Public Access Channel (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MTVLive.us@SD_4">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — MTV Live (576p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="NRBTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — NRB TV (480p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="NTDTV.us@East">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — NTD TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="NRBTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — NRBTV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="NTDTVAsiaPacific.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — NTD TV Asia-Pacific</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="NTDTVEnglish.us@USA">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — NTD TV English (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="NTDTVEnglish.us@USA_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — NTD TV English (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="NTDTVEnglish.us@UK">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — NTD TV English UK (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="NTDTVCanada.us@East">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — NTD TV Canada</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="NTDTVCanada.us@West">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — NTD TV Canada West</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="NTDTVChina.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — NTD TV China</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="NTDTV.us@West">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — NTD TV West</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="OutsideTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Outside TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="OutsideTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Outside TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="OvercomersTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Overcomers TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="OCNTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — OCN TV</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="OvercomersTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Overcomers TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="PayvandTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Payvand TV (720p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="PayamJavanTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Payam Javan TV (720p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="PayvandTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Payvand TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="PayameAfghanTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Payam-e-Afghan TV (480p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="PayameArameshTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Payame Aramesh TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="PopTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Pop TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="PopTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Pop TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="PositivTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Positiv TV (636p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="PositivTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Positiv TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="PHLgovTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — PHLgovTV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="PursuitChannel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Pursuit Channel (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="PursuitChannel.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Pursuit Channel (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="PottaDivineTVUSA.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Potta-Divine TV USA (480p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="RallyTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Rally TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="RetroTV.us@East">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Retro TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="REVNAction.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — REV&#x27;N Action (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="RJTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Radio Javan TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="RFDTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — RFD-TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="RFDTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — RFD-TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="RadioMensajeTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — RadioMensaje TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="PixLTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — PixL TV</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="RTViUS.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — RTVi US (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="RVTVGrantsPass.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — RVTV Grants Pass (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="RVTVCivic.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — RVTV Civic (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="RVTVPrime.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — RVTV Prime (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="RVTVVoices.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — RVTV Voices (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SBNTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — SBN TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SBNTVInternational.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — SBN TV International (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SemillitasTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Semillitas TV (576p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SBNTVGlobal.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — SBN TV Global (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ShalomAmerica.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Shalom TV (720p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SmithsonianChannel.us@East">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Smithsonian Channel (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SmithsonianChannel.us@East_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Smithsonian Channel (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SonyChannelAndes.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Sony Channel Andes (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SonicTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Sonic TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SonyChannelAndes.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Sony Channel Andes (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SonyMoviesLatinAmerica.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Sony Movies Latin America (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SlopesTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Slopes TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SonyMoviesLatinAmerica.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Sony Movies Latin America (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="StartTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Start TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="StarChannelLatinAmerica.us@Panregional">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Star Channel Latin America (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="StarChannelLatinAmerica.us@Panregional_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Star Channel Latin America (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="StartTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Start TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="StarChannelLatinAmerica.us@Panregional_3">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Star Channel Latin America (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="StarzCinema.us@East">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Starz Cinema (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="StrykTV.us@HD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Stryk TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SUMtvEnglish.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — SUMtv English (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SUMtvLatino.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — SUMtv Latino (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SundanceTV.us@East">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Sundance TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SundanceTV.us@East_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Sundance TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SUMtvEnglish.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — SUMtv English (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SUMtvLatino.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — SUMtv Latino (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TalkinLiveClassicsTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Talkin Live Classics TV (480p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TheCowboyChannel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — The Cowboy Channel (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TheCowboyChannel.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — The Cowboy Channel (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TheFirstTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — The First TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TheWalkTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — The Walk TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TinTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Tin TV (720p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TimelessTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Timeless TV</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="theDoveTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — theDove TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TSC.ca@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — The Shopping Channel (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TinTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Tin TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVLand.us@East">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — TV Land (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVLand.us@East_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — TV Land (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVOne.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — TV One (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVOne.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — TV One (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TSTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — TSTV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TMTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — TM TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TUTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — TUTV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSClassicMovies.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — TVS Classic Movies (288p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSDriveInMovie.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — TVS Drive In Movie (360p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSMainstreet.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — TVS Mainstreet (360p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSNostalgia.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — TVS Nostalgia (472p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSNostalgiaMovies.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — TVS Nostalgia Movies (480p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSTallyHo.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — TVS Tally Ho (360p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSTavern.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — TVS Tavern (480p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSTurbo.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — TVS Turbo (360p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSWesternMovie.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — TVS Western Movie (270p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSConsumerDirect.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — TVSConsumerDirect (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="UniversalTVLatinAmerica.us@Panregional">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Universal TV Latin America (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="UNWebTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — UN Web TV (540p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="UniversalTVLatinAmerica.us@Panregional_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Universal TV Latin America (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="UniversalTVLatinAmerica.us@Panregional_3">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Universal TV Latin America (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="UpTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Up TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="UniversalTVLatinAmerica.us@Brazil">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Universal TV Latin America Brazil (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSHiTops.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — TVS Hi Tops (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="VBSTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — VBS TV (480p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="VICETV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — VICE TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="VICETV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — VICE TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="VICETV.us@SD_3">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — VICE TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="WHOHTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Village of Hastings-On-Hudson NY (WHOH-TV) (360p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="VidaMejorTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Vida Mejor TV (480p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="VoATV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — VOA TV Africa (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="W14DKD141.us@HD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — W14DK-D 14.1 TV Delmarva</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="WATCDT571.us@HD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — WATC TV57 (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="WDAFTV42.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — WDAF-TV 4.2 (576p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="WeTV.us@East">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — We TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="WeTV.us@East_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — We TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="WeTV.us@East_3">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — We TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="WGTV83.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — WGTV-DT3 (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="WhiplashCinema.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Whiplash Cinema (480p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="WLTVDT231.us@HD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — WLTV-DT1 [Geo-blocked]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="WindowTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Window TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="WorldChannel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — World Channel (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="WTVJ61.us@HD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — WTVJ-DT1 (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="WXTVDT681.us@HD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — WXTV-DT1</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="WWONTVChannel48.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — WWON TV CH 48</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="WTVT131.us@HD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — WTVT-DT1 (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="XFCTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — XFC TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ZarinTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Zarin TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="YTATV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — YTA TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="YTATV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — YTA TV</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BarkTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Bark TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SonicTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Sonic TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSAPublicChannel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — TVSA Public Channel (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ComercioTV.us@SD_3">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Comercio TV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="NRBTV.us@SD_3">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — NRBTV (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="StarChannelLatinAmerica.us@CentralAmerica">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Star Channel Latin America Central America (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="Showtime.us@East">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Entertainment — Showtime (1080p)</desc>
+  </programme>
+</tv>

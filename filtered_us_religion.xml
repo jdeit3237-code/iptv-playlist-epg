@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="copilot-cli">
+  <channel id="ABNBibleMoviesChannel.us@SD">
+    <display-name>Filtered US Religion — ABN Bible Movies (720p)</display-name>
+    <url>https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8</url>
+  </channel>
+  <channel id="BETGospel.us@SD">
+    <display-name>Filtered US Religion — BET Gospel (576p)</display-name>
+    <url>http://206.212.244.63/17/index.m3u8</url>
+  </channel>
+  <channel id="CatholicTV.us@SD">
+    <display-name>Filtered US Religion — Catholic TV (1080p)</display-name>
+    <url>https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8</url>
+  </channel>
+  <channel id="CatholicFaithNetwork.us@SD">
+    <display-name>Filtered US Religion — CFN Catholic Faith Network (720p)</display-name>
+    <url>https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8</url>
+  </channel>
+  <channel id="ChristianYouthChannelCYC.us@SD">
+    <display-name>Filtered US Religion — Christian Youth Channel (CYC) (1080p)</display-name>
+    <url>http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8</url>
+  </channel>
+  <channel id="ChristianYouthChannelCYC.us@SD_2">
+    <display-name>Filtered US Religion — Christian Youth Channel (CYC) (1080p)</display-name>
+    <url>http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8</url>
+  </channel>
+  <channel id="GreatAmericanFaithLiving.us@SD">
+    <display-name>Filtered US Religion — Great American Faith &amp; Living (1080p)</display-name>
+    <url>http://40.160.24.52/GAC_LIVING/index.m3u8</url>
+  </channel>
+  <channel id="GreatAmericanFaithLiving.us@SD_2">
+    <display-name>Filtered US Religion — Great American Faith &amp; Living (1080p)</display-name>
+    <url>http://206.212.244.63/82/index.m3u8</url>
+  </channel>
+  <channel id="GospelTruthTV.us@SD">
+    <display-name>Filtered US Religion — Gospel Truth TV (1080p)</display-name>
+    <url>https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8</url>
+  </channel>
+  <channel id="GCNAmerica.us@SD">
+    <display-name>Filtered US Religion — Global Christian Network America (GCN) (720p)</display-name>
+    <url>http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m3u8</url>
+  </channel>
+  <channel id="LivingFaithTV.us@SD">
+    <display-name>Filtered US Religion — Living Faith TV (540p)</display-name>
+    <url>https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1</url>
+  </channel>
+  <channel id="MissionTV.us@SD">
+    <display-name>Filtered US Religion — Mission TV (720p) [Not 24/7]</display-name>
+    <url>http://stream.missiontv.com:1935/live/missiontv_720p/playlist.m3u8</url>
+  </channel>
+  <channel id="MissionTV.us@SD_2">
+    <display-name>Filtered US Religion — Mission TV (1080p) [Not 24/7]</display-name>
+    <url>https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8</url>
+  </channel>
+  <channel id="RTHTV2Gospel.us@SD">
+    <display-name>Filtered US Religion — RTH-TV2 Gospel (720p)</display-name>
+    <url>https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8</url>
+  </channel>
+  <channel id="ShalomWorldPrayer.us@SD">
+    <display-name>Filtered US Religion — Shalom World Prayer (1080p)</display-name>
+    <url>https://broadcaster-1.cclouds.in/srt-4/channel4_abr/playlist.m3u8</url>
+  </channel>
+  <channel id="SpiritTV.us@SD">
+    <display-name>Filtered US Religion — Spirit TV (720p) [Not 24/7]</display-name>
+    <url>https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8</url>
+  </channel>
+  <channel id="WATC_Harmony_Gospel_Music_TV__1080p_">
+    <display-name>Filtered US Religion — WATC Harmony Gospel Music TV (1080p)</display-name>
+    <url>https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8</url>
+  </channel>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ABNBibleMoviesChannel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Religion — ABN Bible Movies (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BETGospel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Religion — BET Gospel (576p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CatholicTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Religion — Catholic TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CatholicFaithNetwork.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Religion — CFN Catholic Faith Network (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ChristianYouthChannelCYC.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Religion — Christian Youth Channel (CYC) (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ChristianYouthChannelCYC.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Religion — Christian Youth Channel (CYC) (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="GreatAmericanFaithLiving.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Religion — Great American Faith &amp; Living (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="GreatAmericanFaithLiving.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Religion — Great American Faith &amp; Living (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="GospelTruthTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Religion — Gospel Truth TV (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="GCNAmerica.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Religion — Global Christian Network America (GCN) (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="LivingFaithTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Religion — Living Faith TV (540p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MissionTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Religion — Mission TV (720p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="MissionTV.us@SD_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Religion — Mission TV (1080p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="RTHTV2Gospel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Religion — RTH-TV2 Gospel (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ShalomWorldPrayer.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Religion — Shalom World Prayer (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SpiritTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Religion — Spirit TV (720p) [Not 24/7]</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="WATC_Harmony_Gospel_Music_TV__1080p_">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Religion — WATC Harmony Gospel Music TV (1080p)</desc>
+  </programme>
+</tv>

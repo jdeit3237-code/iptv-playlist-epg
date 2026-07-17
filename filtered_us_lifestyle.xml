@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="copilot-cli">
+  <channel id="BetterHealthTV.us@SD">
+    <display-name>Filtered US Lifestyle — Better Health TV (480p)</display-name>
+    <url>https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8</url>
+  </channel>
+  <channel id="CBNEspanol.us@SD">
+    <display-name>Filtered US Lifestyle — CBN Espanol (1080p)</display-name>
+    <url>https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U/playlist-hls.m3u8</url>
+  </channel>
+  <channel id="FashionFinds.us@SD">
+    <display-name>Filtered US Lifestyle — Fashion Finds (720p)</display-name>
+    <url>https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8</url>
+  </channel>
+  <channel id="EWTN.us@SpainLatinAmerica">
+    <display-name>Filtered US Lifestyle — EWTN Spain &amp; Latin America (720p)</display-name>
+    <url>http://138.186.23.7:8082/EWTN/index.m3u8</url>
+  </channel>
+  <channel id="EWTN.us@SpainLatinAmerica_2">
+    <display-name>Filtered US Lifestyle — EWTN Spain &amp; Latin America (720p)</display-name>
+    <url>http://177.234.249.135:8888/EWTN/index.m3u8</url>
+  </channel>
+  <channel id="GlobalFashionChannel.us@SD">
+    <display-name>Filtered US Lifestyle — Global Fashion Channel (1080p)</display-name>
+    <url>https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8</url>
+  </channel>
+  <channel id="Jewelry_Television_Espanol__720p_">
+    <display-name>Filtered US Lifestyle — Jewelry Television Espanol (720p)</display-name>
+    <url>https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/72b5a55e4c35445f9e742871aa0aefa2/index.m3u8</url>
+  </channel>
+  <channel id="NowMediaTelevision.us@Spanish">
+    <display-name>Filtered US Lifestyle — NowMedia Television Spanish (1080p)</display-name>
+    <url>https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8</url>
+  </channel>
+  <channel id="TVHispanic.us@SD">
+    <display-name>Filtered US Lifestyle — TV Hispanic [Not 24/7]</display-name>
+    <url>https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8</url>
+  </channel>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BetterHealthTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Lifestyle — Better Health TV (480p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CBNEspanol.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Lifestyle — CBN Espanol (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="FashionFinds.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Lifestyle — Fashion Finds (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="EWTN.us@SpainLatinAmerica">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Lifestyle — EWTN Spain &amp; Latin America (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="EWTN.us@SpainLatinAmerica_2">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Lifestyle — EWTN Spain &amp; Latin America (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="GlobalFashionChannel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Lifestyle — Global Fashion Channel (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="Jewelry_Television_Espanol__720p_">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Lifestyle — Jewelry Television Espanol (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="NowMediaTelevision.us@Spanish">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Lifestyle — NowMedia Television Spanish (1080p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVHispanic.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Lifestyle — TV Hispanic [Not 24/7]</desc>
+  </programme>
+</tv>

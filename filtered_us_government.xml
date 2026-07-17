@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="copilot-cli">
+  <channel id="BATVGovernmentTV.us@SD">
+    <display-name>Filtered US Government — Bloomfield Access Government TV (480p)</display-name>
+    <url>https://reflect-batv.cablecast.tv/live-3/live/live.m3u8</url>
+  </channel>
+  <channel id="CSPAN.us@SD">
+    <display-name>Filtered US Government — C-SPAN (720p)</display-name>
+    <url>http://40.160.24.52/C-SPAN_HD/index.m3u8</url>
+  </channel>
+  <channel id="CSPAN2.us@SD">
+    <display-name>Filtered US Government — C-SPAN 2 (720p)</display-name>
+    <url>http://40.160.24.52/C-SPAN_2/index.m3u8</url>
+  </channel>
+  <channel id="CityofMonroeGovernmentChannel.us@SD">
+    <display-name>Filtered US Government — City of Monroe Government Channel</display-name>
+    <url>https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8</url>
+  </channel>
+  <channel id="HCTVGovernmentChannel.us@SD">
+    <display-name>Filtered US Government — HCTV Government Channel</display-name>
+    <url>https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8</url>
+  </channel>
+  <channel id="NatickGovernmentChannel.us@SD">
+    <display-name>Filtered US Government — Natick Government Channel (720p)</display-name>
+    <url>https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8</url>
+  </channel>
+  <channel id="TVSAGovernmentChannel.us@SD">
+    <display-name>Filtered US Government — TVSA Government Channel (720p)</display-name>
+    <url>https://edge-f.swagit.com/live/sanantoniotx/live-1-a/playlist.m3u8</url>
+  </channel>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="BATVGovernmentTV.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Government — Bloomfield Access Government TV (480p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CSPAN.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Government — C-SPAN (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CSPAN2.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Government — C-SPAN 2 (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="CityofMonroeGovernmentChannel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Government — City of Monroe Government Channel</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="HCTVGovernmentChannel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Government — HCTV Government Channel</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="NatickGovernmentChannel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Government — Natick Government Channel (720p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="TVSAGovernmentChannel.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US Government — TVSA Government Channel (720p)</desc>
+  </programme>
+</tv>

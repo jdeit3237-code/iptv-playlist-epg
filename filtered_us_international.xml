@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="copilot-cli">
+  <channel id="ABNUrdu.us@SD">
+    <display-name>Filtered US International — ABN Urdu (540p)</display-name>
+    <url>https://mediaserver.abnvideos.com/streams/abnurdu.m3u8</url>
+  </channel>
+  <channel id="SonyKALHindi.us@SD">
+    <display-name>Filtered US International — Sony KAL Hindi (1080p)</display-name>
+    <url>https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8</url>
+  </channel>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="ABNUrdu.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US International — ABN Urdu (540p)</desc>
+  </programme>
+  <programme start="20260717145204 +0000" stop="20260717165204 +0000" channel="SonyKALHindi.us@SD">
+    <title>Live Stream</title>
+    <desc>Auto-generated placeholder EPG for Filtered US International — Sony KAL Hindi (1080p)</desc>
+  </programme>
+</tv>
