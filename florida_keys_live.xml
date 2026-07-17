@@ -18,6 +18,7 @@
   <channel id="fk_15"><display-name>Georgia Aquarium Whale Shark Cam</display-name></channel>
   <channel id="fk_16"><display-name>Dallas World Aquarium Manatee Cam</display-name></channel>
   <channel id="fk_17"><display-name>Dallas World Aquarium Hidden Wonders of Ceylon Cam</display-name></channel>
+  <channel id="fk_18"><display-name>Dallas World Aquarium Underwater Rainforest Cam</display-name></channel>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_01"><title>Oregon Coast Aquarium Shark Cam</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_02"><title>Southernmost Beach Resort Camera 2</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_03"><title>Southernmost Beach Resort Camera 3</title></programme>
@@ -35,4 +36,5 @@
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_15"><title>Georgia Aquarium Whale Shark Cam</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_16"><title>Dallas World Aquarium Manatee Cam</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_17"><title>Dallas World Aquarium Hidden Wonders of Ceylon Cam</title></programme>
+  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_18"><title>Dallas World Aquarium Underwater Rainforest Cam</title></programme>
 </tv>
