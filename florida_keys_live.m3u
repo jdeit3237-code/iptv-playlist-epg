@@ -1,29 +1,29 @@
 #EXTM3U x-tvg-url="https://jdeit3237-code.github.io/iptv-playlist-epg/florida_keys_live.xml"
-#EXTINF:-1 tvg-id="fk_01" tvg-name="Southernmost Beach Resort Camera 1" group-title="Live HLS",Southernmost Beach Resort Camera 1
+#EXTINF:-1,Southernmost Beach Resort Camera 1
 https://b15.hdrelay.com/camera/CID_WMAA00000062/relay/playlist.m3u8
-#EXTINF:-1 tvg-id="fk_02" tvg-name="Southernmost Beach Resort Camera 2" group-title="Live HLS",Southernmost Beach Resort Camera 2
+#EXTINF:-1,Southernmost Beach Resort Camera 2
 https://use01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.zemocxr.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="fk_03" tvg-name="Southernmost Beach Resort Camera 3" group-title="Live HLS",Southernmost Beach Resort Camera 3
+#EXTINF:-1,Southernmost Beach Resort Camera 3
 https://use01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.zemocxr.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/chunklist_w1932134495.m3u8
-#EXTINF:-1 tvg-id="fk_04" tvg-name="Southernmost Beach Resort Camera 4" group-title="Live HLS",Southernmost Beach Resort Camera 4
+#EXTINF:-1,Southernmost Beach Resort Camera 4
 https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.preb48.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="fk_05" tvg-name="Southernmost Beach Resort Camera 5" group-title="Live HLS",Southernmost Beach Resort Camera 5
+#EXTINF:-1,Southernmost Beach Resort Camera 5
 https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.preb48.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/chunklist_w1986146744.m3u8
-#EXTINF:-1 tvg-id="fk_06" tvg-name="Sloppy Joe's Bar Camera" group-title="Live HLS",Sloppy Joe's Bar Camera
+#EXTINF:-1,Sloppy Joe's Bar Camera
 https://usw01-smr04-relay.ozolio.com/hll-live/_definst_/relay01.bktacf0.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="fk_07" tvg-name="Scripps Kelp Cam" group-title="Live HLS",Scripps Kelp Cam
+#EXTINF:-1,Scripps Kelp Cam
 https://live.hdontap.com/hls/hosb3/scripps_kelp_cam-ptz.stream/playlist.m3u8?t=xlB2wdq0SPN6QT2Vowm_4A&e=1784359109
-#EXTINF:-1 tvg-id="fk_08" tvg-name="Biscayne Bay Cam" group-title="Live HLS",Biscayne Bay Cam
+#EXTINF:-1,Biscayne Bay Cam
 https://s32.ipcamlive.com/streams/20cow684nfjkuigqh/stream.m3u8
-#EXTINF:-1 tvg-id="fk_09" tvg-name="Galleon Marina Cam" group-title="Live HLS",Galleon Marina Cam
+#EXTINF:-1,Galleon Marina Cam
 https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.jqtbdm2.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="fk_10" tvg-name="Cedar Key Florida Cam" group-title="Live HLS",Cedar Key Florida Cam
+#EXTINF:-1,Cedar Key Florida Cam
 https://s47.ipcamlive.com/streams/2fjpxvtzfulkouqx9/stream.m3u8
-#EXTINF:-1 tvg-id="fk_11" tvg-name="Southernmost Beach Resort Pineapple Pool" group-title="Live HLS",Southernmost Beach Resort Pineapple Pool
+#EXTINF:-1,Southernmost Beach Resort Pineapple Pool
 https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.ytzidtu.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="fk_12" tvg-name="Key West Butterfly Conservatory" group-title="Live HLS",Key West Butterfly Conservatory
+#EXTINF:-1,Key West Butterfly Conservatory
 https://usw01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.pkhjdls.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="fk_13" tvg-name="Reach Key West Cam" group-title="Live HLS",Reach Key West Cam
+#EXTINF:-1,Reach Key West Cam
 https://reachkeywestccn.cdn.coastalcameranetwork.com/Florida/reachkeywest.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="fk_14" tvg-name="Ocean Key Webcam" group-title="Live HLS",Ocean Key Webcam
+#EXTINF:-1,Ocean Key Webcam
 https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.kfzxdyu.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/chunklist_w698531836.m3u8
