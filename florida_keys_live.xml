@@ -4,8 +4,6 @@
   <channel id="fk_01"><display-name>Oregon Coast Aquarium Shark Cam</display-name></channel>
   <channel id="fk_02"><display-name>Southernmost Beach Resort Camera 2</display-name></channel>
   <channel id="fk_03"><display-name>Southernmost Beach Resort Camera 3</display-name></channel>
-  <channel id="fk_04"><display-name>Southernmost Beach Resort Camera 4</display-name></channel>
-  <channel id="fk_05"><display-name>Southernmost Beach Resort Camera 5</display-name></channel>
   <channel id="fk_06"><display-name>Georgia Aquarium Moon Jelly Cam</display-name></channel>
   <channel id="fk_07"><display-name>Scripps Kelp Cam</display-name></channel>
   <channel id="fk_08"><display-name>Biscayne Bay Cam</display-name></channel>
@@ -22,8 +20,6 @@
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_01"><title>Oregon Coast Aquarium Shark Cam</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_02"><title>Southernmost Beach Resort Camera 2</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_03"><title>Southernmost Beach Resort Camera 3</title></programme>
-  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_04"><title>Southernmost Beach Resort Camera 4</title></programme>
-  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_05"><title>Southernmost Beach Resort Camera 5</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_06"><title>Georgia Aquarium Moon Jelly Cam</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_07"><title>Scripps Kelp Cam</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_08"><title>Biscayne Bay Cam</title></programme>
