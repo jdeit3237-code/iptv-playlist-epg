@@ -15,7 +15,8 @@
   <channel id="fk_12"><display-name>Seek Florida Keys</display-name></channel>
   <channel id="fk_hls_08"><display-name>Southernmost Beach Resort Camera</display-name></channel>
   <channel id="fk_hls_09"><display-name>Southernmost Beach Resort Camera 2</display-name></channel>
-  <channel id="fk_hls_10"><display-name>Southernmost Beach Resort Camera 3</display-name></channel>
+  <channel id="fk_hls_11"><display-name>Southernmost Beach Resort Camera 4</display-name></channel>
+  <channel id="fk_hls_12"><display-name>Southernmost Beach Resort Camera 5</display-name></channel>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_01"><title>Marathon Key Scenic View</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_02"><title>Islamorada Keys Waterfront</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_03"><title>Dry Tortugas National Park</title></programme>
@@ -31,4 +32,6 @@
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_hls_08"><title>Southernmost Beach Resort Camera</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_hls_09"><title>Southernmost Beach Resort Camera 2</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_hls_10"><title>Southernmost Beach Resort Camera 3</title></programme>
+  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_hls_11"><title>Southernmost Beach Resort Camera 4</title></programme>
+  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_hls_12"><title>Southernmost Beach Resort Camera 5</title></programme>
 </tv>

@@ -29,3 +29,7 @@ https://b15.hdrelay.com/camera/CID_WMAA00000062/relay/playlist.m3u8
 https://use01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.zemocxr.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="fk_hls_10" tvg-name="Southernmost Beach Resort Camera 3" group-title="Live HLS"
 https://use01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.zemocxr.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/chunklist_w1932134495.m3u8
+#EXTINF:-1 tvg-id="fk_hls_11" tvg-name="Southernmost Beach Resort Camera 4" group-title="Live HLS"
+https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.preb48.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="fk_hls_12" tvg-name="Southernmost Beach Resort Camera 5" group-title="Live HLS"
+https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.preb48.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/chunklist_w1986146744.m3u8
