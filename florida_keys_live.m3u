@@ -1,39 +1,15 @@
 #EXTM3U x-tvg-url="https://jdeit3237-code.github.io/iptv-playlist-epg/florida_keys_live.xml"
-#EXTINF:-1 tvg-id="fk_01" tvg-name="Marathon Key Scenic View" group-title="Scenic"
-https://www.marathonfl.com/
-#EXTINF:-1 tvg-id="fk_02" tvg-name="Islamorada Keys Waterfront" group-title="Waterfront"
-https://www.islamoradafl.com/
-#EXTINF:-1 tvg-id="fk_03" tvg-name="Dry Tortugas National Park" group-title="National Park"
-https://www.nps.gov/drto/
-#EXTINF:-1 tvg-id="fk_04" tvg-name="Key West Marina Live Feed" group-title="Marina"
-https://www.keywestmarina.com/
-#EXTINF:-1 tvg-id="fk_05" tvg-name="Key West National Weather Service" group-title="Weather"
-https://www.weather.gov/tbw/
-#EXTINF:-1 tvg-id="fk_06" tvg-name="Florida Keys Marine Monitoring" group-title="Marine"
-https://www.fisheries.noaa.gov/
-#EXTINF:-1 tvg-id="fk_07" tvg-name="Marathon Resort Waterfront" group-title="Beach"
-https://www.marathonresort.com/
-#EXTINF:-1 tvg-id="fk_08" tvg-name="Islamorada Beach Resort Cam" group-title="Beach"
-https://www.islamoradaresort.com/
-#EXTINF:-1 tvg-id="fk_09" tvg-name="Key West Aquarium Live" group-title="Aquarium"
-https://www.keywestaquarium.com/
-#EXTINF:-1 tvg-id="fk_10" tvg-name="Key West Historic Seaport" group-title="Seaport"
-https://www.keywestseaport.com/
-#EXTINF:-1 tvg-id="fk_11" tvg-name="Florida Keys Webcams" group-title="YouTube Live"
-https://www.youtube.com/@FloridaKeysWebcams/live
-#EXTINF:-1 tvg-id="fk_12" tvg-name="Seek Florida Keys" group-title="YouTube Live"
-https://www.youtube.com/@SeekFloridaKeys/live
-#EXTINF:-1 tvg-id="fk_hls_08" tvg-name="Southernmost Beach Resort Camera" group-title="Live HLS"
+#EXTINF:-1 tvg-id="fk_01" tvg-name="Southernmost Beach Resort Camera 1" group-title="Live HLS"
 https://b15.hdrelay.com/camera/CID_WMAA00000062/relay/playlist.m3u8
-#EXTINF:-1 tvg-id="fk_hls_09" tvg-name="Southernmost Beach Resort Camera 2" group-title="Live HLS"
+#EXTINF:-1 tvg-id="fk_02" tvg-name="Southernmost Beach Resort Camera 2" group-title="Live HLS"
 https://use01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.zemocxr.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="fk_hls_10" tvg-name="Southernmost Beach Resort Camera 3" group-title="Live HLS"
+#EXTINF:-1 tvg-id="fk_03" tvg-name="Southernmost Beach Resort Camera 3" group-title="Live HLS"
 https://use01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.zemocxr.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/chunklist_w1932134495.m3u8
-#EXTINF:-1 tvg-id="fk_hls_11" tvg-name="Southernmost Beach Resort Camera 4" group-title="Live HLS"
+#EXTINF:-1 tvg-id="fk_04" tvg-name="Southernmost Beach Resort Camera 4" group-title="Live HLS"
 https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.preb48.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="fk_hls_12" tvg-name="Southernmost Beach Resort Camera 5" group-title="Live HLS"
+#EXTINF:-1 tvg-id="fk_05" tvg-name="Southernmost Beach Resort Camera 5" group-title="Live HLS"
 https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.preb48.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/chunklist_w1986146744.m3u8
-#EXTINF:-1 tvg-id="fk_hls_13" tvg-name="Sloppy Joe's Bar Camera" group-title="Live HLS"
+#EXTINF:-1 tvg-id="fk_06" tvg-name="Sloppy Joe's Bar Camera" group-title="Live HLS"
 https://usw01-smr04-relay.ozolio.com/hll-live/_definst_/relay01.bktacf0.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="fk_hls_14" tvg-name="Scripps Kelp Cam" group-title="Live HLS"
+#EXTINF:-1 tvg-id="fk_07" tvg-name="Scripps Kelp Cam" group-title="Live HLS"
 https://live.hdontap.com/hls/hosb3/scripps_kelp_cam-ptz.stream/playlist.m3u8?t=xlB2wdq0SPN6QT2Vowm_4A&e=1784359109
