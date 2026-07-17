@@ -23,3 +23,5 @@ https://www.keywestseaport.com/
 https://www.youtube.com/@FloridaKeysWebcams/live
 #EXTINF:-1 tvg-id="fk_12" tvg-name="Seek Florida Keys" group-title="YouTube Live"
 https://www.youtube.com/@SeekFloridaKeys/live
+#EXTINF:-1 tvg-id="fk_hls_08" tvg-name="Southernmost Beach Resort Camera" group-title="Live HLS"
+https://b15.hdrelay.com/camera/CID_WMAA00000062/relay/playlist.m3u8
