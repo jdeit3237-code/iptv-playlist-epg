@@ -35,3 +35,5 @@ https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.preb48.fd0.sm1.a
 https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.preb48.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/chunklist_w1986146744.m3u8
 #EXTINF:-1 tvg-id="fk_hls_13" tvg-name="Sloppy Joe's Bar Camera" group-title="Live HLS"
 https://usw01-smr04-relay.ozolio.com/hll-live/_definst_/relay01.bktacf0.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="fk_hls_14" tvg-name="Scripps Kelp Cam" group-title="Live HLS"
+https://live.hdontap.com/hls/hosb3/scripps_kelp_cam-ptz.stream/playlist.m3u8?t=xlB2wdq0SPN6QT2Vowm_4A&e=1784359109
