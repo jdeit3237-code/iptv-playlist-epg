@@ -1,0 +1,131 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ACCNetwork.us@SD",ACC Network (720p)
+http://206.212.244.63/2486/index.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us@SD",ACC Network (720p)
+http://40.160.24.52/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="AlkarmaTVFamily.us@SD",Alkarma TV Family (1080p) [Not 24/7]
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BigTenNetwork.us@SD",Big Ten Network (720p)
+http://206.212.244.63/2489/index.m3u8
+#EXTINF:-1 tvg-id="BigTenNetwork.us@SD",Big Ten Network (720p)
+http://40.160.24.52/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="BigTenNetwork.us@SD",Big Ten Network (720p)
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+#EXTINF:-1 tvg-id="CBNFamily.us@SD",CBN Family (1080p)
+https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="DraftKingsNetwork.us@SD",DraftKings Network (1080p)
+https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+#EXTINF:-1 tvg-id="GameShowNetwork.us@East",Game Show Network (720p)
+http://40.160.24.52/GSN/index.m3u8
+#EXTINF:-1 tvg-id="Gagsnetwork.us@SD",Gagsnetwork (576p)
+http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
+#EXTINF:-1 tvg-id="GemShoppingNetwork.us@SD",Gem Shopping Network (720p)
+https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GlobalBuddhistNetwork.us@SD",GBN Global Buddhist Network (1080p)
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/us/gbnus.m3u8
+#EXTINF:-1 tvg-id="GreatAmericanFamily.us@SD",Great American Family (1080p)
+http://40.160.24.52/GREAT_AMERICAN_COUNTRY/index.m3u8
+#EXTINF:-1 tvg-id="GreatAmericanFamily.us@SD",Great American Family (1080p)
+http://40.160.24.58/GAC_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="GreatAmericanFamily.us@SD",Great American Family (720p)
+http://206.212.244.63/81/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkFamily.us@SD",Hallmark Family (1080p)
+http://40.160.24.53/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkFamily.us@SD",Hallmark Family (720p)
+http://206.212.244.63/85/index.m3u8
+#EXTINF:-1 tvg-id="ImpactNetwork.us@SD",Impact Network (720p)
+https://edge1.lifestreamcdn.com/live/impactroku1/index.m3u8
+#EXTINF:-1 tvg-id="InfoWars.us@SD",InfoWars Network (1080p)
+https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="MagnificentMoviesNetwork.us@SD",Magnificent Movies Network
+https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.us@East",Paramount Network (720p)
+http://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.us@East",Paramount Network (720p)
+http://206.212.244.63/137/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetworkLatinAmerica.us@Panregional",Paramount Network Latin America (720p)
+http://138.186.23.7:8082/PARAMOUNT/index.m3u8
+#EXTINF:-1 tvg-id="RacerNetwork.us@SD",Racer Network (1080p)
+https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8
+#EXTINF:-1 tvg-id="ScientologyNetwork.us@SD",Scientology Network (1080p)
+https://stream6.scientology.org/master.m3u8
+#EXTINF:-1 tvg-id="KSCNTV221.us@HD",Scientology Network KSCN-DT1
+https://stream-losangeles.scientology.org/master.m3u8
+#EXTINF:-1 tvg-id="SECNetwork.us@SD",SEC Network (720p)
+http://40.160.24.55/SEC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="SECNetwork.us@SD",SEC Network (720p)
+http://206.212.244.63/2511/index.m3u8
+#EXTINF:-1 tvg-id="WFTTTV621.us@HD",Scientology Network WFTT-DT1
+https://stream-tampa.scientology.org/master.m3u8
+#EXTINF:-1 tvg-id="ShowtimeFamilyZone.us@East",Showtime Family Zone (720p)
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="TeveVidaNetwork.us@SD",Teve Vida Network (480p) [Not 24/7]
+https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8
+#EXTINF:-1 tvg-id="TheCountryNetwork.us@SD",The Country Network (1080p)
+https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheWordNetwork.us@SD",The Word Network (720p)
+http://206.212.244.63/158/index.m3u8
+#EXTINF:-1 tvg-id="TheNowNetwork.us@SD",The Now Network (480p) [Not 24/7]
+https://mediaprod1.nowcast.cc:5443/LiveApp/streams/anZPy7eaVWLyDMZB1697488814699.m3u8
+#EXTINF:-1 tvg-id="TheWordNetwork.us@SD",The Word Network (1080p)
+https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSBowlingNetwork.us@SD",TVS Bowling Network (720p)
+https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
+#EXTINF:-1 tvg-id="TVSCipherNetwork.us@SD",TVS Cipher Network (360p)
+https://rpn.bozztv.com/gusa/gusa-tvsmystery/index.m3u8
+#EXTINF:-1 tvg-id="TVSComedyNetwork.us@SD",TVS Comedy Network (720p)
+https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8
+#EXTINF:-1 tvg-id="TVSFamilyChannel.us@SD",TVS Family Channel (360p)
+https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
+#EXTINF:-1 tvg-id="TVSFlashbackNetwork.us@SD",TVS Flashback Network (360p)
+https://rpn.bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
+#EXTINF:-1 tvg-id="",TVS Frontier Network (360p)
+https://rpn.bozztv.com/gusa/gusa-tvsfrontier/index.m3u8
+#EXTINF:-1 tvg-id="TVSMusicNetwork.us@SD",TVS Music Network (720p)
+https://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8
+#EXTINF:-1 tvg-id="TVSQuizShowNetwork.us@SD",TVS Quiz Show Network (720p)
+https://rpn.bozztv.com/gusa/gusa-tvsgameshow/index.m3u8
+#EXTINF:-1 tvg-id="TVSSelectNetwork.us@SD",TVS Select Network (720p)
+https://rpn.bozztv.com/gusa/gusa-tvsselect/index.m3u8
+#EXTINF:-1 tvg-id="TVSTalkNetwork.us@SD",TVS Talk Network (360p)
+https://rpn.bozztv.com/gusa/gusa-TVStalk/index.m3u8
+#EXTINF:-1 tvg-id="TVSPetParadeNetwork.us@SD",TVS Pet Parade Network (360p)
+https://rpn.bozztv.com/gusa/gusa-petparadenetwork/index.m3u8
+#EXTINF:-1 tvg-id="TVSTelevisionNetwork.us@SD",TVS Television Network (480p)
+https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8
+#EXTINF:-1 tvg-id="TVSTravelNetwork.us@SD",TVS Travel Network (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
+#EXTINF:-1 tvg-id="TVSVintageNetwork.us@SD",TVS Vintage Network (360p)
+https://rpn.bozztv.com/gusa/gusa-tvsvintage/index.m3u8
+#EXTINF:-1 tvg-id="RacerNetwork.us@SD",Racer Network (720p)
+http://40.160.24.52/MAV_TV/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network (1080p)
+http://40.160.24.55/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network (720p)
+http://206.212.244.63/168/index.m3u8
+#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Panregional",USA Network Latin America (1080p)
+http://138.121.15.230:9002/USA/index.m3u8
+#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@SD",USA Network Latin America (1080p)
+http://138.186.23.7:8082/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Panregional",USA Network Latin America (1080p)
+http://177.234.249.178:8888/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@West",USA Network West (1080p)
+http://40.160.24.55/USA_NETWORK_WEST/index.m3u8
+#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Brazil",USA Network Latin America Brazil (1080p)
+http://45.190.156.152/USA/index.m3u8
+#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Brazil",USA Network Latin America Brazil (720p)
+http://177.52.24.163/USA-HD/index.m3u8
+#EXTINF:-1 tvg-id="VisionLatinaNetwork.us@SD",Vision Latina Network (1080p)
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/c1804a4c-ccbf-46e5-87c3-0f8d4a94d9e3/master.m3u8
+#EXTINF:-1 tvg-id="WATCDT572.us@HD",WATC The POINT Network (1080p)
+https://tgn.bozztv.com/watc57/watc57-2/watc57-2/index.m3u8
+#EXTINF:-1 tvg-id="WorldFishingNetwork.us@SD",World Fishing Network (1080p)
+http://40.160.24.55/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="YesNetwork.us@SD",Yes Network (720p)
+http://40.160.24.55/YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="YesNetwork.us@SD",Yes Network (720p)
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network (1080p)
+https://gpuserver5.tier1streams.com/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="PoconoTelevisionNetwork.us@HD",Pocono Television Network (1080p)
+https://dfoiz3dv1euv7.cloudfront.net/ptnlive-s3/live1.m3u8

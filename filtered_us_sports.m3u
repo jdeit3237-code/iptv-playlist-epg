@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AltitudeSports.us@SD",Altitude Sports (720p)
+http://206.212.244.63/6153/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsUSA.us@SD",beIN Sports USA (720p)
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPNDeportes.us@SD",ESPN Deportes (720p)
+http://40.160.24.58/ESPN_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us@SD",ESPNU (720p)
+http://40.160.24.52/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us@SD",ESPNU (720p)
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us@SD",ESPNU (720p)
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 tvg-id="FTFSports.us@SD",FTF Sports (720p)
+https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
+#EXTINF:-1 tvg-id="FTFSports.us@SD",FTF Sports (720p)
+https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.us@SD",Golf Channel (1080p)
+http://40.160.24.52/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD",Golf Channel Latin America (1080p)
+http://72.1.184.5:8089/play/a0cw/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD",Golf Channel Latin America (720p)
+http://143.14.178.35/TCM-HD/index.m3u8
+#EXTINF:-1 tvg-id="DSports2.us@Panregional",DSports 2 (1080p)
+https://streamvidex.qzz.io/videx/dsports2/index.m3u8
+#EXTINF:-1 tvg-id="DSportsPlus.us@Panregional",DSports+ (720p)
+https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8
+#EXTINF:-1 tvg-id="DSports.us@Panregional",DSports (1080p)
+https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
+#EXTINF:-1 tvg-id="MarqueeSportsNetwork.us@SD",Marquee Sports Network (1080p)
+http://40.160.24.52/MARQUEE_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us@SD",MLB Network (720p)
+http://40.160.24.52/MLB_Network/index.m3u8
+#EXTINF:-1 tvg-id="MLBStrikeZone.us@SD",MLB Strike Zone (720p)
+http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV (720p)
+http://40.160.24.58/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV (720p)
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us@SD",NFL Network (720p)
+http://40.160.24.53/NFL_Network/index.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us@SD",NFL Network (720p)
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us@SD",NFL Network (720p)
+http://206.212.244.63/196/index.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us@SD",NHL Network (720p)
+http://40.160.24.55/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="SportsNetNewYork.us@SD",SportsNet New York (1080p)
+http://40.160.24.55/SNY/index.m3u8
+#EXTINF:-1 tvg-id="SportsmanChannel.us@SD",Sportsman Channel (720p)
+http://40.160.24.55/Sportsman_Channel/index.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us@SD",Tennis Channel (720p)
+http://40.160.24.55/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us@SD",Tennis Channel (720p)
+http://206.212.244.63/6149/index.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us@SD",Tennis Channel (1080p)
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us@SD",Tennis Channel (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us@SD",Tennis Channel (720p)
+https://rezofoot.tv/Tennis/index.m3u8
+#EXTINF:-1 tvg-id="TVSClassicSports.us@SD",TVS Classic Sports (360p)
+https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-id="TVSPinballNetwork.us@SD",TVS Pinball Network (480p)
+https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-id="TVSSports.us@SD",TVS Sports (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-id="TVSSportsBureau.us@SD",TVS Sports Bureau (720p)
+https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 tvg-id="TVSWomenSports.us@SD",TVS Women Sports (720p)
+https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
+#EXTINF:-1 tvg-id="WillowSports.us@HD",Willow Sports (1080p)
+https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8
+#EXTINF:-1 tvg-id="WillowSports.us@SD",Willow Sports (1080p) [Geo-blocked]
+https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPNDeportes.us@SD",ESPN Deportes (720p)
+https://gpuserver7.tier1streams.com/ESPN_DEPORTES/index.m3u8

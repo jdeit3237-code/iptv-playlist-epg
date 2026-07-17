@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SYFY.us@East",SYFY (720p)
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 tvg-id="SYFY.us@East",SYFY (720p)
+http://40.160.24.55/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="SYFY.us@East",SYFY (720p)
+http://206.212.244.63/152/index.m3u8
+#EXTINF:-1 tvg-id="SYFY.us@East",SYFY (1080p)
+https://gpuserver5.tier1streams.com/SYFY/index.m3u8
