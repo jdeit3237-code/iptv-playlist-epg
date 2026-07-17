@@ -9,6 +9,7 @@
   <channel id="fk_06"><display-name>Sloppy Joe's Bar Camera</display-name></channel>
   <channel id="fk_07"><display-name>Scripps Kelp Cam</display-name></channel>
   <channel id="fk_08"><display-name>Biscayne Bay Cam</display-name></channel>
+  <channel id="fk_09"><display-name>Galleon Marina Cam</display-name></channel>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_01"><title>Southernmost Beach Resort Camera 1</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_02"><title>Southernmost Beach Resort Camera 2</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_03"><title>Southernmost Beach Resort Camera 3</title></programme>
@@ -17,4 +18,5 @@
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_06"><title>Sloppy Joe's Bar Camera</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_07"><title>Scripps Kelp Cam</title></programme>
   <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_08"><title>Biscayne Bay Cam</title></programme>
+  <programme start="20260717185720 +0000" stop="20260718005720 +0000" channel="fk_09"><title>Galleon Marina Cam</title></programme>
 </tv>
