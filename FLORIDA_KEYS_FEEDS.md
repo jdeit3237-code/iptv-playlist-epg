@@ -51,6 +51,10 @@ The channel includes live cameras from:
 ### Weather & Environmental
 - Key West National Weather Service
 
+### YouTube Channels
+- **Florida Keys Webcams** - Multi-camera live feeds from throughout the Keys
+- **Seek Florida Keys** - Live exploration and tour feeds of the Keys
+
 ## Automatic Updates
 
 The feed list is **automatically validated and updated every 6 hours** via GitHub Actions. This ensures:
@@ -110,6 +114,12 @@ Each feed is validated using lightweight HTTP HEAD requests:
 - Some feeds may be slow to load
 - Check feed status in your app's details
 - Try a different feed from same category
+
+### YouTube Feeds Not Playing
+- Max IPTV may need YouTube support enabled
+- YouTube streams are dynamic and may require internet connection
+- Some IPTV apps have native YouTube support; others may need yt-dlp
+- Try opening the YouTube link directly if feed doesn't load in app
 
 ## URLs for Different Platforms
 
