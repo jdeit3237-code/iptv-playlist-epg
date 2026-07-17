@@ -74,7 +74,7 @@ jobs:
         print(f"Valid feeds: {valid_count}/{len(results)}")
         
         with open('florida_keys_live.m3u', 'w') as f:
-            f.write('#EXTM3U x-tvg-url="https://jdeit3237-code.github.io/iptv-playlist-epg/florida_keys_live.xml"\n')
+            f.write('#EXTM3U\n')
             for i, feed in enumerate(results, 1):
                 tvg_id = f"fk_{i:02d}"
                 f.write(f'#EXTINF:-1,{feed["name"]}\n')
