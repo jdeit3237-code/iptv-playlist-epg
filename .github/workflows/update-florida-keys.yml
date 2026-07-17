@@ -51,6 +51,7 @@ jobs:
             {"name": "Key West Butterfly Conservatory", "url": "https://usw01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.pkhjdls.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8", "location": "Key West", "category": "Live HLS"},
             {"name": "Reach Key West Cam", "url": "https://reachkeywestccn.cdn.coastalcameranetwork.com/Florida/reachkeywest.stream/chunklist.m3u8", "location": "Key West", "category": "Live HLS"},
             {"name": "Ocean Key Webcam", "url": "https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.kfzxdyu.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/chunklist_w698531836.m3u8", "location": "Key West", "category": "Live HLS"},
+            {"name": "Georgia Aquarium Whale Shark Cam", "url": "https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.hqko7z.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8", "location": "Atlanta, Georgia", "category": "Live HLS"},
         ]
         
         def validate_feed(feed_info, timeout=8):
