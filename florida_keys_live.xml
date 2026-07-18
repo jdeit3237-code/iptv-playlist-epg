@@ -21,6 +21,7 @@
   <channel id="fk_18"><display-name>Sandy Channel Underwater Reef Cam</display-name></channel>
   <channel id="fk_19"><display-name>Explore Live Cam 319</display-name></channel>
   <channel id="fk_20"><display-name>Silver Springs Above Water Manatee Camera</display-name></channel>
+  <channel id="fk_21"><display-name>Shark Lagoon</display-name></channel>
   <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_01"><title>Dolphins Cam</title></programme>
   <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_02"><title>Clearwater Marine Aquarium Dolphin Cam</title></programme>
   <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_03"><title>Georgia Aquarium Moon Jelly Cam</title></programme>
@@ -41,4 +42,5 @@
   <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_18"><title>Sandy Channel Underwater Reef Cam</title></programme>
   <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_19"><title>Explore Live Cam 319</title></programme>
   <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_20"><title>Silver Springs Above Water Manatee Camera</title></programme>
+  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_21"><title>Shark Lagoon</title></programme>
 </tv>

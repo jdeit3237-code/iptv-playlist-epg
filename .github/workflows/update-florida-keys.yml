@@ -57,6 +57,7 @@ jobs:
             {"name": "Sandy Channel Underwater Reef Cam", "url": "https://outbound-production.explore.org/stream-production-720/.m3u8", "location": "Utopia Village, Utila, Bay Islands, Honduras", "category": "Live HLS"},
             {"name": "Explore Live Cam 319", "url": "https://outbound-production.explore.org/stream-production-319/.m3u8", "location": "Explore.org", "category": "Live HLS"},
             {"name": "Silver Springs Above Water Manatee Camera", "url": "https://outbound-production.explore.org/stream-production-761/.m3u8", "location": "Silver Springs, Florida", "category": "Live HLS"},
+            {"name": "Shark Lagoon", "url": "https://outbound-production.explore.org/stream-production-12/.m3u8", "location": "Long Beach, California, USA", "category": "Live HLS"},
         ]
         
         def validate_feed(feed_info, timeout=8):

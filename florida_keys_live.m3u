@@ -39,3 +39,5 @@ https://outbound-production.explore.org/stream-production-720/.m3u8
 https://outbound-production.explore.org/stream-production-319/.m3u8
 #EXTINF:-1,Silver Springs Above Water Manatee Camera
 https://outbound-production.explore.org/stream-production-761/.m3u8
+#EXTINF:-1,Shark Lagoon
+https://outbound-production.explore.org/stream-production-12/.m3u8
