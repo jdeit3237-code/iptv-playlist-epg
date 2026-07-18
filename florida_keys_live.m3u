@@ -41,3 +41,5 @@ https://outbound-production.explore.org/stream-production-319/.m3u8
 https://outbound-production.explore.org/stream-production-761/.m3u8
 #EXTINF:-1,Shark Lagoon
 https://outbound-production.explore.org/stream-production-12/.m3u8
+#EXTINF:-1,Back-of-Dock Underwater Reef Cams
+https://outbound-production.explore.org/stream-production-655/.m3u8
