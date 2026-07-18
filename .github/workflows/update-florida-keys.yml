@@ -52,6 +52,10 @@ jobs:
             {"name": "Dallas World Aquarium Manatee Cam", "url": "https://s79.ipcamlive.com/streams/4fugvwxob4nehvfeg/stream.m3u8", "location": "Dallas, Texas", "category": "Live HLS"},
             {"name": "Dallas World Aquarium Underwater Rainforest Cam", "url": "https://s97.ipcamlive.com/streams/61rmzee8igswgtjar/stream.m3u8", "location": "Dallas, Texas", "category": "Live HLS"},
             {"name": "Southernmost Point", "url": "https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.zbprdoz.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8", "location": "Key West", "category": "Live HLS"},
+            {"name": "Explore Live Cam 10", "url": "https://outbound-production.explore.org/stream-production-10/.m3u8", "location": "Explore.org", "category": "Live HLS"},
+            {"name": "Explore Live Cam 565", "url": "https://outbound-production.explore.org/stream-production-565/.m3u8", "location": "Explore.org", "category": "Live HLS"},
+            {"name": "Explore Live Cam 720", "url": "https://outbound-production.explore.org/stream-production-720/.m3u8", "location": "Explore.org", "category": "Live HLS"},
+            {"name": "Explore Live Cam 319", "url": "https://outbound-production.explore.org/stream-production-319/.m3u8", "location": "Explore.org", "category": "Live HLS"},
         ]
         
         def validate_feed(feed_info, timeout=8):
