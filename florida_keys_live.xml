@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv>
-  <channel id="fk_01"><display-name>Dolphins Cam</display-name></channel>
-  <channel id="fk_02"><display-name>Clearwater Marine Aquarium Dolphin Cam</display-name></channel>
-  <channel id="fk_03"><display-name>Georgia Aquarium Moon Jelly Cam</display-name></channel>
-  <channel id="fk_04"><display-name>Scripps Kelp Cam</display-name></channel>
-  <channel id="fk_05"><display-name>Biscayne Bay Cam</display-name></channel>
-  <channel id="fk_06"><display-name>Galleon Marina Cam</display-name></channel>
-  <channel id="fk_07"><display-name>Cedar Key Florida Cam</display-name></channel>
-  <channel id="fk_08"><display-name>Southernmost Beach Resort Pineapple Pool</display-name></channel>
-  <channel id="fk_09"><display-name>Key West Butterfly Conservatory</display-name></channel>
-  <channel id="fk_10"><display-name>Reach Key West Cam</display-name></channel>
-  <channel id="fk_11"><display-name>Mallory Square</display-name></channel>
-  <channel id="fk_12"><display-name>Georgia Aquarium Whale Shark Cam</display-name></channel>
-  <channel id="fk_13"><display-name>Dallas World Aquarium Manatee Cam</display-name></channel>
-  <channel id="fk_14"><display-name>Dallas World Aquarium Underwater Rainforest Cam</display-name></channel>
-  <channel id="fk_15"><display-name>Southernmost Point</display-name></channel>
-  <channel id="fk_16"><display-name>Explore Live Cam 10</display-name></channel>
-  <channel id="fk_17"><display-name>Top-of-Wall Underwater Reef Cam</display-name></channel>
-  <channel id="fk_18"><display-name>Sandy Channel Underwater Reef Cam</display-name></channel>
-  <channel id="fk_19"><display-name>Homosassa Springs Underwater Manatees</display-name></channel>
-  <channel id="fk_20"><display-name>Silver Springs Above Water Manatee Camera</display-name></channel>
-  <channel id="fk_21"><display-name>Shark Lagoon</display-name></channel>
-  <channel id="fk_22"><display-name>Back-of-Dock Underwater Reef Cams</display-name></channel>
-  <channel id="fk_23"><display-name>Back Channel Underwater Reef Cams</display-name></channel>
-  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_01"><title>Dolphins Cam</title></programme>
-  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_02"><title>Clearwater Marine Aquarium Dolphin Cam</title></programme>
-  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_03"><title>Georgia Aquarium Moon Jelly Cam</title></programme>
-  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_04"><title>Scripps Kelp Cam</title></programme>
-  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_05"><title>Biscayne Bay Cam</title></programme>
-  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_06"><title>Galleon Marina Cam</title></programme>
-  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_07"><title>Cedar Key Florida Cam</title></programme>
-  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_08"><title>Southernmost Beach Resort Pineapple Pool</title></programme>
-  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_09"><title>Key West Butterfly Conservatory</title></programme>
-  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_10"><title>Reach Key West Cam</title></programme>
-  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_11"><title>Mallory Square</title></programme>
-  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_12"><title>Georgia Aquarium Whale Shark Cam</title></programme>
-  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_13"><title>Dallas World Aquarium Manatee Cam</title></programme>
-  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_14"><title>Dallas World Aquarium Underwater Rainforest Cam</title></programme>
-  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_15"><title>Southernmost Point</title></programme>
-  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_16"><title>Explore Live Cam 10</title></programme>
-  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_17"><title>Top-of-Wall Underwater Reef Cam</title></programme>
-  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_18"><title>Sandy Channel Underwater Reef Cam</title></programme>
-  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_19"><title>Homosassa Springs Underwater Manatees</title></programme>
-  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_20"><title>Silver Springs Above Water Manatee Camera</title></programme>
-  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_21"><title>Shark Lagoon</title></programme>
-  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_22"><title>Back-of-Dock Underwater Reef Cams</title></programme>
-  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_23"><title>Back Channel Underwater Reef Cams</title></programme>
+  <channel id="fk_01"><display-name>Dolphins Cam</display-name><desc>Location: Clearwater, Florida</desc><url>https://b15.hdrelay.com/camera/CID_WMAA00000062/relay/playlist.m3u8</url></channel>
+  <channel id="fk_02"><display-name>Clearwater Marine Aquarium Dolphin Cam</display-name><desc>Location: Clearwater, Florida</desc><url>https://use01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.zemocxr.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8</url></channel>
+  <channel id="fk_03"><display-name>Georgia Aquarium Moon Jelly Cam</display-name><desc>Location: Atlanta, Georgia</desc><url>https://usw01-smr04-relay.ozolio.com/hll-live/_definst_/relay01.bktacf0.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8</url></channel>
+  <channel id="fk_04"><display-name>Scripps Kelp Cam</display-name><desc>Location: Pacific</desc><url>https://live.hdontap.com/hls/hosb3/scripps_kelp_cam-ptz.stream/playlist.m3u8?t=xlB2wdq0SPN6QT2Vowm_4A&amp;e=1784359109</url></channel>
+  <channel id="fk_05"><display-name>Biscayne Bay Cam</display-name><desc>Location: Biscayne Bay</desc><url>https://s32.ipcamlive.com/streams/20cow684nfjkuigqh/stream.m3u8</url></channel>
+  <channel id="fk_06"><display-name>Galleon Marina Cam</display-name><desc>Location: Key West</desc><url>https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.jqtbdm2.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8</url></channel>
+  <channel id="fk_07"><display-name>Cedar Key Florida Cam</display-name><desc>Location: Cedar Key</desc><url>https://s47.ipcamlive.com/streams/2fjpxvtzfulkouqx9/stream.m3u8</url></channel>
+  <channel id="fk_08"><display-name>Southernmost Beach Resort Pineapple Pool</display-name><desc>Location: Key West</desc><url>https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.ytzidtu.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8</url></channel>
+  <channel id="fk_09"><display-name>Key West Butterfly Conservatory</display-name><desc>Location: Key West</desc><url>https://usw01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.pkhjdls.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8</url></channel>
+  <channel id="fk_10"><display-name>Reach Key West Cam</display-name><desc>Location: Key West</desc><url>https://reachkeywestccn.cdn.coastalcameranetwork.com/Florida/reachkeywest.stream/chunklist.m3u8</url></channel>
+  <channel id="fk_11"><display-name>Mallory Square</display-name><desc>Location: Key West</desc><url>https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.kfzxdyu.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/chunklist_w698531836.m3u8</url></channel>
+  <channel id="fk_12"><display-name>Georgia Aquarium Whale Shark Cam</display-name><desc>Location: Atlanta, Georgia</desc><url>https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.hqko7z.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8</url></channel>
+  <channel id="fk_13"><display-name>Dallas World Aquarium Manatee Cam</display-name><desc>Location: Dallas, Texas</desc><url>https://s79.ipcamlive.com/streams/4fugvwxob4nehvfeg/stream.m3u8</url></channel>
+  <channel id="fk_14"><display-name>Dallas World Aquarium Underwater Rainforest Cam</display-name><desc>Location: Dallas, Texas</desc><url>https://s97.ipcamlive.com/streams/61rmzee8igswgtjar/stream.m3u8</url></channel>
+  <channel id="fk_15"><display-name>Southernmost Point</display-name><desc>Location: Key West</desc><url>https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.zbprdoz.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8</url></channel>
+  <channel id="fk_16"><display-name>Explore Live Cam 10</display-name><desc>Location: Explore.org</desc><url>https://outbound-production.explore.org/stream-production-10/.m3u8</url></channel>
+  <channel id="fk_17"><display-name>Top-of-Wall Underwater Reef Cam</display-name><desc>Location: Utopia Village, Utila, Bay Islands, Honduras</desc><url>https://outbound-production.explore.org/stream-production-565/.m3u8</url></channel>
+  <channel id="fk_18"><display-name>Sandy Channel Underwater Reef Cam</display-name><desc>Location: Utopia Village, Utila, Bay Islands, Honduras</desc><url>https://outbound-production.explore.org/stream-production-720/.m3u8</url></channel>
+  <channel id="fk_19"><display-name>Homosassa Springs Underwater Manatees</display-name><desc>Location: Ellie Schiller Homosassa Springs Wildlife State Park, Florida, USA</desc><url>https://outbound-production.explore.org/stream-production-319/.m3u8</url></channel>
+  <channel id="fk_20"><display-name>Silver Springs Above Water Manatee Camera</display-name><desc>Location: Silver Springs, Florida</desc><url>https://outbound-production.explore.org/stream-production-761/.m3u8</url></channel>
+  <channel id="fk_21"><display-name>Shark Lagoon</display-name><desc>Location: Long Beach, California, USA</desc><url>https://outbound-production.explore.org/stream-production-12/.m3u8</url></channel>
+  <channel id="fk_22"><display-name>Back-of-Dock Underwater Reef Cams</display-name><desc>Location: Utopia Village, Utila, Bay Islands, Honduras</desc><url>https://outbound-production.explore.org/stream-production-655/.m3u8</url></channel>
+  <channel id="fk_23"><display-name>Back Channel Underwater Reef Cams</display-name><desc>Location: Utopia Village, Utila, Bay Islands, Honduras</desc><url>https://outbound-production.explore.org/stream-production-767/.m3u8</url></channel>
+  <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_01"><title>Dolphins Cam</title><desc>Location: Clearwater, Florida</desc></programme>
+  <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_02"><title>Clearwater Marine Aquarium Dolphin Cam</title><desc>Location: Clearwater, Florida</desc></programme>
+  <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_03"><title>Georgia Aquarium Moon Jelly Cam</title><desc>Location: Atlanta, Georgia</desc></programme>
+  <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_04"><title>Scripps Kelp Cam</title><desc>Location: Pacific</desc></programme>
+  <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_05"><title>Biscayne Bay Cam</title><desc>Location: Biscayne Bay</desc></programme>
+  <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_06"><title>Galleon Marina Cam</title><desc>Location: Key West</desc></programme>
+  <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_07"><title>Cedar Key Florida Cam</title><desc>Location: Cedar Key</desc></programme>
+  <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_08"><title>Southernmost Beach Resort Pineapple Pool</title><desc>Location: Key West</desc></programme>
+  <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_09"><title>Key West Butterfly Conservatory</title><desc>Location: Key West</desc></programme>
+  <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_10"><title>Reach Key West Cam</title><desc>Location: Key West</desc></programme>
+  <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_11"><title>Mallory Square</title><desc>Location: Key West</desc></programme>
+  <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_12"><title>Georgia Aquarium Whale Shark Cam</title><desc>Location: Atlanta, Georgia</desc></programme>
+  <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_13"><title>Dallas World Aquarium Manatee Cam</title><desc>Location: Dallas, Texas</desc></programme>
+  <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_14"><title>Dallas World Aquarium Underwater Rainforest Cam</title><desc>Location: Dallas, Texas</desc></programme>
+  <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_15"><title>Southernmost Point</title><desc>Location: Key West</desc></programme>
+  <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_16"><title>Explore Live Cam 10</title><desc>Location: Explore.org</desc></programme>
+  <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_17"><title>Top-of-Wall Underwater Reef Cam</title><desc>Location: Utopia Village, Utila, Bay Islands, Honduras</desc></programme>
+  <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_18"><title>Sandy Channel Underwater Reef Cam</title><desc>Location: Utopia Village, Utila, Bay Islands, Honduras</desc></programme>
+  <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_19"><title>Homosassa Springs Underwater Manatees</title><desc>Location: Ellie Schiller Homosassa Springs Wildlife State Park, Florida, USA</desc></programme>
+  <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_20"><title>Silver Springs Above Water Manatee Camera</title><desc>Location: Silver Springs, Florida</desc></programme>
+  <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_21"><title>Shark Lagoon</title><desc>Location: Long Beach, California, USA</desc></programme>
+  <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_22"><title>Back-of-Dock Underwater Reef Cams</title><desc>Location: Utopia Village, Utila, Bay Islands, Honduras</desc></programme>
+  <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_23"><title>Back Channel Underwater Reef Cams</title><desc>Location: Utopia Village, Utila, Bay Islands, Honduras</desc></programme>
 </tv>

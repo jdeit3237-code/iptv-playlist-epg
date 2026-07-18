@@ -30,6 +30,7 @@ jobs:
         import urllib.error
         import ssl
         import json
+        from xml.sax.saxutils import escape
         from datetime import datetime, timedelta
         
         ssl_context = ssl.create_default_context()
@@ -92,12 +93,17 @@ jobs:
             f.write('<?xml version="1.0" encoding="UTF-8"?>\n<!DOCTYPE tv SYSTEM "xmltv.dtd">\n<tv>\n')
             for i, feed in enumerate(results, 1):
                 tvg_id = f"fk_{i:02d}"
-                f.write(f'  <channel id="{tvg_id}"><display-name>{feed["name"]}</display-name></channel>\n')
+                name = escape(feed["name"])
+                location = escape(feed["location"])
+                url = escape(feed["url"])
+                f.write(f'  <channel id="{tvg_id}"><display-name>{name}</display-name><desc>Location: {location}</desc><url>{url}</url></channel>\n')
             for i, feed in enumerate(results, 1):
                 tvg_id = f"fk_{i:02d}"
                 start = now.strftime("%Y%m%d%H%M%S +0000")
                 end = (now + timedelta(hours=6)).strftime("%Y%m%d%H%M%S +0000")
-                f.write(f'  <programme start="{start}" stop="{end}" channel="{tvg_id}"><title>{feed["name"]}</title></programme>\n')
+                name = escape(feed["name"])
+                location = escape(feed["location"])
+                f.write(f'  <programme start="{start}" stop="{end}" channel="{tvg_id}"><title>{name}</title><desc>Location: {location}</desc></programme>\n')
             f.write('</tv>\n')
         
         with open('florida_keys_provider.json', 'w') as f:
