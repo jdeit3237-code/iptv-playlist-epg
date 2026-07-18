@@ -54,7 +54,7 @@ jobs:
             {"name": "Southernmost Point", "url": "https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.zbprdoz.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20687.rc0.edge.basic.stream/playlist.m3u8", "location": "Key West", "category": "Live HLS"},
             {"name": "Explore Live Cam 10", "url": "https://outbound-production.explore.org/stream-production-10/.m3u8", "location": "Explore.org", "category": "Live HLS"},
             {"name": "Top-of-Wall Underwater Reef Cam", "url": "https://outbound-production.explore.org/stream-production-565/.m3u8", "location": "Utopia Village, Utila, Bay Islands, Honduras", "category": "Live HLS"},
-            {"name": "Explore Live Cam 720", "url": "https://outbound-production.explore.org/stream-production-720/.m3u8", "location": "Explore.org", "category": "Live HLS"},
+            {"name": "Sandy Channel Underwater Reef Cam", "url": "https://outbound-production.explore.org/stream-production-720/.m3u8", "location": "Utopia Village, Utila, Bay Islands, Honduras", "category": "Live HLS"},
             {"name": "Explore Live Cam 319", "url": "https://outbound-production.explore.org/stream-production-319/.m3u8", "location": "Explore.org", "category": "Live HLS"},
             {"name": "Silver Springs Above Water Manatee Camera", "url": "https://outbound-production.explore.org/stream-production-761/.m3u8", "location": "Silver Springs, Florida", "category": "Live HLS"},
         ]
