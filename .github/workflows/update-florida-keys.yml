@@ -61,6 +61,7 @@ jobs:
             {"name": "Shark Lagoon", "url": "https://outbound-production.explore.org/stream-production-12/.m3u8", "location": "Long Beach, California, USA", "category": "Live HLS"},
             {"name": "Back-of-Dock Underwater Reef Cams", "url": "https://outbound-production.explore.org/stream-production-655/.m3u8", "location": "Utopia Village, Utila, Bay Islands, Honduras", "category": "Live HLS"},
             {"name": "Edge-of-Wall Underwater Reef Cam", "url": "https://outbound-production.explore.org/stream-production-767/.m3u8", "location": "Utopia Village, Utila, Bay Islands, Honduras", "category": "Live HLS"},
+            {"name": "USC Wrigley Catalina Marine Reserve", "url": "https://outbound-production.explore.org/stream-production-126/.m3u8", "location": "Big Fisherman Cove, Catalina Island, California, USA", "category": "Live HLS"},
         ]
         
         def validate_feed(feed_info, timeout=8):

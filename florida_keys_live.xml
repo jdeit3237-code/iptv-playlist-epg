@@ -24,6 +24,7 @@
   <channel id="fk_21"><display-name>Shark Lagoon</display-name><desc>Location: Long Beach, California, USA</desc><url>https://outbound-production.explore.org/stream-production-12/.m3u8</url></channel>
   <channel id="fk_22"><display-name>Back-of-Dock Underwater Reef Cams</display-name><desc>Location: Utopia Village, Utila, Bay Islands, Honduras</desc><url>https://outbound-production.explore.org/stream-production-655/.m3u8</url></channel>
   <channel id="fk_23"><display-name>Edge-of-Wall Underwater Reef Cam</display-name><desc>Location: Utopia Village, Utila, Bay Islands, Honduras</desc><url>https://outbound-production.explore.org/stream-production-767/.m3u8</url></channel>
+  <channel id="fk_24"><display-name>USC Wrigley Catalina Marine Reserve</display-name><desc>Location: Big Fisherman Cove, Catalina Island, California, USA</desc><url>https://outbound-production.explore.org/stream-production-126/.m3u8</url></channel>
   <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_01"><title>Dolphins Cam</title><desc>Location: Clearwater, Florida</desc></programme>
   <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_02"><title>Clearwater Marine Aquarium Dolphin Cam</title><desc>Location: Clearwater, Florida</desc></programme>
   <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_03"><title>Georgia Aquarium Moon Jelly Cam</title><desc>Location: Atlanta, Georgia</desc></programme>
@@ -47,4 +48,5 @@
   <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_21"><title>Shark Lagoon</title><desc>Location: Long Beach, California, USA</desc></programme>
   <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_22"><title>Back-of-Dock Underwater Reef Cams</title><desc>Location: Utopia Village, Utila, Bay Islands, Honduras</desc></programme>
   <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_23"><title>Edge-of-Wall Underwater Reef Cam</title><desc>Location: Utopia Village, Utila, Bay Islands, Honduras</desc></programme>
+  <programme start="20260718123857 +0000" stop="20260718183857 +0000" channel="fk_24"><title>USC Wrigley Catalina Marine Reserve</title><desc>Location: Big Fisherman Cove, Catalina Island, California, USA</desc></programme>
 </tv>
