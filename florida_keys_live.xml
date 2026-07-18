@@ -17,7 +17,7 @@
   <channel id="fk_14"><display-name>Dallas World Aquarium Underwater Rainforest Cam</display-name></channel>
   <channel id="fk_15"><display-name>Southernmost Point</display-name></channel>
   <channel id="fk_16"><display-name>Explore Live Cam 10</display-name></channel>
-  <channel id="fk_17"><display-name>Explore Live Cam 565</display-name></channel>
+  <channel id="fk_17"><display-name>Top-of-Wall Underwater Reef Cam</display-name></channel>
   <channel id="fk_18"><display-name>Explore Live Cam 720</display-name></channel>
   <channel id="fk_19"><display-name>Explore Live Cam 319</display-name></channel>
   <channel id="fk_20"><display-name>Silver Springs Above Water Manatee Camera</display-name></channel>
@@ -37,7 +37,7 @@
   <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_14"><title>Dallas World Aquarium Underwater Rainforest Cam</title></programme>
   <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_15"><title>Southernmost Point</title></programme>
   <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_16"><title>Explore Live Cam 10</title></programme>
-  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_17"><title>Explore Live Cam 565</title></programme>
+  <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_17"><title>Top-of-Wall Underwater Reef Cam</title></programme>
   <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_18"><title>Explore Live Cam 720</title></programme>
   <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_19"><title>Explore Live Cam 319</title></programme>
   <programme start="20260718073840 +0000" stop="20260718133840 +0000" channel="fk_20"><title>Silver Springs Above Water Manatee Camera</title></programme>
