@@ -179,24 +179,39 @@
       }
 
       function createTilePlayer(idx, videoId) {
+        const commonPlayerVars = {
+          autoplay: 1,
+          controls: 1,
+          rel: 0,
+          playsinline: 1,
+          mute: 1,
+          origin: window.location.origin,
+          widget_referrer: window.location.href
+        };
+
+        const onPlayerError = (event) => {
+          if (event.data === 153) {
+            alert("YouTube Error 153: browser privacy/ad-blocking is preventing embed authorization. Disable content blockers for this page and reload.");
+            return;
+          }
+          if (event.data === 101 || event.data === 150) {
+            alert("This video owner does not allow embedding. Pick another video from the playlist.");
+          }
+        };
+
         if (tilePlayers[idx]) {
           tilePlayers[idx].loadVideoById(videoId);
           return;
         }
         tilePlayers[idx] = new YT.Player(`player${idx}`, {
           videoId,
-          playerVars: {
-            autoplay: 1,
-            controls: 1,
-            rel: 0,
-            playsinline: 1,
-            mute: 1
-          },
+          playerVars: commonPlayerVars,
           events: {
             onReady: (event) => {
               event.target.mute();
               event.target.playVideo();
-            }
+            },
+            onError: onPlayerError
           }
         });
       }
@@ -241,7 +256,15 @@
         bootstrapPlayer = new YT.Player("bootstrap", {
           height: "1",
           width: "1",
-          playerVars: { listType: "playlist", list: playlistId, autoplay: 0, controls: 0, mute: 1 },
+          playerVars: {
+            listType: "playlist",
+            list: playlistId,
+            autoplay: 0,
+            controls: 0,
+            mute: 1,
+            origin: window.location.origin,
+            widget_referrer: window.location.href
+          },
           events: {
             onReady: () => {
               setTimeout(() => {
@@ -253,6 +276,11 @@
                 }
                 loadPlaylistIntoGrid(uniqueIds);
               }, 800);
+            },
+            onError: (event) => {
+              if (event.data === 153) {
+                alert("YouTube Error 153: browser privacy/ad-blocking is preventing embed authorization. Disable content blockers for this page and reload.");
+              }
             }
           }
         });
