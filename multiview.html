@@ -155,6 +155,7 @@
       let tilePlayers = [null, null, null, null];
       let activeTile = 0;
       let playlistVideoIds = [];
+      let currentPlaylistId = "";
 
       const playlistInput = document.getElementById("playlistInput");
       const loadBtn = document.getElementById("loadBtn");
@@ -216,6 +217,52 @@
         });
       }
 
+      function createOrLoadTileFromPlaylistIndex(idx, playlistId, playlistIndex) {
+        const commonPlayerVars = {
+          listType: "playlist",
+          list: playlistId,
+          index: playlistIndex,
+          autoplay: 1,
+          controls: 1,
+          rel: 0,
+          playsinline: 1,
+          mute: 1,
+          origin: window.location.origin,
+          widget_referrer: window.location.href
+        };
+
+        const onPlayerError = (event) => {
+          if (event.data === 153) {
+            alert("YouTube Error 153: browser privacy/ad-blocking is preventing embed authorization. Disable content blockers for this page and reload.");
+            return;
+          }
+          if (event.data === 101 || event.data === 150) {
+            alert("This video owner does not allow embedding. Pick another item in the playlist.");
+          }
+        };
+
+        if (tilePlayers[idx]) {
+          tilePlayers[idx].loadPlaylist({
+            listType: "playlist",
+            list: playlistId,
+            index: playlistIndex,
+            startSeconds: 0
+          });
+          return;
+        }
+
+        tilePlayers[idx] = new YT.Player(`player${idx}`, {
+          playerVars: commonPlayerVars,
+          events: {
+            onReady: (event) => {
+              event.target.mute();
+              event.target.playVideo();
+            },
+            onError: onPlayerError
+          }
+        });
+      }
+
       async function getVideoTitle(videoId) {
         try {
           const oembed = `https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=${videoId}&format=json`;
@@ -240,6 +287,18 @@
           const title = await getVideoTitle(videoId);
           button.textContent = title;
           button.title = title;
+        }
+
+        function renderPlaylistIndexBar(playlistId, count = 60) {
+          playlistItems.innerHTML = "";
+          for (let i = 0; i < count; i++) {
+            const button = document.createElement("button");
+            button.className = "playlist-item";
+            button.textContent = `Item ${i + 1}`;
+            button.title = `Load playlist item ${i + 1}`;
+            button.onclick = () => createOrLoadTileFromPlaylistIndex(activeTile, playlistId, i);
+            playlistItems.appendChild(button);
+          }
         }
       }
 
@@ -271,7 +330,12 @@
                 const ids = (bootstrapPlayer.getPlaylist && bootstrapPlayer.getPlaylist()) || [];
                 const uniqueIds = [...new Set(ids)];
                 if (!uniqueIds.length) {
-                  alert("Could not load videos from that playlist. Try a public playlist URL.");
+                  // Fallback mode: some playlists cannot expose metadata via API, but can still play by index.
+                  for (let i = 0; i < 4; i++) {
+                    createOrLoadTileFromPlaylistIndex(i, playlistId, i);
+                  }
+                  renderPlaylistIndexBar(playlistId, 60);
+                  alert("Playlist loaded in fallback mode. If titles are unavailable, use the Item buttons at the bottom to switch videos.");
                   return;
                 }
                 loadPlaylistIntoGrid(uniqueIds);
@@ -280,7 +344,13 @@
             onError: (event) => {
               if (event.data === 153) {
                 alert("YouTube Error 153: browser privacy/ad-blocking is preventing embed authorization. Disable content blockers for this page and reload.");
+                return;
               }
+              // Fallback mode for non-153 bootstrap errors.
+              for (let i = 0; i < 4; i++) {
+                createOrLoadTileFromPlaylistIndex(i, playlistId, i);
+              }
+              renderPlaylistIndexBar(playlistId, 60);
             }
           }
         });
@@ -292,6 +362,7 @@
           alert("Please paste a valid YouTube playlist URL or ID.");
           return;
         }
+        currentPlaylistId = playlistId;
         createBootstrapPlayer(playlistId);
       }
 
