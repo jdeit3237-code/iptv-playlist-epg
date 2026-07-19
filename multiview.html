@@ -1,9 +1,284 @@
 <!doctype html>
-<html>
-  <body style="margin:0;display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;gap:8px;background:black;height:100vh;">
-    <iframe src="https://www.youtube.com/embed/videoseries?list=PLCX-aDIYJAh4&index=0" allowfullscreen></iframe>
-    <iframe src="https://www.youtube.com/embed/videoseries?list=PLCX-aDIYJAh4&index=1" allowfullscreen></iframe>
-    <iframe src="https://www.youtube.com/embed/videoseries?list=PLCX-aDIYJAh4&index=2" allowfullscreen></iframe>
-    <iframe src="https://www.youtube.com/embed/videoseries?list=PLCX-aDIYJAh4&index=3" allowfullscreen></iframe>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>YouTube Multi-Screen Playlist Viewer</title>
+    <style>
+      :root {
+        color-scheme: dark;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+        background: #0b0b0c;
+        color: #f4f4f5;
+        display: grid;
+        grid-template-rows: auto 1fr auto;
+        min-height: 100vh;
+      }
+      .topbar {
+        display: flex;
+        gap: 10px;
+        padding: 12px;
+        border-bottom: 1px solid #1f1f22;
+        background: #111114;
+      }
+      .topbar input {
+        flex: 1;
+        padding: 10px 12px;
+        border: 1px solid #2d2d33;
+        border-radius: 8px;
+        background: #16161a;
+        color: #f4f4f5;
+      }
+      .topbar button {
+        padding: 10px 14px;
+        border: 1px solid #2d2d33;
+        border-radius: 8px;
+        background: #1f1f24;
+        color: #fff;
+        cursor: pointer;
+      }
+      .topbar button:hover {
+        background: #2a2a31;
+      }
+      .grid {
+        padding: 12px;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        gap: 12px;
+        min-height: 0;
+      }
+      .tile {
+        position: relative;
+        border: 2px solid #2a2a30;
+        border-radius: 10px;
+        overflow: hidden;
+        background: #000;
+        min-height: 180px;
+      }
+      .tile.active {
+        border-color: #4f8cff;
+      }
+      .tile-label {
+        position: absolute;
+        top: 8px;
+        left: 8px;
+        padding: 4px 8px;
+        border-radius: 6px;
+        background: rgba(0, 0, 0, 0.7);
+        font-size: 12px;
+        z-index: 2;
+      }
+      .player-host {
+        position: absolute;
+        inset: 0;
+      }
+      .playlist-bar {
+        border-top: 1px solid #1f1f22;
+        background: #111114;
+        padding: 10px;
+      }
+      .playlist-header {
+        font-size: 12px;
+        color: #b3b3bb;
+        margin-bottom: 8px;
+      }
+      .playlist-items {
+        display: flex;
+        gap: 8px;
+        overflow-x: auto;
+        padding-bottom: 4px;
+      }
+      .playlist-item {
+        white-space: nowrap;
+        max-width: 360px;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        border: 1px solid #2d2d33;
+        border-radius: 999px;
+        padding: 8px 12px;
+        background: #1a1a20;
+        color: #e6e6eb;
+        cursor: pointer;
+        font-size: 13px;
+      }
+      .playlist-item:hover {
+        background: #25252d;
+      }
+      .hint {
+        font-size: 12px;
+        color: #8f8f99;
+        margin-top: 8px;
+      }
+      #bootstrap {
+        width: 1px;
+        height: 1px;
+        opacity: 0;
+        pointer-events: none;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="topbar">
+      <input
+        id="playlistInput"
+        placeholder="Paste YouTube playlist URL or playlist ID (PL...)"
+      />
+      <button id="loadBtn">Load Playlist</button>
+    </div>
+
+    <div class="grid">
+      <div class="tile active" data-tile="0"><div class="tile-label">Tile 1</div><div id="player0" class="player-host"></div></div>
+      <div class="tile" data-tile="1"><div class="tile-label">Tile 2</div><div id="player1" class="player-host"></div></div>
+      <div class="tile" data-tile="2"><div class="tile-label">Tile 3</div><div id="player2" class="player-host"></div></div>
+      <div class="tile" data-tile="3"><div class="tile-label">Tile 4</div><div id="player3" class="player-host"></div></div>
+    </div>
+
+    <div class="playlist-bar">
+      <div class="playlist-header">Playlist (click an item to load it into the active tile)</div>
+      <div id="playlistItems" class="playlist-items"></div>
+      <div class="hint">Tip: click a tile first to choose where the next stream should load.</div>
+    </div>
+
+    <div id="bootstrap"></div>
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <script>
+      let ytReady = false;
+      let bootstrapPlayer = null;
+      let tilePlayers = [null, null, null, null];
+      let activeTile = 0;
+      let playlistVideoIds = [];
+
+      const playlistInput = document.getElementById("playlistInput");
+      const loadBtn = document.getElementById("loadBtn");
+      const playlistItems = document.getElementById("playlistItems");
+      const tiles = [...document.querySelectorAll(".tile")];
+
+      function parsePlaylistId(input) {
+        const raw = input.trim();
+        if (!raw) return "";
+        if (/^PL[\w-]+$/.test(raw) || /^UU[\w-]+$/.test(raw) || /^LL[\w-]+$/.test(raw)) return raw;
+        try {
+          const url = new URL(raw);
+          return url.searchParams.get("list") || "";
+        } catch {
+          return "";
+        }
+      }
+
+      function setActiveTile(idx) {
+        activeTile = idx;
+        tiles.forEach((tile, i) => tile.classList.toggle("active", i === idx));
+      }
+
+      function createTilePlayer(idx, videoId) {
+        if (tilePlayers[idx]) {
+          tilePlayers[idx].loadVideoById(videoId);
+          return;
+        }
+        tilePlayers[idx] = new YT.Player(`player${idx}`, {
+          videoId,
+          playerVars: {
+            autoplay: 1,
+            controls: 1,
+            rel: 0,
+            playsinline: 1,
+            mute: 1
+          },
+          events: {
+            onReady: (event) => {
+              event.target.mute();
+              event.target.playVideo();
+            }
+          }
+        });
+      }
+
+      async function getVideoTitle(videoId) {
+        try {
+          const oembed = `https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=${videoId}&format=json`;
+          const response = await fetch(oembed);
+          if (!response.ok) return videoId;
+          const data = await response.json();
+          return data.title || videoId;
+        } catch {
+          return videoId;
+        }
+      }
+
+      async function renderPlaylistBar(videoIds) {
+        playlistItems.innerHTML = "";
+        for (const videoId of videoIds) {
+          const button = document.createElement("button");
+          button.className = "playlist-item";
+          button.textContent = `Loading… (${videoId})`;
+          button.onclick = () => createTilePlayer(activeTile, videoId);
+          playlistItems.appendChild(button);
+
+          const title = await getVideoTitle(videoId);
+          button.textContent = title;
+          button.title = title;
+        }
+      }
+
+      function loadPlaylistIntoGrid(videoIds) {
+        playlistVideoIds = videoIds;
+        for (let i = 0; i < 4; i++) {
+          if (videoIds[i]) createTilePlayer(i, videoIds[i]);
+        }
+        renderPlaylistBar(videoIds);
+      }
+
+      function createBootstrapPlayer(playlistId) {
+        if (bootstrapPlayer) bootstrapPlayer.destroy();
+        bootstrapPlayer = new YT.Player("bootstrap", {
+          height: "1",
+          width: "1",
+          playerVars: { listType: "playlist", list: playlistId, autoplay: 0, controls: 0, mute: 1 },
+          events: {
+            onReady: () => {
+              setTimeout(() => {
+                const ids = (bootstrapPlayer.getPlaylist && bootstrapPlayer.getPlaylist()) || [];
+                const uniqueIds = [...new Set(ids)];
+                if (!uniqueIds.length) {
+                  alert("Could not load videos from that playlist. Try a public playlist URL.");
+                  return;
+                }
+                loadPlaylistIntoGrid(uniqueIds);
+              }, 800);
+            }
+          }
+        });
+      }
+
+      function onLoadClick() {
+        const playlistId = parsePlaylistId(playlistInput.value);
+        if (!playlistId) {
+          alert("Please paste a valid YouTube playlist URL or ID.");
+          return;
+        }
+        createBootstrapPlayer(playlistId);
+      }
+
+      loadBtn.addEventListener("click", onLoadClick);
+      playlistInput.addEventListener("keydown", (e) => {
+        if (e.key === "Enter") onLoadClick();
+      });
+
+      tiles.forEach((tile, idx) => {
+        tile.addEventListener("click", () => setActiveTile(idx));
+      });
+
+      window.onYouTubeIframeAPIReady = function () {
+        ytReady = true;
+      };
+    </script>
   </body>
 </html>
